@@ -15,6 +15,13 @@ the site is simply a pile of text files in markdown format (hosted [here](https:
 
 if you edit the files it will take ~60s for the changes to reflect on the site
 # To-do
+## make a note for each level
+- how to title them?
+	- ps1 titles? i dont remember if there were titles anywhere on pc version
+	- probably add colloquial titles (like mines, snowball, fire) as [aliases](https://quartz.jzhao.xyz/plugins/AliasRedirects)
+- how to organize?
+	- could make a folder for each world?
+	- could just leave all the notes (`.md` files) in root in a big pile, and make a MOC note?
 ## media folder
 we had better get images n stuff into a folder (like `quartz/content/media` or something), or this is gonna become a mess real fast
 
