@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Croc Speedrunning Notes",
+    pageTitle: "Croc 2 Speedrunning Notes",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
