@@ -3,6 +3,18 @@ title: Homepage
 ---
 testing testing 123
 
-check out the article for [[Hella Skip]]
+this aims to be a one stop shop for Croc 2 speedrunning knowledge
 
-[here](https://github.com/Thermospore/temp-quartz-test/tree/v4/content) is where all the markdown files for the site are hosted. if you edit them it will take ~60s for the changes to reflect on the site
+I envision at first it will mostly consist of jotted down notes and links to external resources (YouTube, Discord, Google Docs/Sheets, TCRF) aimed at current runners, but gradually turn into a proper wiki/documentation also accessible to new runners
+
+please feel free to add notes / info!
+
+there are not really any rules atm, just try to write in a way that will make sense to others (or yourself 5 years from now)
+
+the site is simply a pile of text files in markdown format (hosted [here](https://github.com/Thermospore/temp-quartz-test/tree/v4/content) on GitHub). you can edit the files right on the GitHub website, or clone the repo and edit with whatever you like ([[Thermospore]] likes Obsidian)
+
+if you edit the files it will take ~60s for the changes to reflect on the site
+# To-do
+we had better get images n stuff into a folder (like `quartz/content/media` or something), or this is gonna become a mess real fast
+
+probably gotta fiddle around with quartz (and obsidian) settings. [this](https://quartz.jzhao.xyz/plugins/CrawlLinks) might be a lead
