@@ -22,6 +22,8 @@ if you edit the files it will take ~60s for the changes to reflect on the site
 - how to organize?
 	- could make a folder for each world?
 	- could just leave all the notes (`.md` files) in root in a big pile, and make a MOC note?
+## theme
+right now the site just has the default quartz theme lol
 ## media folder
 we had better get images n stuff into a folder (like `quartz/content/media` or something), or this is gonna become a mess real fast
 
