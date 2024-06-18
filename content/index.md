@@ -15,6 +15,9 @@ the site is simply a pile of text files in markdown format (hosted [here](https:
 
 if you edit the files it will take ~60s for the changes to reflect on the site
 # To-do
+## media folder
 we had better get images n stuff into a folder (like `quartz/content/media` or something), or this is gonna become a mess real fast
 
 probably gotta fiddle around with quartz (and obsidian) settings. [this](https://quartz.jzhao.xyz/plugins/CrawlLinks) might be a lead
+## ^[this thing]
+I like citing sources with this thing^[url goes here] (like wikipedia style) cos it's very fast and easy. but it seems to not work on quartz - see [[Hella Skip]]. gotta either fix that or find a different way to cite
