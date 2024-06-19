@@ -16,5 +16,5 @@ the site is simply a pile of text files in markdown format (hosted [here](https:
 if you edit the files it will take ~60s for the changes to reflect on the site
 # Useful Stuff
 - [[External Resources]]
-- (list of notes for each level?)
+- [[List of Levels]]
 - [[Website Maintenance]]
