@@ -1,7 +1,8 @@
-[Here](https://www.speedrun.com/croc_2/forums/l2qjp) is a useful post by [[hdc0]] with info about cheat codes for the PC version
-
 the one you are probably looking for:
 > **Cheat Menu:** Hold A, press T, Left, Left, Right, Space, Up, Up, Left, C
+
+---
+[Here](https://www.speedrun.com/croc_2/forums/l2qjp) is a useful post by [[hdc0]] with info about cheat codes for the PC version
 
 [Here](https://www.youtube.com/watch?v=E0B_O-F742E) is a weird glitch with the cheat menu
 
