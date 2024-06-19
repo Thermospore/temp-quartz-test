@@ -1,3 +1,4 @@
+still need secret, the hub maps, also smp?
 # Sailor
 - [[1-1 Find the Key! Save the Gobbo!]]
 - [[1-2 Find 5 Lost Treasure Chests]]
