@@ -1,6 +1,7 @@
 # To-do
 ## Explorer panel doesn't show up when window is too narrow
 applies to both desktop and mobile
+
 ![[Pasted image 20240621191233.png]]
 ## add a panel / page that lists recently updated / added notes
 I'd be surprised if there isn't a way
