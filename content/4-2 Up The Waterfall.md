@@ -1,9 +1,11 @@
 ---
 aliases:
   - Machine
+  - Waterfall
 ---
-wait do we call it waterfall too? gotta check
+[[Pasted image 20240621220022.png|this]] box is sus; sometimes you can just fall through the ground when stomping it (to fall through the ground, do you have to hold the stomp all the way through, such that you stomp on the ground as well?)
 
-idk if you can see on the website, but I'm referring to the alias. rn I'm just going through each level and adding my split name as an alias
+some [[Upwarp]]s here, such as [[Pasted image 20240621220614.png|this one]], you can fall through the ground if you aren't careful
 
-![[Pasted image 20240619214138.png]]
+you can skip up the waterfall here from the bridge by frontflipping into it
+![[Pasted image 20240621223327.png]]
