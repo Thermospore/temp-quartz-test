@@ -10,4 +10,5 @@ You can stop a baby from crying by throwing it down the slide. You don't have to
 - oob and land on the [[Clockwork Gobbo]] section behind the wall
 
 You can stomp on these pots, allowing you to do unintended things. For example, skipping this comically buggy ladder
+
 ![[Pasted image 20240621194901.png]]

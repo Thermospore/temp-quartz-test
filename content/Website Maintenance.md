@@ -15,13 +15,19 @@ probably gotta fiddle around with quartz (and obsidian) settings. [this](https:/
 right now the site just has the default quartz theme lol
 ## can't search by alias...
 ![[Pasted image 20240621191418.png]]
+## should we merge these pull requests or no?
+might have to ask about this on the quartz discord
+
+![[Pasted image 20240622154648.png]]
 ## aliases aren't shown at the top of the page?
 ![[Pasted image 20240619213235.png]]
+
 ![[Pasted image 20240619213149.png]]
 ## graph doesn't appear to show a node for articles that don't exist?
 low priority
 
 (btw the pages exist now, so the graph will be populated if you look at it now)
+
 ![[Pasted image 20240619205558.png]]
 
 ![[Pasted image 20240619205739.png]]
