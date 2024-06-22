@@ -1,3 +1,5 @@
+There is no windowed option, but you can achieve this with something like [[DXWnd]] or [[D3DWindower]] (with mixed results)
+
 if you set the resolution to widescreen, the game becomes visibly stretched
 
 (what is the internal aspect ratio? 4:3?)
