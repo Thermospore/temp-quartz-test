@@ -10,6 +10,8 @@ Believe it or not, you can simply jump [[Pasted image 20240623212115.png|these]]
 
 In [[Pasted image 20240623214340.png|this]] cave, you can get back to the upper section without using a [[Balloon]]. If you jump inside a crate as it spawns, you will [[Upwarp]] on top ([[thief_crate_upwarp.mkv|video]] - either link a video or see if converting from mkv -> mp4 or something will allow the vid to play without having to download) (actually, find on discord when this was discovered)
 
+In the same cave, when doubling back [here](https://youtu.be/wdRyuLa9R8M&t=5) in [[Max%]] you can skip waiting for the crate to respawn with a tricky front flip. Similarly, when doubling back for the last crystal you can skip waiting for the box [like so](https://youtu.be/wdRyuLa9R8M&t=47) (it aint easy, but there is a [[Balloon]] right near by for easy recovery)
+
 The green gummy jump up to the [[Clockwork Gobbo]] [[Pasted image 20240623214912.png|here]] can be skipped by:
 - doing a [[Cage Skip]]
 - using a blue gummy jump
