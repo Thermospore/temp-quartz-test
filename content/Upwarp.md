@@ -1,7 +1,7 @@
 (specifically, [this](https://youtu.be/IiwgHgq1IGs) upwarp)
 (actually maybe edit this page to be for upwarps in general, with [this](https://youtu.be/IiwgHgq1IGs) upwarp being a specific type)
 
-who discovered this? chef?
+Discovered by [[Cheftoad]] on 2018-5-18 [original video](https://clips.twitch.tv/BoringBeautifulScallionUncleNox)
 
 [tutorial](https://youtu.be/IiwgHgq1IGs)
 
