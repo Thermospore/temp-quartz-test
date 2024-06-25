@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Machine
   - Waterfall
+  - Machine
 ---
 on entry: hold ⬈ then immediately switch to ⬆
 

@@ -2,7 +2,7 @@
 aliases:
   - Sailor Jigsaw
 ---
-hold ➚ on entry
+hold ➚ on entry (I guess more like → for [[Max%]])
 
 if only you could clip into the cage to grab the Jigsaw piece early... (many attempts have been made)
 
