@@ -1,16 +1,18 @@
 # To-do
-## raid the manual / in game dialogue for nouns
+## raid the croc 2 manual / in game dialogue for nouns
 so we make articles n stuff using the proper name for things
 ## Explorer panel doesn't show up when window is too narrow
 applies to both desktop and mobile
 
+ok this can probably be fixed in [the layout](https://quartz.jzhao.xyz/layout)
+
 ![[Pasted image 20240621191233.png]]
 ## add a panel / page that lists recently updated / added notes
-I'd be surprised if there isn't a way
+eyyyy see [here](https://quartz.jzhao.xyz/features/recent-notes)
 ## ^[this thing]
 I like citing sources with this wikipedia-style thing^[url goes here] cos it's very fast and easy. but it seems to not work on quartz. gotta either fix that or find a different way to cite. (there are some citations in [[Hella Skip]], to test)
 ## media folder
-we had better get images n stuff into a folder (like `quartz/content/media` or something), or this is gonna become a mess real fast
+we had better get images n stuff into a folder (like `quartz/content/media` or something), or this is gonna [[Pasted image 20240626223540.png|become a mess]] real fast
 
 probably gotta fiddle around with quartz (and obsidian) settings. [this](https://quartz.jzhao.xyz/plugins/CrawlLinks) might be a lead
 ## theme
