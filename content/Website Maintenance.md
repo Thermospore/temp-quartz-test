@@ -1,4 +1,6 @@
 # To-do
+## raid the manual / in game dialogue for nouns
+so we make articles n stuff using the proper name for things
 ## Explorer panel doesn't show up when window is too narrow
 applies to both desktop and mobile
 
