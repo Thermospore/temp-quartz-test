@@ -6,9 +6,16 @@ applies to both desktop and mobile
 
 ok this can probably be fixed in [the layout](https://quartz.jzhao.xyz/layout)
 
-![[Pasted image 20240621191233.png]]
-## add a panel / page that lists recently updated / added notes
-eyyyy see [here](https://quartz.jzhao.xyz/features/recent-notes)
+ok I replaced the graph on mobile with the explorer, but it looks terrible lol
+
+would be nice if it could be under one of those burger things 三 and pop out of the side, maybe
+
+![[Pasted image 20240627223132.png]]
+## add a panel / page that lists recently updated / added notes see [here](https://quartz.jzhao.xyz/features/recent-notes)
+
+uhhh ok I tried adding the component but it doesn't actually show recent notes lol
+
+![[Pasted image 20240627222933.png]]
 ## ^[this thing]
 I like citing sources with this wikipedia-style thing^[url goes here] cos it's very fast and easy. but it seems to not work on quartz. gotta either fix that or find a different way to cite. (there are some citations in [[Hella Skip]], to test)
 ## media folder
