@@ -1,5 +1,5 @@
 ---
 aliases:
-  - Icecube
   - Iceblock
+  - Icecube
 ---
