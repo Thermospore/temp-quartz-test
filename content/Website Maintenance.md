@@ -1,17 +1,18 @@
 # To-do
 ## raid the croc 2 manual / in game dialogue for nouns
 so we make articles n stuff using the proper name for things
-## Explorer panel doesn't show up when window is too narrow
-applies to both desktop and mobile
+## Explorer panel doesn't show up in mobile view
+(BTW even on desktop the mobile view is used when the window is narrow)
 
-ok this can probably be fixed in [the layout](https://quartz.jzhao.xyz/layout)
+ok this can probably be changed in [the layout](https://quartz.jzhao.xyz/layout)
 
-ok I replaced the graph on mobile with the explorer, but it looks terrible lol
-
-would be nice if it could be under one of those burger things 三 and pop out of the side, maybe
+ok I replaced the graph on mobile with the explorer, but it looks terrible lol:, maybe
 
 ![[Pasted image 20240627223132.png]]
-## add a panel / page that lists recently updated / added notes see [here](https://quartz.jzhao.xyz/features/recent-notes)
+
+would be nice if it could be under one of those burger things 三 and pop out of the side, maybe
+## add a panel / page that lists recently updated / added notes
+see [here](https://quartz.jzhao.xyz/features/recent-notes)
 
 uhhh ok I tried adding the component but it doesn't actually show recent notes lol
 

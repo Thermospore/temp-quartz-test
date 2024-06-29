@@ -11,7 +11,7 @@ please feel free to add notes / info!
 
 there are not really any rules atm, just try to write in a way that will make sense to others (and yourself 5 years from now)
 
-the site is simply a pile of text files in markdown format (hosted [here](https://github.com/Thermospore/temp-quartz-test/tree/v4/content) on GitHub). you can edit the files right on the GitHub website, or clone the repo and edit with whatever you like ([[Thermospore]] likes Obsidian)
+the site is simply a pile of text files in markdown format (hosted [here](https://github.com/Thermospore/temp-quartz-test/tree/v4/content) on GitHub). you can edit the files right on the GitHub website, or clone the repo and edit with whatever you like ([[Thermospore]] likes [Obsidian](https://obsidian.md/))
 
 if you edit the files it will take ~60s for the changes to reflect on the site
 # Useful Stuff
