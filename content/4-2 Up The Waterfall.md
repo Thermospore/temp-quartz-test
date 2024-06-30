@@ -9,7 +9,7 @@ wait wasn't there some sort of crazy skip right at the entrance? like you jump o
 
 you can skip up the waterfall [[Pasted image 20240621223327.png|here]] from the bridge by frontflipping into it
 
-it is *possible* to front flip up [[Pasted image 20240622174313.png|this]] wall at the start, saving a gummy jump, but it is quite hard and we can just do an [[Upwarp]] now
+it is *possible* to front flip up [[Pasted image 20240622174313.png|this]] wall at the start, saving a [[Jelly Jump|Gummi Jump]], but it is quite hard and we can just do an [[Upwarp]] now
 
 [[Pasted image 20240621220022.png|this]] box is sus; sometimes you can just fall through the ground when stomping it (to fall through the ground, do you have to hold the stomp all the way through, such that you stomp on the ground as well?)
 

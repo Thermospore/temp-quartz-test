@@ -17,6 +17,8 @@ see [here](https://quartz.jzhao.xyz/features/recent-notes)
 uhhh ok I tried adding the component but it doesn't actually show recent notes lol
 
 ![[Pasted image 20240627222933.png]]
+
+I guess we could simply link to the github commit history page or something?
 ## ^[this thing]
 I like citing sources with this wikipedia-style thing^[url goes here] cos it's very fast and easy. but it seems to not work on quartz. gotta either fix that or find a different way to cite. (there are some citations in [[Hella Skip]], to test)
 ## media folder

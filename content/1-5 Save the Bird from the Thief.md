@@ -12,8 +12,8 @@ In [[Pasted image 20240623214340.png|this]] cave, you can get back to the upper 
 
 In the same cave, when doubling back [here](https://youtu.be/wdRyuLa9R8M&t=5) in [[Max%]] you can skip waiting for the crate to respawn with a tricky front flip. Similarly, when doubling back for the last crystal you can skip waiting for the box [like so](https://youtu.be/wdRyuLa9R8M&t=47). it aint easy, but there is a [[Balloon]] right near by for easy recovery. additionally, you can try to [[Hazard Jump]] the boxes, so they don't break in the first place
 
-The green gummy jump up to the [[Clockwork Gobbo]] [[Pasted image 20240623214912.png|here]] can be skipped by:
+The green [[Jelly Jump|Gummi Jump]] up to the [[Clockwork Gobbo]] [[Pasted image 20240623214912.png|here]] can be skipped by:
 - doing a [[Cage Skip]]
-- using a blue gummy jump
+- using a blue gummi jump
 
 The [[Clockwork Gobbo]] has a [[Heart Pot]] at the end (I believe this is the only level with a heart pot..? apart from the simon says game in sailor hub)
