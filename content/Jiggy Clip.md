@@ -1,4 +1,4 @@
-The glitch where you clip into [[3-G Caveman Tribe - Secret Mine]] without meeting the 5 trophy requirement
+The glitch where you clip into [[3-G Caveman Tribe - Secret Mine]] without meeting the 5 [[Golden Gobbo]] requirement
 
 Discovered on 2019-09-12 by [[Paulmall]] ([original video](https://discord.com/channels/313375426112389123/408694062862958592/621627275926044672))
 

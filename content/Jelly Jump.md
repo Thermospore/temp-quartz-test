@@ -44,6 +44,11 @@ Unfortunately, you can not [[Hazard Jump]] on the ground to maintain the super s
 Try freezing the value using [[Cheat Engine]]; croc walks around with super speed and it is quite fun ^^
 
 ---
+Blurb from the US PC manual:
+
+![[Pasted image 20240701202018.png]]
+
+---
 Need to implement this info from [[hdc0]] into this note:
 > `Croc2.exe+222C34` (aka `0x622C34`) is `WorldGlobals[14]`
 > 

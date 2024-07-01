@@ -15,8 +15,8 @@ it is *possible* to front flip up [[Pasted image 20240622174313.png|this]] wall 
 
 some [[Upwarp]]s here, such as [[Pasted image 20240621220614.png|this one]], you can fall through the ground if you aren't careful
 
-what's up with the cycle on the last rope on the golden gobbo again, can you make it? maybe had something to do with the rope only being active when you are within a certain range 
+what's up with the cycle for the last [[Rope]] in the [[Golden gobbo]] room again, can you make it? maybe had something to do with the rope only being active when you are within a certain range 
 
-For [[Max%]] there might be a crazy route utilizing [[Upwarp]]s / gongs / that skip at the entrance... (look into this later)
+For [[Max%]] there might be a crazy route utilizing [[Upwarp]]s / [[Save Gong]]s / that skip at the entrance... (look into this later)
 
 [here](https://youtu.be/0QLApkMw2SE) is a crazy [[100%|hundo]] route by [[Paulmall]] for inspiration, which was originally posted [here](https://discord.com/channels/313375426112389123/408694062862958592/742347416899944569) (currently in [[100%]] we just do the [[Any%]] route for waterfall)

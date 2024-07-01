@@ -1,4 +1,3 @@
-still need secret, the hub maps, also smp?
 # Sailor
 - [[1-1 Find the Key! Save the Gobbo!]]
 - [[1-2 Find 5 Lost Treasure Chests]]
@@ -40,8 +39,10 @@ I got this started by just lazily copying and pasting from [the SRC IL leaderboa
 
 IDK where the level names came from; PS1? should check for errors / consistency
 
-should probably add colloquial names (like mines, snowball, fire) to the notes as [aliases](https://quartz.jzhao.xyz/plugins/AliasRedirects)
-
 not sure how to best organize the notes for the levels yet. we could do some combo of:
 - organizing them into a folder structure (currently the `.md` file for each level is just sitting in the root folder)
-- have a note with a list of all the levels (as in, the note you are currently reading: [[List of Levels]])
+- MOC (map of content)
+	- the note you are currently reading, with a list of every single level
+	- a note for each hub world, listing all the levels in it?
+
+still need [[Lost Levels|Secret]], the hub maps, also [[Swap Meet Pete|SMP]]? what about all the other `.wad` files?
