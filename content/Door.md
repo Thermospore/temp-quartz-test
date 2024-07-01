@@ -2,7 +2,7 @@ Yeah, doors. There is actually a surprising amount of door tech.
 
 buffering a stomp or a [[Jelly Jump|Gummi Jump]] through doors
 
-jumping out of movement locks after leaving a door (I guess that isn't exclusive to doors; you can also do this when coming out of the [[Golden gobbo]] zone in [[2-5 KaBoom! It's Roger Red Ant|Roger]], for example)
+jumping out of movement locks after leaving a door (I guess that isn't exclusive to doors; you can also do this when coming out of the [[Golden Gobbo]] zone in [[2-5 KaBoom! It's Roger Red Ant|Roger]], for example)
 
 clipping through doors, like in [[3-1 Find the Wheels in the Jungle!|Jungle]] or [[3-3 Race Day at Goldrock|Kart]] (wait didn't [[Paulmall]] clip into [[1-B1 Soveena the Squid|Soveena]]?)
 

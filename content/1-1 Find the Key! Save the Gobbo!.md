@@ -8,4 +8,4 @@ You can oob [[Pasted image 20240625223031.png|here]] [like so](https://discord.c
 
 You are able to jump the gap around [[Pasted image 20240625221042.png|this]] tree (like in [[1-5 Save the Bird from the Thief|Thief]]), but in [[Max%]] there is a [[Crystal]] box you need to grab on the other side.
 
-You can skip the [[rope]] in the [[Golden gobbo]] room with a front flip ([[cage_gg_ff.mkv|video]])
+You can skip the [[Rope]] in the [[Golden Gobbo]] room with a front flip ([[cage_gg_ff.mkv|video]])

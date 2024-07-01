@@ -1,4 +1,10 @@
 # To-do
+## quartz issue with capitalization in links
+(need to go to bed; will clarify this later)
+
+![[Pasted image 20240701224025.png]]
+
+![[Pasted image 20240701224033.png]]
 ## Explorer panel doesn't show up in mobile view
 (BTW even on desktop the mobile view is used when the window is narrow)
 
