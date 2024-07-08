@@ -1,6 +1,6 @@
 Yeah, doors. There is actually a surprising amount of door tech.
 
-buffering a stomp or a [[Jelly Jump|Gummi Jump]] through doors
+buffering a stomp or a [[Jelly Jump|Gummi Jump]] (see: [[Gummi Buffer]]) through doors
 
 jumping out of movement locks after leaving a door (I guess that isn't exclusive to doors; you can also do this when coming out of the [[Golden Gobbo]] zone in [[2-5 KaBoom! It's Roger Red Ant|Roger]], for example)
 

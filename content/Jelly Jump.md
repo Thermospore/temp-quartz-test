@@ -5,6 +5,8 @@ aliases:
   - Gummi
   - Gummy
 ---
+(see also: [[Gummi Buffer]])
+
 Depending on which release of the game you have, these have a variety of shapes, sizes, and names (see [here](https://tcrf.net/Croc_2_(Windows,_PlayStation)#Regional_Differences) on TCRF)
 
 Most runners tend to run on a US PC version, so these usually are referred to as blue, green, and purple gummi jumps
@@ -12,6 +14,8 @@ Most runners tend to run on a US PC version, so these usually are referred to as
 ![[Pasted image 20240630203500.png]]
 
 Green and purple actually bounce you up the exact same height. The difference is that purple gives you a big horizontal speed boost
+
+Using purple gummies in general likely saves time due to the horizontal speed boost,  even in [[Any%]]. There may even be time differences between US and EU, due to the size/shape difference. (see discussion [here](https://discord.com/channels/313375426112389123/408694062862958592/1259849022689120338))
 
 When you do a gummi jump, the following memory addresses are written as so:
 
