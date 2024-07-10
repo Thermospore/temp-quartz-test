@@ -7,6 +7,8 @@ on entry: hold ⬈ then immediately switch to ⬆
 
 wait wasn't there some sort of crazy skip right at the entrance? like you jump over the wall and skip into some section?
 
+near the entrance, you can do a [[Gummi Buffer]] into the [[Golden Gobbo]] room and make it to the first platform [[waterfall_gg_gummi_buffer.mp4|like so]]
+
 you can skip up the waterfall [[Pasted image 20240621223327.png|here]] from the bridge by frontflipping into it
 
 it is *possible* to front flip up [[Pasted image 20240622174313.png|this]] wall at the start, saving a [[Jelly Jump|Gummi Jump]], but it is quite hard and we can just do an [[Upwarp]] now

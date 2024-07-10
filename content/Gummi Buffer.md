@@ -4,6 +4,8 @@ it works through
 - [[Door]]s (that article needs to be re-worked btw)
 - [[Golden Gobbo]] warps
 - [[Climbing Wall]]s (maybe ladders too?)
+	- unfortunately there don't seem to be any [[Jelly Jump|Gummi Jump]]s close enough :snowsad:
+	- it's possible the developers were aware of this and intentionally didn't put any Gummis close enough
 - maybe more
 
 It does not seem to work through
