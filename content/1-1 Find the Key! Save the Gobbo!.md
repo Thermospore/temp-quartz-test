@@ -16,7 +16,7 @@ You can oob [[Pasted image 20240625223031.png|here]] [like so](https://discord.c
 
 You are able to jump the gap around [[Pasted image 20240625221042.png|this]] tree (like in [[1-5 Save the Bird from the Thief|Thief]]), but in [[Max%]] there is a [[Crystal]] box you need to grab on the other side.
 
-You can skip the [[Rope]] in the [[Golden Gobbo]] room with a front flip ([[cage_gg_ff.mkv|video]])
+You can skip the [[Rope]] in the [[Golden Gobbo]] room with a front flip ([[cage_gg_ff.mp4|video]])
 
 You can [[Gummi Buffer]] out the final [[Door]] with a purple [[Jelly Jump|Gummi Jump]], but it is a little tricky; kinda like threading a needle. There is a bit of a setup, though: walk straight off the edge (facing towards where the blue [[Color Crystal|Gem]] was), bounce off the right side of the [[Jelly Jump|Gummi]], then just hold straight towards the right side of the door ([like so](https://www.youtube.com/watch?v=T37o_0degGA&t=142s))
 

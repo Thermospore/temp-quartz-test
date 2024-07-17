@@ -12,3 +12,6 @@ You can stop a baby from crying by throwing it down the slide. You don't have to
 You can stomp on these pots, allowing you to do unintended things. For example, skipping this comically buggy ladder
 
 ![[Pasted image 20240621194901.png]]
+# Baby Zipping
+## Discovery
+[[TheCrypticJacknife]] posted [this](https://youtu.be/Fybv6fa7mNk) YouTube video on 2011/02/08 demonstrating the glitch. 

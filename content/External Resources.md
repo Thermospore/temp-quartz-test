@@ -1,5 +1,6 @@
 Useful / important external resources
 - [SRC leaderboard](https://www.speedrun.com/croc_2)
+- [Speed Demos Archive thread](https://forum.speeddemosarchive.com/post/croc_2_pc_version.html)
 - [here](https://web.archive.org/web/20000620105750/http://www.foxinteractive.com/games/croc2/) is the original Croc 2 website, archived on Wayback Machine
 - [Croc-2-mods](https://github.com/hdc0/Croc-2-mods) - juicy repo by [[hdc0]] with various tools and documentation
 - [PS1-Argonaut-Reverse](https://github.com/OverSurge/PS1-Argonaut-Reverse) - juicy repo by [[OverSurge]] with docs and asset extraction scripts
