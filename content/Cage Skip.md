@@ -1,3 +1,3 @@
 (left side) cage skip found [here](https://www.youtube.com/watch?v=u0RS7hTrOA4) by [[-o-]], posted [here](https://discord.com/channels/313375426112389123/408694062862958592/419523187064438784) on Discord by [[hdc0]]
 
-right side cage skip found by [[Cheftoad]] [here](https://discord.com/channels/313375426112389123/408694062862958592/448107691496439809) (actually, maybe this should be in a separate note)
+right side cage skip found by [[Cheftoad]] [here](https://discord.com/channels/313375426112389123/408694062862958592/448107691496439809) (actually, maybe this should be in a separate note?)

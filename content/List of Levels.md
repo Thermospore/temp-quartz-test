@@ -7,6 +7,8 @@
 - [[1-B1 Soveena the Squid]]
 - [[1-B2 Cannon Boat Keith]]
 - [[1-G Sailor Tribe - Secret Mine]]
+
+(putting this here for now since there isn't a note for sailor / sailor hub yet: you can oob on the welcome door lmao [link](https://youtu.be/Qis5U9ihdd8&t=158))
 # Cossack
 - [[2-1 Save the Ice Trapped Gobbos!]]
 - [[2-2 Chase the Choo Choo Train]]
