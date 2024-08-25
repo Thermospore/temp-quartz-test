@@ -1,4 +1,6 @@
 # To-do
+## this broken link in [[Pause Menu]]
+![[Pasted image 20240825191532.png]]
 ## quartz issue with capitalization in links
 (need to go to bed; will clarify this later)
 

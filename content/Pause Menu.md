@@ -1,4 +1,3 @@
-You can access:
 - [[Display Options]]
 - [[Sound Options]]
 - [[Controller Options#Define Controls]]
