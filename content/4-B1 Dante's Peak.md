@@ -12,7 +12,7 @@ Basically, you just have to make sure Croc is within a certain area on screen, a
 
 ![[Pasted image 20240825213121.png]]
 
-Previous setups used Croc's bullet stream to line up, but you can line up with waaaaaay more precision using the position of croc himself relative to the clouds!!
+Previous setups used Croc's bullet stream to line up, but you can line up with waaaaaay more precision using the position of Croc himself relative to the clouds!!
 
 Also when you let off the controls, Croc still has a ton of residual inertia. If you look directly at Croc it is much easier to kill this inertia and ensure you don't drift out of range.
 ## Valid range
