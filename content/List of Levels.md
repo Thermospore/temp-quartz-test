@@ -8,7 +8,7 @@
 - [[1-B2 Cannon Boat Keith]]
 - [[1-G Sailor Tribe - Secret Mine]]
 
-(putting this here for now since there isn't a note for sailor / sailor hub yet: you can oob on the welcome door lmao [link](https://youtu.be/Qis5U9ihdd8&t=158))
+(putting this here for now since there isn't a note for sailor / sailor hub yet: you can [[Oob]] on the welcome door lmao [link](https://youtu.be/Qis5U9ihdd8&t=158))
 # Cossack
 - [[2-1 Save the Ice Trapped Gobbos!]]
 - [[2-2 Chase the Choo Choo Train]]
@@ -19,7 +19,7 @@
 - [[2-B2 Lava Lamp Larry]]
 - [[2-G Cossack Tribe - Secret Ice Cap]]
 
-(putting this here for now since there isn't a note for cossack / cossack hub yet: Cossack hub is known for having glitchy walls where you can OoB. [[TheCrypticJacknife]] uploaded [this](https://youtu.be/d5pRPYWzC94) YouTube video in 2011-01-26 demonstrating an OoB near [[2-4 Hang Glider Valley|Glider]]. There is an unusual OoB by [[2-B2 Lava Lamp Larry|Larry]]'s tree ([[cossack_oob.mp4|video]]) where you can get stuck in a hole underground, and it's difficult to get out.)
+(putting this here for now since there isn't a note for cossack / cossack hub yet: Cossack hub is known for having glitchy walls where you can [[Oob]]. [[TheCrypticJacknife]] uploaded [this](https://youtu.be/d5pRPYWzC94) YouTube video in 2011-01-26 demonstrating an OoB near [[2-4 Hang Glider Valley|Glider]]. There is an unusual OoB by [[2-B2 Lava Lamp Larry|Larry]]'s tree ([[cossack_oob.mp4|video]]) where you can get stuck in a hole underground, and it's difficult to get out.)
 # Caveman
 - [[3-1 Find the Wheels in the Jungle!]]
 - [[3-2 Find the Wheels in the Mine!]]

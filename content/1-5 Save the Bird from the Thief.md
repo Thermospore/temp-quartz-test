@@ -1,8 +1,9 @@
 ---
 aliases:
   - Thief
+  - Theif
 ---
-In [[Any%]], you can kill the Theif as early as [here](https://youtu.be/dRv3UE2Tbzw&t=438). This was demonstrated in [this](https://youtu.be/bbE3VtKJsIQ) 2011-04-20 YouTube video by [[TheCrypticJacknife]]
+In [[Any%]], you can kill the Thief as early as [here](https://youtu.be/dRv3UE2Tbzw&t=438). This was demonstrated in [this](https://youtu.be/bbE3VtKJsIQ) 2011-04-20 YouTube video by [[TheCrypticJacknife]]
 
 The Thief can also be killed early [here](https://youtu.be/OGYPKGV6ONs&t=34)
 

@@ -12,7 +12,7 @@ When grabbing the green [[Color Crystal|Gem]] and [[Death Abuse|DA]]ing back to 
 	- fast, but you don't get a heart and you risk missing the gem
 	- [[2024-07-02 21-57-29.mp4|video]]
 
-You can oob [[Pasted image 20240625223031.png|here]] [like so](https://discord.com/channels/313375426112389123/408694062862958592/478417669163450378), fwiw (is this geometry elsewhere? could come in handy for a [[Death Abuse|DA]])
+You can [[Oob]] [[Pasted image 20240625223031.png|here]] [like so](https://discord.com/channels/313375426112389123/408694062862958592/478417669163450378), fwiw (is this geometry elsewhere? could come in handy for a [[Death Abuse|DA]])
 
 You are able to jump the gap around [[Pasted image 20240625221042.png|this]] tree (like in [[1-5 Save the Bird from the Thief|Thief]]), but in [[Max%]] there is a [[Crystal]] box you need to grab on the other side.
 
