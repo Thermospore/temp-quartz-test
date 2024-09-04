@@ -8,7 +8,7 @@
 - [[1-B2 Cannon Boat Keith]]
 - [[1-G Sailor Tribe - Secret Mine]]
 
-(putting this here for now since there isn't a note for sailor / sailor hub yet: you can [[Oob]] on the welcome door lmao [link](https://youtu.be/Qis5U9ihdd8&t=158))
+(putting this here for now since there isn't a note for sailor / sailor hub yet: you can [[Oob]] on the welcome door lmao [link](https://youtu.be/Qis5U9ihdd8&t=158). ALSO [this](https://discord.com/channels/313375426112389123/408694062862958592/1280522049764331645) heartpot minigame thing)
 # Cossack
 - [[2-1 Save the Ice Trapped Gobbos!]]
 - [[2-2 Chase the Choo Choo Train]]
