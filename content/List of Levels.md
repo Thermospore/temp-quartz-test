@@ -50,3 +50,4 @@ not sure how to best organize the notes for the levels yet. we could do some com
 	- a note for each hub world, listing all the levels in it?
 
 still need [[Lost Levels|Secret]], the hub maps, also [[Swap Meet Pete|SMP]]? what about all the other `.wad` files?
+- add [this](https://discord.com/channels/313375426112389123/408694062862958592/1281219829826719878) somewhere!! you can jump up this platform in secret thief without a stomp!
