@@ -41,5 +41,6 @@ IDK where the level names came from; PS1? should check for errors / consistency
 
 still need [[Lost Levels|Secret]], also [[Swap Meet Pete|SMP]]? what about all the other `.wad` files?
 - add [this](https://discord.com/channels/313375426112389123/408694062862958592/1281219829826719878) somewhere!! you can jump up this platform in secret thief without a stomp!
+- also [this](https://discord.com/channels/313375426112389123/408694062862958592/520828594902269953)!!
 
 currently the list of levels in each hub is written in this note, and the note for each hub (ie [[Sailor Village]]) references the list stored in this note. maybe invert it so the list is in the hub note and this note references that. I think it would make things a bit prettier and the graph would look nicer too haha
