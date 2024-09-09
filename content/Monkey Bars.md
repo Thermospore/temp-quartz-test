@@ -1,3 +1,3 @@
 ![[Pasted image 20240701201531.png]]
-
-[Here](https://discord.com/channels/313375426112389123/408694062862958592/668804657572741130) is a video of [[Paulmall]] randomly dropping off monkey bars towards the end of [[1-3 Get the Gobbo's Sandwich!|Crow]]. [6 Days later](https://discord.com/channels/313375426112389123/408694062862958592/670727693100122132), [[Thermospore]] had the same thing happen (presumably in the same location)
+# Randomly dropping off
+[Here](https://discord.com/channels/313375426112389123/408694062862958592/668804657572741130) is a video of [[Paulmall]] randomly dropping off Monkey Bars towards the end of [[1-3 Get the Gobbo's Sandwich!|Crow]]. [6 Days later](https://discord.com/channels/313375426112389123/408694062862958592/670727693100122132), [[Thermospore]] had the same thing happen (presumably in the same location). [[rubbishbinman]] also had a random Monkey Bars drop earlier in the same level ([video](https://youtu.be/YquOqQz36uU&t=900))

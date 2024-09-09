@@ -4,7 +4,7 @@ aliases:
 ---
 ![[Pasted image 20240701210452.png]]
 
-We call this "Secret" for whatever reason. Not to be confused with the [[Secret Levels]]
+We call this "Secret" for whatever reason. Not to be confused with the [[Secret Level]]s
 
 OH I FOUND THE REASON, I guess they do call it "Secret" in the Load Game screen...
 

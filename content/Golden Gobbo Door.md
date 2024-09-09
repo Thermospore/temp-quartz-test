@@ -2,7 +2,7 @@
 aliases:
   - Jigsaw Door
 ---
-(see: [[Secret Levels]])
+(see: [[Secret Level]])
 
 ![[Pasted image 20240701203921.png]]
 
