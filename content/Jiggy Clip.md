@@ -1,3 +1,7 @@
+---
+tags:
+  - Glitch
+---
 The glitch where you clip into [[3-G Caveman Tribe - Secret Mine]] without meeting the 5 [[Golden Gobbo]] requirement
 
 (obviously there is no point, but I wonder if it works in [[Lost Levels|Secret]] caveman too :thinking:)

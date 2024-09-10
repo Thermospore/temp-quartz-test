@@ -4,6 +4,8 @@ aliases:
   - O Circles
   - ocircles738
   - o_omg
+tags:
+  - Person
 ---
 - [YouTube channel](https://www.youtube.com/@ocircles738/videos)
 

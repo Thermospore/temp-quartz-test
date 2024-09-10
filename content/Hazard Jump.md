@@ -1,3 +1,7 @@
+---
+tags:
+  - Glitch
+---
 they don't just prevent you from taking damage on hazards: you can also use them to not break platforms/crates
 
 If you try to hazard jump on [[Water]], you can hear a jump sound effect, but you don't jump

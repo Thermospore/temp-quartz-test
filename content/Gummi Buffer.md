@@ -1,3 +1,7 @@
+---
+tags:
+  - Glitch
+---
 get a link to where this was initially found on discord (through [[Door]] in last room of [[1-3 Get the Gobbo's Sandwich!|Sandwich]])
 
 it works through

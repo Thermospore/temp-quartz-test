@@ -1,3 +1,7 @@
+---
+tags:
+  - Person
+---
 Early Croc 2 speedrunner / glitchhunter
 - They created the Speed Demos Archive [thread](https://forum.speeddemosarchive.com/post/croc_2_pc_version.html) for Croc 2 on 2011-01-24
 - [Here](https://youtube.com/playlist?list=PLF4F73D8FD331B3B4&si=YMdKZl2hCaZCtVzs) is a YouTube playlist of their finds

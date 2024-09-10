@@ -1,3 +1,7 @@
+---
+tags:
+  - Person
+---
 Lead Game Designer for Croc 1 and 2
 - [personal website](https://niccusworth.com/Home.html)
 - [YouTube](https://www.youtube.com/@niccusworth)

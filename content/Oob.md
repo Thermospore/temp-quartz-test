@@ -2,6 +2,8 @@
 aliases:
   - Out of Bounds
   - OOB
+tags:
+  - Glitch
 ---
 When you OoB in this game you tend to encounter one of the following
 - a fall to your death
