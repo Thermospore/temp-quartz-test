@@ -2,6 +2,8 @@
 aliases:
   - Flavio
 ---
+This boss is one of a few instances of [[RNG]] in the game
+
 There is a set list of locations icecubes can spawn, ordered in a clockwise direction. At the start of the fight, the icecube will spawn in the same top right location. Every time a new icecube spawns, the following code is run
 
 ```

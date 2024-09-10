@@ -23,4 +23,4 @@ what's up with the cycle for the last [[Rope]] in the [[Golden Gobbo]] room agai
 
 For [[Max%]] there might be a crazy route utilizing [[Upwarp]]s / [[Save Gong]]s / that skip at the entrance... (look into this later)
 
-[here](https://youtu.be/0QLApkMw2SE) is a crazy [[100%|hundo]] route by [[Paulmall]] for inspiration, which was originally posted [here](https://discord.com/channels/313375426112389123/408694062862958592/742347416899944569) (currently in [[100%]] we just do the [[Any%]] route for waterfall)
+[here](https://youtu.be/0QLApkMw2SE) is a crazy [[100%|hundo]] route by [[Paulmall]] for inspiration, which was originally posted [here](https://discord.com/channels/313375426112389123/408694062862958592/742347416899944569) (currently in [[100%]] we just do the [[Any%]] route for waterfall, thanks to [[Jiggy Clip]])
