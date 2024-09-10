@@ -16,7 +16,7 @@ Previous setups used Croc's bullet stream to line up, but you can line up with w
 
 Also when you let off the controls, Croc still has a ton of residual inertia. If you look directly at Croc it is much easier to kill this inertia and ensure you don't drift out of range.
 ## Valid range
-In order to get the double cycle, the white of Croc's eyes must be entirely in this purple blob (in the graphic, Croc is right on the bottom edge of the valid range)
+In order to get the double cycle, Croc's eyeballs must be entirely in this purple blob (in the graphic, Croc is right on the bottom edge of the valid range)
 
 ![[ingame_valid_range.png]]
 
