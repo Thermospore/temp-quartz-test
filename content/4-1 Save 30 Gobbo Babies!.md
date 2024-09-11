@@ -2,6 +2,8 @@
 aliases:
   - Babies
 ---
+(document [this](https://discord.com/channels/313375426112389123/408694062862958592/669079522234073091) giant pile of random finds)
+
 You get 2 [[Crystal]]s from returning a baby to a cage, but if it's crying (from being dropped on the ground) you get 0 crystals.
 
 You can stop a baby from crying by throwing it down the slide. You don't have to throw it all the way from the top; even throwing it at the very bottom edge of the slide works too! ([video](https://discord.com/channels/313375426112389123/408694062862958592/1253558811092979743))
