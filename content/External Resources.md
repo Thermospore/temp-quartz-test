@@ -11,6 +11,9 @@ Useful / important external resources
 - [TCRF page](https://tcrf.net/Croc_2_(Windows,_PlayStation))
 - [PCGamingWiki page](https://www.pcgamingwiki.com/wiki/Croc_2)
 - [Wikipedia article](https://en.wikipedia.org/wiki/Croc_2)
+- There is useful info on [[Dr Revert|DerpVulpes]]' Tumblr page, under [the Croc 2 tag](https://derpvulpes.tumblr.com/tagged/Croc%202). Particularly:
+	- [this](https://docs.google.com/spreadsheets/d/1UvxTmPePRbKGSyox2R703fqQGjWh7tQUW1itaGWkLPE/edit?usp=sharing) list of WAD files
+	- [this](http://derpvulpes.tumblr.com/post/93220815221/croc-2-game-data) description of the WAD file name format
 - Croc wikis
 	- [Fandom wiki](https://croc.fandom.com/wiki/Croc_2)
 	- [Miraheze wiki](https://crocwiki.com/wiki/Croc_Wiki) - [[rubbishbinman]] [says](https://discord.com/channels/313375426112389123/347524018334859265/1278248481944899647) this one is better
