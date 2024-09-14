@@ -8,6 +8,8 @@ You get 2 [[Crystal]]s from returning a baby to a cage, but if it's crying (from
 
 You can stop a baby from crying by throwing it down the slide. You don't have to throw it all the way from the top; even throwing it at the very bottom edge of the slide works too! ([video](https://discord.com/channels/313375426112389123/408694062862958592/1253558811092979743))
 
+If you accidentally bring a baby into the [[Golden Gobbo]] area, you will have to temporarily set it down (making it cry) to hit the switch ([source](https://discord.com/channels/313375426112389123/408694062862958592/1283772746886676583)). (what would happen if you left the baby in the golden gobbo area??)
+
 [[Pasted image 20240621195716.png|This]] corner section by the slide is very buggy. Weird things can happen when you jump into it:
 - [[upwarp]] onto the slide / stairs
 - [[Oob]] and fall to your death
