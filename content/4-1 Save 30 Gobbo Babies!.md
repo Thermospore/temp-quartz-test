@@ -10,7 +10,7 @@ You can stop a baby from crying by throwing it down the slide. You don't have to
 
 If you accidentally bring a baby into the [[Golden Gobbo]] area, you will have to temporarily set it down (making it cry) to hit the switch ([source](https://discord.com/channels/313375426112389123/408694062862958592/1283772746886676583)). (what would happen if you left the baby in the golden gobbo area??)
 
-(also note the strat where if you accidentally throw in a crying baby and lose crystals, you can [[Death Abuse|DA]] after returning all 30 babies just to grab the crystals! [[rubbishbinman]] did it in their [[Max%]] run for MMR4 on 2024-09-15!)
+(also note the strat where if you accidentally throw in a crying baby and lose crystals, you can [[Death Abuse|DA]] after returning all 30 babies just to grab the crystals! [[rubbishbinman|limbus]] did it in their [[Max%]] run for MMR4 on 2024-09-15 ([link](https://www.twitch.tv/videos/2250758415?t=03h29m17s)))
 
 [[Pasted image 20240621195716.png|This]] corner section by the slide is very buggy. Weird things can happen when you jump into it:
 - [[upwarp]] onto the slide / stairs
