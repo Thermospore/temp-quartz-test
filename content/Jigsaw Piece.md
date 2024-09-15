@@ -10,3 +10,5 @@ There is speculation ([link](https://discord.com/channels/313375426112389123/408
 - in [[1-G Sailor Tribe - Secret Mine|Sailor Jigsaw]] the level wraps back around and you collect the Jigsaw Piece by the entrance
 - in [[3-G Caveman Tribe - Secret Mine|Caveman Jigsaw]] there is a trick [[Swap Meet Pete Gong]] before the Jigsaw Piece, which you presumably had to go back and hit
 - in [[4-G Inca Tribe - Secret Maze|Inca Jigsaw]] in the room with the Jigsaw Piece, behind one of the walls there are remnants of a door
+
+Apparently if you grab the jigsaw piece while dying you aren't warped!? ([video](https://youtu.be/YquOqQz36uU&t=28m55s))

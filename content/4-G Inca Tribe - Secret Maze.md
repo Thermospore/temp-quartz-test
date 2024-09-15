@@ -16,7 +16,7 @@ There appears to be remnants of a door, behind a wall in the [[Jigsaw Piece]] ro
 > 
 > ![[image-7.png]]
 > 
-> &mdash; <cite>[[rubbishbinman]]</cite>, [2024-09-09](https://discord.com/channels/313375426112389123/408694062862958592/1282620549583077428)
+> &mdash; <cite>[[limbus]]</cite>, [2024-09-09](https://discord.com/channels/313375426112389123/408694062862958592/1282620549583077428)
 
 ![[Pasted image 20240909121510.png]]
 

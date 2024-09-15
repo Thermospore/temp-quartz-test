@@ -2,7 +2,7 @@ jumping ACTUALLY makes you go faster on minecarts. might only apply when you are
 
 When controlling a minecart, keyboard input fully overrides analog stick input.
 
-oooo [[rubbishbinman]] found something weird [here](https://discord.com/channels/313375426112389123/408694062862958592/1279769934536249380). update this once we figure it out
+oooo [[limbus]] found something weird [here](https://discord.com/channels/313375426112389123/408694062862958592/1279769934536249380). update this once we figure it out
 
 I vaguely recall [[Aroymart]] finding a variety of weird minecart stuff. for example:
 

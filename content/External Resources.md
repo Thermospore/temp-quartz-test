@@ -16,4 +16,4 @@ Useful / important external resources
 	- [this](http://derpvulpes.tumblr.com/post/93220815221/croc-2-game-data) description of the WAD file name format
 - Croc wikis
 	- [Fandom wiki](https://croc.fandom.com/wiki/Croc_2)
-	- [Miraheze wiki](https://crocwiki.com/wiki/Croc_Wiki) - [[rubbishbinman]] [says](https://discord.com/channels/313375426112389123/347524018334859265/1278248481944899647) this one is better
+	- [Miraheze wiki](https://crocwiki.com/wiki/Croc_Wiki) - [[limbus]] [says](https://discord.com/channels/313375426112389123/347524018334859265/1278248481944899647) this one is better
