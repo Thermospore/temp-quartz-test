@@ -1,1 +1,1 @@
-Who came up with the category name / where did it originate from?
+[[Paulmall]] originally came up with the category and initially named it Completionist%. [[Hypnoshark]] then renamed it to Max% ([source](https://discord.com/channels/313375426112389123/408694062862958592/1284559770480545995)). The name might come from Spyro, where they have a Max% category, apparently
