@@ -1,3 +1,5 @@
+- see also: [list of all debug names](https://discord.com/channels/313375426112389123/408694062862958592/1285121480106971238), from [[hdc0]]
+
 (the header for each village is a link to a note on the village hub map itself)
 # [[Sailor Village]]
 - [[1-1 Find the Key! Save the Gobbo!]]

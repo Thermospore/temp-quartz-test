@@ -3,6 +3,8 @@ aliases:
   - liamreeves344
   - rubbishbinman
   - RubbishBinMan
+tags:
+  - Person
 ---
 - [src](https://www.speedrun.com/users/limbus)
 - [twitch](https://www.twitch.tv/rubbishbinman)

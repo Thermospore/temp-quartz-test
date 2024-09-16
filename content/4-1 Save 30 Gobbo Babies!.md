@@ -4,9 +4,11 @@ aliases:
 ---
 (document [this](https://discord.com/channels/313375426112389123/408694062862958592/669079522234073091) giant pile of random finds)
 
+(omg and [wall climbing](https://discord.com/channels/313375426112389123/408694062862958592/740715478548348929))
+
 You get 2 [[Crystal]]s from returning a baby to a cage, but if it's crying (from being dropped on the ground) you get 0 crystals.
 
-You can stop a baby from crying by throwing it down the slide. You don't have to throw it all the way from the top; even throwing it at the very bottom edge of the slide works too! ([video](https://discord.com/channels/313375426112389123/408694062862958592/1253558811092979743))
+You can stop a baby from crying by throwing it down the slide. You don't have to throw it all the way from the top; even throwing it at the very bottom edge of the slide works too (discovered [2020-01-21](https://discord.com/channels/313375426112389123/408694062862958592/669094088036974622) by [[Thermospore]])!
 
 If you accidentally bring a baby into the [[Golden Gobbo]] area, you will have to temporarily set it down (making it cry) to hit the switch ([source](https://discord.com/channels/313375426112389123/408694062862958592/1283772746886676583)). (what would happen if you left the baby in the golden gobbo area??)
 
