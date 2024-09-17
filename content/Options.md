@@ -1,3 +1,7 @@
+---
+aliases:
+  - Settings
+---
 - [[Display Options]]
 - [[Sound Options]]
 - [[Controller Options]]
