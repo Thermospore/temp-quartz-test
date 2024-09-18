@@ -7,7 +7,7 @@ aliases:
 ---
 (see also: [[Gummi Buffer]])
 
-Depending on which release of the game you have, these have a variety of shapes, sizes, and names (see [here](https://tcrf.net/Croc_2_(Windows,_PlayStation)#Regional_Differences) on TCRF)
+Depending on which release of the game you have, these have a variety of shapes, sizes, colors, and names (see [here](https://tcrf.net/Croc_2_(Windows,_PlayStation)#Regional_Differences) on TCRF)
 
 Most runners tend to run on a US PC version, so these usually are referred to as blue, green, and purple gummi jumps
 
@@ -45,7 +45,7 @@ When set, you get a massive horizontal speed boost!
 
 Unfortunately, you can not [[Hazard Jump]] on the ground to maintain the super speed, but that would be sick (perhaps [[TAS]] would beeline for a purple gummi and hazard jump the entire game lol)
 
-Try freezing the value using [[Cheat Engine]]; croc walks around with super speed and it is quite fun ^^
+Try freezing the value using [[Cheat Engine]]; croc walks around with super speed and it is quite fun ^^ (see: [[Perma Purple Gummi]])
 
 ---
 Blurb from the US PC manual:

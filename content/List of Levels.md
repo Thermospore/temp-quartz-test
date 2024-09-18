@@ -1,7 +1,10 @@
-- see also: [list of all debug names](https://discord.com/channels/313375426112389123/408694062862958592/1285121480106971238), from [[hdc0]]
-	- [here](https://discord.com/channels/313375426112389123/408694062862958592/1285378294379970662) is description of how it was generated
+see also: [list of all debug names](https://discord.com/channels/313375426112389123/408694062862958592/1285121480106971238), from [[hdc0]]
+- [here](https://discord.com/channels/313375426112389123/408694062862958592/1285378294379970662) is description of how it was generated
+- and [here](https://discord.com/channels/313375426112389123/408694062862958592/1285745648028880906) is the list for DUMMY.DAT
+- also [April and June prototypes](https://discord.com/channels/313375426112389123/408694062862958592/1285802239432327210)
+- (ok this needs to get cleaned up and moved somewhere else)
 
-(the header for each village is a link to a note on the village hub map itself)
+The header for each village is a link to a note on the village hub map itself
 # [[Sailor Village]]
 - [[1-1 Find the Key! Save the Gobbo!]]
 - [[1-2 Find 5 Lost Treasure Chests]]
