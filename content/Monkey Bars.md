@@ -1,5 +1,7 @@
 ![[Pasted image 20240701201531.png]]
 
+When falling from above, it is possible (though difficult) to directly grab onto the bottom side of monkey bars (discovered [2018-12-08](https://discord.com/channels/313375426112389123/408694062862958592/520880491587436554) by [[Thermospore]])
+# Dropping off
 There are many instances of people randomly dropping off Monkey Bars
 - ([link](https://discord.com/channels/313375426112389123/408694062862958592/668804657572741130)) [[Paulmall]] in last cave of [[1-3 Get the Gobbo's Sandwich!|Crow]]
 - ([link](https://discord.com/channels/313375426112389123/408694062862958592/670727693100122132)) [[Thermospore]] 6 days after Paul (IIRC in last cave of [[1-3 Get the Gobbo's Sandwich!|Crow]])
