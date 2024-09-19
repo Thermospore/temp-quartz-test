@@ -9,6 +9,7 @@ Useful / important external resources
 - [here](https://www.reddit.com/r/pcgaming/comments/cnqvyi/i_wrote_a_tool_to_edit_stuff_in_croc_2/) is a texture editor tool someone made
 - [Everything there is to know about Croc 2](https://docs.google.com/document/d/14ZDhhvB0qRZ2UCqTnqAlsYnaRoreYJ2pOzj9CcTqGI0/edit?usp=sharing) - some documentation by [[Paulmall]]
 - [TCRF page](https://tcrf.net/Croc_2_(Windows,_PlayStation))
+	- also see [this](https://tcrf.net/Proto:Croc_2_(Windows,_PlayStation)) index of all the TCRF pages for Croc 2 prototype builds
 - [PCGamingWiki page](https://www.pcgamingwiki.com/wiki/Croc_2)
 - [Wikipedia article](https://en.wikipedia.org/wiki/Croc_2)
 - There is useful info on [[Dr Revert|DerpVulpes]]' Tumblr page, under [the Croc 2 tag](https://derpvulpes.tumblr.com/tagged/Croc%202). Particularly:

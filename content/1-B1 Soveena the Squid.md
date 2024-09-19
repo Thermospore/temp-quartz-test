@@ -6,6 +6,7 @@ aliases:
 It is possible to clip into the door early, as discovered by [[Paulmall]] [2019-11-26](https://discord.com/channels/313375426112389123/408694062862958592/648824097597423636)
 - it is also possible (with the same technique or no?) for Secret Soveena ([discord](https://discord.com/channels/313375426112389123/408694062862958592/600156093435478048))
 - did anyone find better / more consistent technique? what about [[PS1]]?
+- (incorporate [this](https://discord.com/channels/313375426112389123/408694062862958592/1286287017843494973) info)
 
 Bonkers [[Individual Level|IL]] strat, but you can do a big chain of [[Hazard Jump]]s to collect the [[Crystal]]s under the [[Monkey Bars]] more quickly
 
