@@ -18,6 +18,8 @@ There is a nice section [here](https://tcrf.net/Croc_2_(Windows,_PlayStation)#Ch
 
 [[limbus]] noticed that in an old April 1999 build of the game, Cheat Mode had additional options that are not present in the release version of the game. For example, there is a full "Level Select" as well as a "Set Level Complete" option ([discord post](https://discord.com/channels/313375426112389123/408694062862958592/1285548575350325309))
 - and [[hdc0]] [points out](https://discord.com/channels/313375426112389123/408694062862958592/1286181586127294514) that version of the Cheat Menu is present in [this PC demo](https://tcrf.net/Proto:Croc_2_(Windows,_PlayStation)/PC_Demo#Cheats)
+- is that level select functionally the same as [this](https://discord.com/channels/313375426112389123/408694062862958592/1286305863924973578) one in the final game?
+	- ([this](https://discord.com/channels/313375426112389123/408694062862958592/1286305863924973578) one in the final game, you seem to spawn at a slightly different position with different cycles than when entering the level normally, so it doesn't seem to be useful for speedruns)
 # Select Hub
 You can select 1 through 5. You spawn into the hub as if you walked out of [[Swap Meet Pete|SMP]] (double check this; there are multiple hub spawns)
 
