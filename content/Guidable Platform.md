@@ -8,7 +8,7 @@ aliases:
 ![[Pasted image 20240916105702.png]]
 
 They are present in levels such as
-- [[2-5 KaBoom! It's Roger Red Ant|Roger]]
+- [[2-5 KaBooom! It's Roger Red Ant|Roger]]
 - [[3-2 Find the Wheels in the Mine!|Mines]]
 - [[4-3 Bride of the Dungeon of Defright|Puzzles]]
 - (any others?)

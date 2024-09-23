@@ -19,7 +19,7 @@ The header for each village is a link to a note on the village hub map itself
 - [[2-2 Chase the Choo Choo Train]]
 - [[2-3 It's Just Snowball Madness!]]
 - [[2-4 Hang Glider Valley]]
-- [[2-5 KaBoom! It's Roger Red Ant]]
+- [[2-5 KaBooom! It's Roger Red Ant]]
 - [[2-B1 Flavio the Thermal Fish]]
 - [[2-B2 Lava Lamp Larry]]
 - [[2-G Cossack Tribe - Secret Ice Cap]]
@@ -44,6 +44,11 @@ The header for each village is a link to a note on the village hub map itself
 I got this started by just lazily copying and pasting from [the SRC IL leaderboard](https://www.speedrun.com/croc_2/levels)
 
 IDK where the level names came from; PS1? should check for errors / consistency
+- yea, apparently [[2-5 KaBooom! It's Roger Red Ant|Roger]] has a typo ([link](https://discord.com/channels/313375426112389123/408694062862958592/1287646310911967324))
+	- I just fixed it now, both here and on SRC
+- I doubt I got them from [here](https://gamefaqs.gamespot.com/ps/196999-croc-2/faqs/47378)
+	- doesn't line up
+	- also, that has 3 o's in the title for [[2-5 KaBooom! It's Roger Red Ant|Roger]] (mine had two, until I fixed it just now)
 
 still need [[Lost Levels|Secret]], also [[Swap Meet Pete|SMP]]? what about all the other `.wad` files?
 - add [this](https://discord.com/channels/313375426112389123/408694062862958592/1281219829826719878) somewhere!! you can jump up this platform in secret thief without a stomp!
