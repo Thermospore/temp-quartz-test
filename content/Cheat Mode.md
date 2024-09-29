@@ -12,6 +12,8 @@ There is a nice section [here](https://tcrf.net/Croc_2_(Windows,_PlayStation)#Ch
 > 
 > For Windows, at the title screen, hold **A** and then press **T, Left, Left, Right, Space, Up, Up, Left, C**. During gameplay, press **Page Up and Page Down** simultaneously.
 
+NOTE: it works on JP [[PS1]] too; you just have to use ✕ instead of ○
+
 [[hdc0]] figured out how to activate this on [[PC]], along with a bunch of other [[Cheats]], in [this](https://www.speedrun.com/croc_2/forums/l2qjp) classic SRC post
 
 [Here](https://www.youtube.com/watch?v=E0B_O-F742E) is a clip where [[Thermospore]] managed to bug it out and have it open in the [[Main Menu]]

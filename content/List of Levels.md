@@ -2,6 +2,8 @@ see also: [list of all debug names](https://discord.com/channels/313375426112389
 - [here](https://discord.com/channels/313375426112389123/408694062862958592/1285378294379970662) is description of how it was generated
 - and [here](https://discord.com/channels/313375426112389123/408694062862958592/1285745648028880906) is the list for DUMMY.DAT
 - also [April and June prototypes](https://discord.com/channels/313375426112389123/408694062862958592/1285802239432327210)
+- oh and [[FindDebugNames.py|here]] is the Python script they used to generate them! ([source](https://discord.com/channels/1013732315186335764/1142382028566831185/1285188577394954282))
+	- "Lists all debug names (the optional descriptive string that can be assigned to a strat) used in the specified Croc2/TENG/Aladdin .wad file."
 - (ok this needs to get cleaned up and moved somewhere else)
 
 The header for each village is a link to a note on the village hub map itself

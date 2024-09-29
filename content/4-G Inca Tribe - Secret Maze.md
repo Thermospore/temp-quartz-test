@@ -4,6 +4,8 @@ aliases:
 ---
 (write something about the traveling salesman saga)
 # Door remnant
+(need to re-organize this section)
+
 There appears to be remnants of a door, behind a wall in the [[Jigsaw Piece]] room ([discovery](https://discord.com/channels/313375426112389123/408694062862958592/1282108520451412039))
 
 (should add this to TCRF, if it isn't there already)
@@ -21,3 +23,7 @@ There appears to be remnants of a door, behind a wall in the [[Jigsaw Piece]] ro
 ![[Pasted image 20240909121510.png]]
 
 ![[Pasted image 20240909121535.png]]
+
+Oh wow, and on one of the psx betas (which one?) there is missing wall above where the door was haha
+
+![[Pasted image 20240925192502.png]]
