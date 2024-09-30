@@ -7,6 +7,7 @@ Useful / important external resources
 - [Croc-2-mods](https://github.com/hdc0/Croc-2-mods) - juicy repo by [[hdc0]] with various tools and documentation
 - [PS1-Argonaut-Reverse](https://github.com/OverSurge/PS1-Argonaut-Reverse) - juicy repo by [[OverSurge]] with docs and asset extraction scripts
 - [PS1-Argonaut-Assets](https://github.com/OverSurge/PS1-Argonaut-Assets/tree/master) - another juicy repo by [[OverSurge]] with extracted assets
+	- you can load them into Blender [like this](https://discord.com/channels/313375426112389123/408694062862958592/1290205306454016001)
 - [here](https://www.reddit.com/r/pcgaming/comments/cnqvyi/i_wrote_a_tool_to_edit_stuff_in_croc_2/) is a texture editor tool someone made
 - [Everything there is to know about Croc 2](https://docs.google.com/document/d/14ZDhhvB0qRZ2UCqTnqAlsYnaRoreYJ2pOzj9CcTqGI0/edit?usp=sharing) - some documentation by [[Paulmall]]
 - [TCRF page](https://tcrf.net/Croc_2_(Windows,_PlayStation))

@@ -12,14 +12,15 @@ There is a nice section [here](https://tcrf.net/Croc_2_(Windows,_PlayStation)#Ch
 > 
 > For Windows, at the title screen, hold **A** and then press **T, Left, Left, Right, Space, Up, Up, Left, C**. During gameplay, press **Page Up and Page Down** simultaneously.
 
-NOTE: it works on JP [[PS1]] too; you just have to use ✕ instead of ○
+NOTE: it works on [[PS1#JP]] too; you just have to use ✕ instead of ○
 
 [[hdc0]] figured out how to activate this on [[PC]], along with a bunch of other [[Cheats]], in [this](https://www.speedrun.com/croc_2/forums/l2qjp) classic SRC post
 
 [Here](https://www.youtube.com/watch?v=E0B_O-F742E) is a clip where [[Thermospore]] managed to bug it out and have it open in the [[Main Menu]]
 
 [[limbus]] noticed that in an old April 1999 build of the game, Cheat Mode had additional options that are not present in the release version of the game. For example, there is a full "Level Select" as well as a "Set Level Complete" option ([discord post](https://discord.com/channels/313375426112389123/408694062862958592/1285548575350325309))
-- and [[hdc0]] [points out](https://discord.com/channels/313375426112389123/408694062862958592/1286181586127294514) that version of the Cheat Menu is present in [this PC demo](https://tcrf.net/Proto:Croc_2_(Windows,_PlayStation)/PC_Demo#Cheats)
+- and [[hdc0]] [points out](https://discord.com/channels/313375426112389123/408694062862958592/1286181586127294514) that version of the Cheat Menu is present in [this PC demo](https://tcrf.net/Proto:Croc_2_(Windows,_PlayStation)/PC_Demo#Cheats) as well
+	- and he even ported it to the PC US/EU release version ([link](https://discord.com/channels/313375426112389123/408694062862958592/1289842773502984212))!
 - is that level select functionally the same as [this](https://discord.com/channels/313375426112389123/408694062862958592/1286305863924973578) one in the final game?
 	- ([this](https://discord.com/channels/313375426112389123/408694062862958592/1286305863924973578) one in the final game, you seem to spawn at a slightly different position with different cycles than when entering the level normally, so it doesn't seem to be useful for speedruns)
 # Select Hub
