@@ -4,7 +4,11 @@ aliases:
 ---
 hold ➚ on entry (I guess more like → for [[Max%]])
 
-This level contains two stacks of two boxes. The only other level in the game with a stack like this is [[2-2 Chase the Choo Choo Train|Chase the Choo-Choo Train]]. It's possible to break these stacks with a single jump and stomp, instead of jumping on top of the stack, then jumping again to stomp. It's easier to do if Croc's facing direction is adjusted to be perpendicular to his movement direction, so there's no risk of a ledge grab. If done correctly, it's slightly faster. ([video](https://youtu.be/ix4OKKu06uI?si=rTkI4pBAV4UxSH50&t=78))
+This level contains two stacks of two boxes. The only other level in the game with a stack like this is [[2-2 Chase the Choo Choo Train|Chase the Choo-Choo Train]]. It's possible to break these stacks with a single jump and stomp ([video](https://youtu.be/ix4OKKu06uI&t=78)), instead of first jumping on top of the stack then jumping again to stomp. If done correctly, it's slightly faster. It's easier to do if Croc's facing direction is adjusted to be perpendicular to his movement direction, so there's no risk of a ledge grab. Also, if you only hold the stomp through the first box, you can readjust and grab the ones from the higher box in midair if you were off-center ([video](https://youtu.be/ix4OKKu06uI&t=10))
+
+FIXME:
+- generalize that double stack box stuff to a dedicated note on boxes / crates, and link to it from this note + [[2-2 Chase the Choo Choo Train|Chase the Choo-Choo Train]]
+- also in that box note, investigate if it is faster to stomp all the way to the ground like [[limbus]] does ([video](https://youtu.be/ix4OKKu06uI&t=101)), or do it like [[Thermospore]] etc do ([video](https://youtu.be/XKoU4jYjFtE&t=33))
 
 if only you could clip into the cage to grab the [[Jigsaw Piece]] early... (many attempts have been made)
 
