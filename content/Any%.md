@@ -1,0 +1,1 @@
+I wonder if it is possible to save time by buying some [[Heart Pot]]s, to allow for damage boosts etc? [[PS1]] only starts with 3 pots, so it has the most to gain from getting extra. But ironically, in order to buy the pots you would have to go in / out of [[Swap Meet Pete|SMP]], which incurs long loading times. Could grab the [[Sailor Village]] minigame one, tho!

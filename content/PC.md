@@ -1,5 +1,14 @@
-For some reason on PC, quads seem to be triangulated in the opposite direction from [[PS1]]. This appears to be the reason why things such as [[Cage Skip]], [[Upwarp]]s, [[Pasted image 20240930123736.png|this]] ledge in [[Cossack Village]], etc work differently between PS1 and PC (found by [[limbus]] [2024-09-30](https://discord.com/channels/313375426112389123/408694062862958592/1290108572511764584))
+Checking backlinks will probably reveal some platform / region differences
+# Regions
+## US
+Same as with [[PS1]], this version has product placement [[Jelly Jump|Gummi Jump]]s, while the others have plain Jelly Jumps. This seems to provide an advantage, because the Gummi Jumps are wider. This, for example, allows you to make a jump in [[1-5 Save the Bird from the Thief|Theif]] / [[1-3 Get the Gobbo's Sandwich!|Sandwich]] with only a Blue, instead of the intended Green.
+## EU
+This version has multiple European languages available, while the US version only has English
+# Installing multiple regions simultaneously
+You can have multiple regions installed simultaneously, as long as they are installed in separate folders
 
-(add some example images. also should make this its own subsection (in the PC article? or in its own dedicated note?), so we can just link to this from other articles, instead of having to explain "quad triangulation" every time it comes up lol)
-# US
-# EU
+However, you should make sure to set the EU version's language back to English before running the US version, or [[Pasted image 20240930183556.png|funky stuff happens]] ([source](https://discord.com/channels/313375426112389123/408694062862958592/1287406437743722630)). Apparently there are [some commands](https://discord.com/channels/313375426112389123/408694062862958592/1287413605343432825) you can run to fix this
+
+If you mix and match [[Croc2.exe]] and `.wad` files between US and EU you can get strange effects, such as giant [[Jelly Jump|Jelly Jump]]s or tiny Gummi Jumps lol ([discussion](https://discord.com/channels/313375426112389123/408694062862958592/1256962341665374269))
+
+![[Pasted image 20240930183931.png]]

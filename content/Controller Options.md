@@ -9,4 +9,6 @@ Trying to access it via the [[Pause Menu]] will hard crash the game in the follo
 - [[Lost Levels|Secret]] Cossack hub (still need to make a note for the hubs haha)
 - (any others??)
 # Control Method (Type 1/2)
-etcetcetc Type 1 is modern controls, and Type 2 is tank controls which are useful for setups
+etcetcetc Type 1 is modern controls which are relative to the camera, and Type 2 is tank controls which are useful for setups
+
+Type 2 doesn't seem to be available on [[PS1|PSX]], only [[PC]]
