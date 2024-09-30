@@ -16,7 +16,7 @@ If you accidentally bring a baby into the [[Golden Gobbo]] area, you will have t
 
 [[Pasted image 20240621195716.png|This]] corner section by the slide is very buggy. Weird things can happen when you jump into it:
 - [[upwarp]] onto the slide / stairs
-- [[Oob]] and fall to your death
+- [[OoB]] and fall to your death
 - oob and land on the [[Clockwork Gobbo]] section behind the wall
 
 You can stomp on these pots, allowing you to do unintended things. For example, skipping this comically buggy ladder

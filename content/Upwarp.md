@@ -8,3 +8,7 @@ The most well known / prevalent upwarp is [this](https://youtu.be/IiwgHgq1IGs) o
 - [[3-1 Find the Wheels in the Jungle!|Jungle]]
 - [[3-4 Climb the Devil's Tower!|Pet]]
 - [[4-2 Up The Waterfall|Waterfall]]
+
+Originally we thought it only worked on [[PC]], but [[limbus]] discovered on [2024-09-30](https://discord.com/channels/313375426112389123/408694062862958592/1290114434353860679) that it works on [[PS1]] too, just on the opposite side ([video](https://discord.com/channels/313375426112389123/408694062862958592/1290116347107213434))
+
+(implement [this](https://discord.com/channels/313375426112389123/408694062862958592/1290150696238321666) info/speculation from [[limbus]])
