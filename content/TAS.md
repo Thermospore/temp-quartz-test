@@ -1,1 +1,1 @@
-[[RingRush]] (creator of the legendary Croc 2 GBC tas [here](https://youtu.be/pjbGdoh_krY)) was considering doing a TAS of the psx version, but it hasn't materialized
+[[RingRush]] (creator of the legendary Croc 2 GBC tas [here](https://youtu.be/pjbGdoh_krY)) was considering doing a TAS of the [[PS1|PSX]] version, but it hasn't materialized

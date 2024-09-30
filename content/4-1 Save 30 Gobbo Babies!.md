@@ -19,7 +19,7 @@ If you accidentally bring a baby into the [[Golden Gobbo]] area, you will have t
 - [[OoB]] and fall to your death
 - oob and land on the [[Clockwork Gobbo]] section behind the wall
 
-You can stomp on these pots, allowing you to do unintended things. For example, skipping this comically buggy ladder
+You can stomp on these pots, allowing you to do unintended things. For example, skipping this comically buggy ladder. The ladder might be less buggy if you climb from the bottom, instead of jumping onto it ([link](https://discord.com/channels/313375426112389123/408694062862958592/468693763401711626))
 
 ![[Pasted image 20240621194901.png]]
 # Baby Zipping
