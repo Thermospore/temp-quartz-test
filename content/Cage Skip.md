@@ -3,16 +3,18 @@ tags:
   - Glitch
 ---
 It was found in [[1-1 Find the Key! Save the Gobbo!|Cage]], but the geometry is in many levels
-- (list the levels)
+- [[1-5 Save the Bird from the Thief|Theif]]
+- [[1-3 Get the Gobbo's Sandwich!|Crow]]
+- (list others)
 
 There are differences between [[PC]] and [[PS1]], likely due to quads being triangularized in the opposite direction
 # [[PC]]
 ## Left side
-Found [here](https://www.youtube.com/watch?v=u0RS7hTrOA4) by [[-o-]], then posted [here](https://discord.com/channels/313375426112389123/408694062862958592/419523187064438784) on Discord by [[hdc0]]. It's pretty easy to do
+It's pretty easy to do. Found [here](https://www.youtube.com/watch?v=u0RS7hTrOA4) by [[-o-]], then posted [here](https://discord.com/channels/313375426112389123/408694062862958592/419523187064438784) on Discord by [[hdc0]]
 
 Apparently you can do it down at the bottom too... ([clip](https://discord.com/channels/313375426112389123/476594364106276870/729585297901486110))
 ## Right side
-Found by [[Cheftoad]] [here](https://discord.com/channels/313375426112389123/408694062862958592/448107691496439809). It is quite hard, and probably requires either luck or a setup
+It is quite hard, and probably requires either luck or a setup. Found by [[Cheftoad]] [here](https://discord.com/channels/313375426112389123/408694062862958592/448107691496439809)
 # [[PS1]]
 ## Left side
 When was this first found? It is in [this](https://www.youtube.com/watch?v=yQamI1Zl0P4&t=35s) [[Hypnoshark]] run (on [[PS1#JP]]), at least
