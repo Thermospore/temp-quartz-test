@@ -7,7 +7,7 @@ It was found in [[1-1 Find the Key! Save the Gobbo!|Cage]], but the geometry is 
 - [[1-3 Get the Gobbo's Sandwich!|Crow]]
 - (list others)
 
-There are differences between [[PC]] and [[PS1]], likely due to quads being triangularized in the opposite direction
+There are differences between [[PC]] and [[PS1]], likely due to quads being triangulated in the opposite direction
 # [[PC]]
 ## Left side
 It's pretty easy to do. Found [here](https://www.youtube.com/watch?v=u0RS7hTrOA4) by [[-o-]], then posted [here](https://discord.com/channels/313375426112389123/408694062862958592/419523187064438784) on Discord by [[hdc0]]
@@ -21,6 +21,6 @@ When was this first found? It is in [this](https://www.youtube.com/watch?v=yQamI
 
 ([[Paulmall]] said ([1](https://discord.com/channels/313375426112389123/408694062862958592/1290133155160002611) , [2](https://discord.com/channels/313375426112389123/408694062862958592/1290159088654618775)) on [[PS1]] it might be easier on JP than US/EU, but this is very unconfirmed)
 ## Right side
-[Here](https://discord.com/channels/313375426112389123/408694062862958592/1290133147069055062) is a clip of [[limbus]] getting it, during the quad triangularization swap discovery saga.
+[Here](https://discord.com/channels/313375426112389123/408694062862958592/1290133147069055062) is a clip of [[limbus]] getting it, during the quad triangulation saga.
 
-When was this first found? Is it the same as right side on PC? I mean there is probably *some* difference due to the triangularization swap
+When was this first found? Is it the same as right side on PC? I mean there is probably *some* difference due to the triangulation change
