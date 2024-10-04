@@ -17,3 +17,4 @@ This level contains two stacks of two boxes. The only other level in the game wi
 FIXME:
 - generalize this double stack box stuff to a dedicated note on boxes / crates, and link to it from this note + [[2-2 Chase the Choo Choo Train|Chase the Choo-Choo Train]]
 - also in that box note, investigate if it is faster to stomp all the way to the ground like [[limbus]] does ([video](https://youtu.be/ix4OKKu06uI&t=101)), or do it like [[Thermospore]] etc do ([video](https://youtu.be/XKoU4jYjFtE&t=33))
+- ALSO, on [[PC]] the [[Crystal]]s are close together and can be grabbed simultaneously. On [[PS1]] the radius of the Crystal ring is wider, and you must grab them one by one.

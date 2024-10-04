@@ -19,3 +19,9 @@ The address for Soveena's lives is in your save slot for some reason. For the fi
 ![[Pasted image 20240918213051.png]]
 
 It would be nice if we could find a consistent way to get the final bomb throw super tight. Currently we pretty much play a game of chicken and pray we don't throw it too early
+
+> the way I time it is if the green of croc's muzzle is over the fence, you can throw
+> 
+> &mdash; <cite>[[limbus]]</cite>, 2024-09-22 (in Twitch chat during a [[Thermospore|thermo]] [[Max%]] run)
+
+(this seems useful; how does it account for the bobbing of the barrel or the variability in Croc's position standing on it, though? Also Croc's angle?)

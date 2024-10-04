@@ -7,7 +7,7 @@ In [[Any%]], you can kill the Thief as early as [here](https://youtu.be/dRv3UE2T
 
 The Thief can also be killed early [here](https://youtu.be/OGYPKGV6ONs&t=34)
 
-Believe it or not, you can simply jump [[Pasted image 20240623212115.png|these]] gaps around the huge trees. You can even grind up against the tree a little bit and it's OK.
+Believe it or not, you can simply jump [[Pasted image 20240623212115.png|these]] gaps around the huge trees. You can even grind up against the tree a little bit and it's OK. It's a bit easier (though slower) if you do a stomp jump ([video](https://discord.com/channels/313375426112389123/408694062862958592/1291527691983654924)). (ooo someone should time going around the tree vs yolo jumping vs stomp jumping!!)
 
 In [[Pasted image 20240623214340.png|this]] cave, you can get back to the upper section without using a [[Balloon]]. If you jump inside a crate as it spawns, you will [[Upwarp]] on top ([[thief_crate_upwarp.mp4|video]]) (find on discord when this was discovered)
 
