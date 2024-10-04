@@ -28,7 +28,7 @@ Installation instructions:
 >   
 > &mdash; <cite>[[hdc0]]</cite>, [2024-07-03](https://discord.com/channels/313375426112389123/408694062862958592/1258029445755834429)
 
-That last point about the blue textures is [currently under investigation](https://discord.com/channels/313375426112389123/408694062862958592/1291355783916683266).
+That last point about the blue textures is [currently under investigation](https://discord.com/channels/313375426112389123/408694062862958592/1291355783916683266) (as of 2024-10-04)
 
 [[limbus]] seems to be using this successfully ([link](https://discord.com/channels/313375426112389123/408694062862958592/1277971095290515530))
 
