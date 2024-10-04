@@ -2,7 +2,7 @@ jumping ACTUALLY makes you go faster on minecarts. might only apply when you are
 
 When controlling a minecart, keyboard input fully overrides analog stick input.
 
-[Here](https://www.youtube.com/watch?v=r2Zifh8ZPfk#t=6m15s) is a pretty wacky Minecart glitch found by [[Dr Revert]]. Woooooaaah hold up, can you get the gates open without riding the minecart??? excerpt from the video description:
+In [this](https://www.youtube.com/watch?v=r2Zifh8ZPfk#t=6m15s) video, [[Dr Revert]] manages to do a glitch that makes the minecart doors open even when Croc walks up to them without being on a minecart. This is in the demo WAD for [[1-2 Find 5 Lost Treasure Chests|Chests]], which is why the side paths are missing. Perhaps this can be done in standard levels as well?? Excerpt from the video description:
 
 > At the end of first gameplay I wanted to execute a glitch I managed to activate later, to freely open gates without using the cart. However the camera got stuck for some reason.
 
