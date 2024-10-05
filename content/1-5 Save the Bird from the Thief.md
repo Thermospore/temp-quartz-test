@@ -16,8 +16,7 @@ In the same cave, when doubling back [here](https://youtu.be/wdRyuLa9R8M&t=5) in
 The green [[Jelly Jump|Gummi Jump]] up to the [[Clockwork Gobbo]] [[Pasted image 20240623214912.png|here]] can be skipped by:
 - doing a [[Cage Skip]]
 - using a blue gummi jump
-	- only on on [[PC#US]] or [[PS1#US]]
-	- this can't be done on versions of the game with standard Jelly Jumps, because they are too narrow
+- using a orange jelly (proven [here](https://discord.com/channels/313375426112389123/408694062862958592/1292035291338637373) on [[PS1#JP]])
 - (btw, this same skip can be done in [[1-3 Get the Gobbo's Sandwich!|Crow]])
 
 The [[Clockwork Gobbo]] has a [[Heart Pot]] at the end (I believe this is the only level with a heart pot..? apart from the simon says game in sailor hub)

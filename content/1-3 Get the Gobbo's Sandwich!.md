@@ -8,8 +8,7 @@ In the final room, you can do a [[Gummi Buffer]] into the [[Golden Gobbo]] secti
 The green [[Jelly Jump|Gummi Jump]] up to [[Pasted image 20240930194216.png|this]] [[Crystal]] box in the final room can be skipped by:
 - doing a [[Cage Skip]]
 - using a blue gummi jump
-	- only on on [[PC#US]] or [[PS1#US]]
-	- this can't be done on versions of the game with standard Jelly Jumps, because they are too narrow
+- using a orange jelly (proven [here](https://discord.com/channels/313375426112389123/408694062862958592/1292035291338637373) on [[PS1#JP]])
 - (btw, this same skip can be done in [[1-5 Save the Bird from the Thief|Theif]])
 # Blind gems
 < general tech / explanation here >
