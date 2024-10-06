@@ -17,6 +17,8 @@ Trying to access it via the [[Pause Menu]] will hard crash the game in the follo
 - [[Lost Levels|Secret]] [[Cossack Village]]
 - [[Lost Levels|Secret]] [[1-1 Find the Key! Save the Gobbo!|Cage]] ([clip](https://www.twitch.tv/thermospore/clip/BoxySaltySrirachaTheTarFu-27Qp22DcufbY6fNb))
 - (any others??)
+
+[Here](https://discord.com/channels/313375426112389123/408694062862958592/1292210678022672466) is some technical info on the crash
 # Control Method
 This setting can only be accessed in-game via the [[Pause Menu]] (?)
 
