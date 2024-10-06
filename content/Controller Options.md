@@ -29,7 +29,7 @@ In this state, trying to access the Define Controls screen via the [[Pause Menu]
 It is confirmed to not crash in [[Sailor Village]] ([[Pasted image 20241006133352.png|screenshot]])
 ### Controller analog stick
 - The analog stick is also blank in the [[Main Menu]] ([[Pasted image 20241006140649.png|screenshot]])
-- In some levels (ex [[Sailor Village]] or [[Cossack Village]]) it does not hard crash in the [[Pause Menu]], but has a messed up name ([[Pasted image 20241006142425.png|screenshot]])
+- In some levels (ex [[Sailor Village]] or [[Cossack Village]]) it does not hard crash in the [[Pause Menu]], but has [文字化け](https://en.wikipedia.org/wiki/Mojibake) ([[Pasted image 20241006142425.png|screenshot]])
 - In [[2-3 It's Just Snowball Madness!|Snowball]] you can open the Define Controls screen to the Keyboard page ([[Pasted image 20241006141307.png|screenshot]]), but if you try to move over to the controller page the game hard crashes
 
 ![[Pasted image 20241006143221.png]]
