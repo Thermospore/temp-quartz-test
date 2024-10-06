@@ -15,10 +15,8 @@ Unfortunately, even if you re-map the *Movement* keys the mappings only apply in
 When the system language is set to Japanese, the Define Controls menu is buggy and accessing it can cause the game to hard crash
 
 [Here](https://discord.com/channels/313375426112389123/408694062862958592/1292210678022672466) is some discussion between [[hdc0]] and [[Thermospore]] troubleshooting the issue
-### Arrow Keys
-Mapping an [[Pasted image 20241006134720.png|arrow key]] makes all text for that mapping go blank. For example in this screenshot, one of the *Movement* keys has been mapped to an arrow key:
-
-![[Pasted image 20241006100658.png]]
+### Keyboard arrow Keys
+Mapping an [[Pasted image 20241006134720.png|arrow key]] makes all text for that mapping go blank. For example in [[Pasted image 20241006100658.png|this]] screenshot, one of the *Movement* keys has been mapped to an arrow key
 
 In this state, trying to access the Define Controls screen via the [[Pause Menu]] will hard crash the game in the following levels:
 - [[Lost Levels|Secret]] [[1-1 Find the Key! Save the Gobbo!|Cage]] ([clip](https://www.twitch.tv/thermospore/clip/BoxySaltySrirachaTheTarFu-27Qp22DcufbY6fNb))
@@ -29,10 +27,12 @@ In this state, trying to access the Define Controls screen via the [[Pause Menu]
 - (and probably many others)
   
 It is confirmed to not crash in [[Sailor Village]] ([[Pasted image 20241006133352.png|screenshot]])
-### Analog stick
+### Controller analog stick
 - The analog stick is also blank in the [[Main Menu]] ([[Pasted image 20241006140649.png|screenshot]])
 - In some levels (ex [[Sailor Village]] or [[Cossack Village]]) it does not hard crash in the [[Pause Menu]], but has a messed up name ([[Pasted image 20241006142425.png|screenshot]])
 - In [[2-3 It's Just Snowball Madness!|Snowball]] you can open the Define Controls screen to the Keyboard page ([[Pasted image 20241006141307.png|screenshot]]), but if you try to move over to the controller page the game hard crashes
+
+![[Pasted image 20241006143221.png]]
 # Control Method
 This setting can only be accessed in-game via the [[Pause Menu]] (?)
 
