@@ -1,6 +1,8 @@
-![[Pasted image 20241006100358.png]]
+- [[Controller Options#Define Controls|Define Controls]] (below)
+- Restore To Default
+- Return To [[Options]] Menu
 
-![[Pasted image 20240701211459.png]]
+![[Pasted image 20241006100358.png]]
 # Define Controls
 This screen can be accessed via the [[Options]] in the [[Main Menu]], or in-game via the [[Pause Menu]]
 
@@ -17,3 +19,5 @@ Trying to access it via the [[Pause Menu]] will hard crash the game in the follo
 etcetcetc Type 1 is modern controls which are relative to the camera, and Type 2 is tank controls which are useful for setups
 
 Type 2 doesn't seem to be available on [[PS1|PSX]], only [[PC]]
+# Manual
+![[Pasted image 20240701211459.png]]
