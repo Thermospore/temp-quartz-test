@@ -1,4 +1,4 @@
-- [[Controller Options#Define Controls|Define Controls]] (below)
+- [[Controller Options#Define Controls|Define Controls]] (see below)
 - Restore To Default
 - Return To [[Options]] Menu
 
@@ -17,9 +17,15 @@ Trying to access it via the [[Pause Menu]] will hard crash the game in the follo
 - [[Lost Levels|Secret]] [[Cossack Village]]
 - [[Lost Levels|Secret]] [[1-1 Find the Key! Save the Gobbo!|Cage]] ([clip](https://www.twitch.tv/thermospore/clip/BoxySaltySrirachaTheTarFu-27Qp22DcufbY6fNb))
 - (any others??)
-# Control Method (Type 1/2)
-Type 1 is modern controls, where Croc's movement is relative to the camera direction
+# Control Method
+This setting can only be accessed in-game via the [[Pause Menu]] (?)
 
+![[Pasted image 20241006102349.png]]
+
+(maybe quote the manual, because it has a better explanations lol)
+## Type 1
+Type 1 is modern controls, where Croc's movement is relative to the camera direction
+## Type 2
 Type 2 is classic tank controls, where Croc's movement is entirely independent from the camera. This makes movement very consistent, and is useful for setups (ex [[Jiggy Clip]] or [[Hella Skip]]). Unfortunately, Type 2 doesn't seem to be available on [[PS1|PSX]], only [[PC]]
 # Manual
 ![[Pasted image 20240701211459.png]]

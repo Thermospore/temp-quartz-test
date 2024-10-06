@@ -1,7 +1,7 @@
 - [[Display Options]]
 - [[Sound Options]]
 - [[Controller Options#Define Controls]]
-- [[Controller Options#Control Method (Type 1/2)]]
+- [[Controller Options#Control Method]] (Type 1 / Type 2)
 - [[OmniPlay]]
 - Quit and Save
 - Continue
