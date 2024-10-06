@@ -8,17 +8,23 @@ This screen can be accessed in a two ways:
 1. via the [[Options]] in the [[Main Menu]]
 2. in-game via the [[Pause Menu]]
 
+![[Pasted image 20241006133912.png]]
+## Japanese arrow key crash
+When the system language is set to Japanese, mapping an [[Pasted image 20241006134720.png|arrow key]] makes all text for that mapping go blank. For example in this screenshot, one of the *Movement* keys has been mapped to an arrow key:
+
 ![[Pasted image 20241006100658.png]]
 
-Trying to access it via the [[Pause Menu]] will hard crash the game in the following levels:
+In this state, trying to access the Define Controls screen via the [[Pause Menu]] will hard crash the game in the following levels:
+- [[Lost Levels|Secret]] [[1-1 Find the Key! Save the Gobbo!|Cage]] ([clip](https://www.twitch.tv/thermospore/clip/BoxySaltySrirachaTheTarFu-27Qp22DcufbY6fNb))
+- [[Cossack Village]] (as does the [[Lost Levels|Secret]] version)
 - [[2-3 It's Just Snowball Madness!|Snowball]]
 - [[2-4 Hang Glider Valley|Glider]] (as does the [[Lost Levels|Secret]] version)
 - [[4-B1 Dante's Peak|Plane]]
-- [[Lost Levels|Secret]] [[Cossack Village]]
-- [[Lost Levels|Secret]] [[1-1 Find the Key! Save the Gobbo!|Cage]] ([clip](https://www.twitch.tv/thermospore/clip/BoxySaltySrirachaTheTarFu-27Qp22DcufbY6fNb))
-- (any others??)
+- (and probably many others)
+  
+It is confirmed to not crash in [[Sailor Village]] ([[Pasted image 20241006133352.png|screenshot]])
 
-[Here](https://discord.com/channels/313375426112389123/408694062862958592/1292210678022672466) is some technical info on the crash. It doesn't seem to crash for [[hdc0]] ([discussion](https://discord.com/channels/313375426112389123/408694062862958592/1292303491414622250)); the crash actually could be specific to [[Thermospore]]..?
+[Here](https://discord.com/channels/313375426112389123/408694062862958592/1292210678022672466) is some discussion between [[hdc0]] and [[Thermospore]] troubleshooting the crash
 # Control Method
 This setting can only be accessed in-game via the [[Pause Menu]] (?)
 
