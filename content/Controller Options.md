@@ -15,6 +15,8 @@ Unfortunately, even if you re-map the *Movement* keys the mappings only apply in
 When the system language is set to Japanese, the Define Controls menu is buggy and accessing it can cause the game to hard crash
 
 [Here](https://discord.com/channels/313375426112389123/408694062862958592/1292210678022672466) is some discussion between [[hdc0]] and [[Thermospore]] troubleshooting the issue
+
+The issue seems to be with the code for retrieving input device key names ([link](https://discord.com/channels/313375426112389123/408694062862958592/1292367040669028384)). And [[hdc0]] says it doesn't seem possible to exploit this for speedrunning ([link]([https://discord.com/channels/313375426112389123/408694062862958592/1292385230472216667))
 ### Keyboard arrow Keys
 Mapping an [[Pasted image 20241006134720.png|arrow key]] makes all text for that mapping go blank. For example in [[Pasted image 20241006100658.png|this]] screenshot, one of the *Movement* keys has been mapped to an arrow key
 

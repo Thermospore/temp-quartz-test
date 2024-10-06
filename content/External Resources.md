@@ -2,6 +2,7 @@ Useful / important external resources
 - [SRC leaderboard](https://www.speedrun.com/croc_2)
 - [Croc 2 Routes](https://docs.google.com/spreadsheets/d/1cddsP_i7G51BK8NbYgq3ZAQfI5HPkYhyCTCz47lGURo/edit?usp=sharing) spreadsheet
 - [Speed Demos Archive thread](https://forum.speeddemosarchive.com/post/croc_2_pc_version.html)
+- [Croc: Hero of the Gobbos](https://crocfans.proboards.com/) - an old Croc forum, which is now [closed](https://crocfans.proboards.com/thread/140/adventure-draws-close)
 - [here](https://web.archive.org/web/20000620105750/http://www.foxinteractive.com/games/croc2/) is the original Croc 2 website, archived on Wayback Machine
 	- Also, the installer (EU version, at least) links to `www.croc2.com/` ([[Pasted image 20240922131241.png|screenshot]])
 - [Croc-2-mods](https://github.com/hdc0/Croc-2-mods) - juicy repo by [[hdc0]] with various tools and documentation
