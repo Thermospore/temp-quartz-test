@@ -25,7 +25,7 @@ After grabbing the yellow [[Color Crystal|Gem]], you can quickly [[Death Abuse|D
 
 To collect all the [[Crystal]]s on the [[Minecart]] track, it seems to require at least two trips. After taking one trip in and collecting the chest, you have two options
 1. [[Death Abuse|DA]] to the level entrance, and take another two trips on the [[Minecart]] (there + back)
-2. backtrack and take the [[Minecart]] back to the level entrance
+2. backtrack and take one trip on the [[Minecart]], back to the level entrance
 	- this seems faster ([link](https://discord.com/channels/313375426112389123/408694062862958592/1287289751467987014)), but it hasn't been timed
 
 By jumping about [[Pasted image 20241007223617.png|here]] (on the ridge) you can easily grab the rear two [[Crystal]]s on the way in, then grab the first one on the way back out ([video](https://youtu.be/JLR4RQwyErE&t=461))
