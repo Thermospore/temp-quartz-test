@@ -48,7 +48,7 @@ The green [[Color Crystal|Gem]] on [[PS1]] is harder to collect than on [[PC]]; 
 	- (the model will disappear when far enough away, but this is purely cosmetic)
 - resets when you die
 
-For each side, here is the memory address that stores the height (y) of the first platform:
+For each path, here is the memory address that stores the height (y) of the first platform:
 - [[Pasted image 20240626212515.png|left]] - `Croc2.exe+2240D0`
 - [[Pasted image 20240626212046.png|right]] - `Croc2.exe+2245A0`
 # Minecart Crystal jankiness
