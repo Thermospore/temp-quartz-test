@@ -7,7 +7,7 @@ aliases:
 This path (along with the left) is subject to an [[1-2 Find 5 Lost Treasure Chests#Elevator platform|Elevator platform]] cycle. When doing the right path first (or immediately after a [[Death Abuse|DA]]) you have tons of leeway to make the cycle, and it is likely impossible to make a better cycle
 
 The timing is a little tricky, but at the start you can do lil [[Minecart]] hops [[chests_lilspeedhops.mp4|like so]] to maintain your speed up the slope
-- actually, you don't even have to **hold** left/right like in the vid, even just lil taps are good enough to grab the left/right crystals
+- actually, you don't even have to *hold* left/right like in the vid, even just lil taps are good enough to grab the left/right crystals
 - alas, this strat is unneeded when doing right path first (or immediately after a [[Death Abuse|DA]]) because of the [[1-2 Find 5 Lost Treasure Chests#Elevator platform|Elevator platform]] cycle
 
 No practical use, but you *can* front flip up [[Pasted image 20240627203846.png|this]] wall (find video evidence)
