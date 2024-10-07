@@ -16,7 +16,15 @@ When the system language is set to Japanese, the Define Controls menu is buggy a
 
 [Here](https://discord.com/channels/313375426112389123/408694062862958592/1292210678022672466) is some discussion between [[hdc0]] and [[Thermospore]] troubleshooting the issue
 
-The issue seems to be with the code for retrieving input device key names ([link](https://discord.com/channels/313375426112389123/408694062862958592/1292367040669028384)). And [[hdc0]] says it doesn't seem possible to exploit this for speedrunning ([link]([https://discord.com/channels/313375426112389123/408694062862958592/1292385230472216667))
+The issue seems to be with the code for retrieving input device key names ([link](https://discord.com/channels/313375426112389123/408694062862958592/1292367040669028384)). [[hdc0]] says it doesn't seem possible to exploit this for speedrunning ([link](https://discord.com/channels/313375426112389123/408694062862958592/1292385230472216667)).
+
+Actually, it seems to be due to Japanese characters in the key names:
+
+> Here's a list of keyboard key names as reported by DirectInput 7 (the version used by Croc 2) in case anyone wants to check which key names contain Japanese characters on Japanese Windows and thus potentially crash the game.
+> 
+> ![[DirectInput 7 keyboard key names.json]]
+> 
+> &mdash; <cite>[[hdc0]]</cite>, [2024-10-06](https://discord.com/channels/313375426112389123/408694062862958592/1292494093103927368)
 ### Keyboard arrow Keys
 Mapping an [[Pasted image 20241006134720.png|arrow key]] makes all text for that mapping go blank. For example in [[Pasted image 20241006100658.png|this]] screenshot, one of the *Movement* keys has been mapped to an arrow key
 

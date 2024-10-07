@@ -15,6 +15,10 @@ It's pretty easy to do. Found [here](https://www.youtube.com/watch?v=u0RS7hTrOA4
 Apparently you can do it down at the bottom too... ([clip](https://discord.com/channels/313375426112389123/476594364106276870/729585297901486110))
 ## Right side
 It is quite hard, and probably requires either luck or a setup. Found by [[Cheftoad]] [here](https://discord.com/channels/313375426112389123/408694062862958592/448107691496439809)
+
+[[croc 2 pc right cage skip.mov|Here]] is another clip of [[Thermospore]] getting it
+
+(isn't there another pattern where you are facing diagonally towards the [[Door]] / [[Color Crystal|Gem]]?)
 # [[PS1]]
 ## Left side
 When was this first found? It is in [this](https://www.youtube.com/watch?v=yQamI1Zl0P4&t=35s) [[Hypnoshark]] run (on [[PS1#JP]]), at least
