@@ -36,7 +36,9 @@ This path (along with the right) is subject to an [[1-2 Find 5 Lost Treasure Che
 
 The green [[Color Crystal|Gem]] on [[PS1]] is harder to collect than on [[PC]]; it is behind a tight turn like the purple [[Color Crystal|Gem]] ([video](https://youtu.be/wJ1YUwekFSs&t=263))
 
-< is there a one-and-done strat for [[Pasted image 20241006215824.png|this]] [[Minecart]] section??? >
+For [[Pasted image 20241006215824.png|the 2nd]] [[Minecart]] section, [[Thermospore]] finds [this](https://youtu.be/Wp1JCvygw-M?si=1_YfBMTB6kN-nEFW&t=200) strat pretty easy / consistent
+
+< is it possible to do that [[Minecart]] section in one trip??? >
 
 < what are the best strats for the various phases of [[Pasted image 20240626212515.png|this]] [[1-2 Find 5 Lost Treasure Chests#Elevator platform|Elevator platform]] cycle?? >
 
