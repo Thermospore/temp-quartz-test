@@ -2,11 +2,12 @@
 aliases:
   - Babies
 ---
-(document [this](https://discord.com/channels/313375426112389123/408694062862958592/669079522234073091) giant pile of random finds)
-
-(omg and [wall climbing](https://discord.com/channels/313375426112389123/408694062862958592/740715478548348929))
-
-(also spin attack buffering. note you can't use the [[Clockwork Gobbo]] while buffering)
+Some stuff that needs to be added to this page:
+- document [this](https://discord.com/channels/313375426112389123/408694062862958592/669079522234073091) giant pile of random finds
+- omg and [wall climbing](https://discord.com/channels/313375426112389123/408694062862958592/740715478548348929)
+- also spin attack buffering. note you can't use the [[Clockwork Gobbo]] while buffering. [here](https://discord.com/channels/313375426112389123/408694062862958592/473703892966834186) is some technical info. [Here](https://discord.com/channels/313375426112389123/408694062862958592/1293477454052327466) is a tip to check if it is still active
+- note what does and does not get reset when you die
+- how much slower are you while carrying a baby? Is it worth it to bring a baby to the next are or not? ([Discussion](https://discord.com/channels/313375426112389123/408694062862958592/1293478667569070172))
 
 You get 2 [[Crystal]]s from returning a baby to a cage, but if it's crying (from being dropped on the ground) you get 0 crystals.
 
@@ -28,6 +29,8 @@ You can stomp on these pots, allowing you to do unintended things. For example, 
 ![[Pasted image 20240621194901.png]]
 # Baby Zipping
 Be careful, because you can zip [[OoB]] and die (get some clips of it, from [[Thermospore|thermo]] / [[Cheftoad]]/ [[KZ_FREW]])
+
+Wow, [here](https://discord.com/channels/313375426112389123/408694062862958592/1293374308432871534) is some new zip tech from [[limbus]]
 ## Discovery
 [[TheCrypticJacknife]] posted [this](https://youtu.be/Fybv6fa7mNk) YouTube video on 2011-02-08 demonstrating the glitch.
 
