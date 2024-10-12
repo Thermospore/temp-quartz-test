@@ -4,7 +4,7 @@ tags:
 ---
 The glitch where you clip into [[3-G Caveman Tribe - Secret Mine]] without meeting the 5 [[Golden Gobbo]] requirement
 
-(obviously there is no point, but I wonder if it works in [[Lost Levels|Secret]] caveman too :thinking:)
+(obviously there is no point, but I wonder if it works in [[Lost Levels|Secret]] [[Caveman Hub|caveman]] too :thinking:)
 
 Allows runners to skip 5 trophies in the [[100%]] category. Initial runs were done without a setup and were extremely inconsistent. 
 

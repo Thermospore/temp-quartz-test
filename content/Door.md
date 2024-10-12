@@ -10,7 +10,7 @@ clipping through doors, like in [[3-1 Find the Wheels in the Jungle!|Jungle]] or
 
 wait we also gotta define types of doors:
 - doors that warp you within a map (ex: the door you enter after [[Cage Skip]] in [[1-1 Find the Key! Save the Gobbo!|Cage]])
-- doors that warp you to a new map (ex: the door in Sailor Hub that takes you to [[1-1 Find the Key! Save the Gobbo!|Cage]], or believe it or not the door in [[1-B1 Soveena the Squid|Soveena]] that takes you into the boss area)
+- doors that warp you to a new map (ex: the door in [[Sailor Hub]] that takes you to [[1-1 Find the Key! Save the Gobbo!|Cage]], or believe it or not the door in [[1-B1 Soveena the Squid|Soveena]] that takes you into the boss area)
 - doors that are just doors (ex: the door that locks you out of [[3-B2 The Village Masher|Masher]])
 
 ***waaaaait*** shoot we should separate:

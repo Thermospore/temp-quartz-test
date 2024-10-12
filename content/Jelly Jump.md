@@ -33,7 +33,7 @@ Usually, this address is 0. But when you do a gummi jump, it gets written with a
 
 Simply using [[Cheat Engine]] to write a value to this address will cause croc to do a gummi jump (assuming you have the other addresses set appropriately)
 
-As an aside, this address is used for other jumps too! For example, the hippo jumps in Sailor and the jelly jumps / cave exits in [[2-1 Save the Ice Trapped Gobbos!|Iceblock]])
+As an aside, this address is used for other jumps too! For example, the hippo jumps in [[Sailor Hub|Sailor]] and the jelly jumps / cave exits in [[2-1 Save the Ice Trapped Gobbos!|Iceblock]])
 ### Address B
 As mentioned above, Address A isn't just used for gummi jumps. Address B seems to determine what type of jump you do when Address A is set. For gummi jumps, it should be set to `0xFFFFF000`.
 

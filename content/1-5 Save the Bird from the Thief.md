@@ -19,4 +19,4 @@ The green [[Jelly Jump|Gummi Jump]] up to the [[Clockwork Gobbo]] [[Pasted image
 - using a orange jelly (proven [here](https://discord.com/channels/313375426112389123/408694062862958592/1292035291338637373) on [[PS1#JP]])
 - (btw, this same skip can be done in [[1-3 Get the Gobbo's Sandwich!|Crow]])
 
-The [[Clockwork Gobbo]] has a [[Heart Pot]] at the end (I believe this is the only level with a heart pot..? apart from the simon says game in sailor hub)
+The [[Clockwork Gobbo]] has a [[Heart Pot]] at the end (I believe this is the only level with a heart pot..? apart from the simon says game in [[Sailor Hub]])

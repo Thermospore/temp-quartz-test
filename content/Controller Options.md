@@ -30,16 +30,16 @@ Mapping an [[Pasted image 20241006134720.png|arrow key]] makes all text for that
 
 In this state, trying to access the Define Controls screen via the [[Pause Menu]] will hard crash the game in the following levels:
 - [[Lost Levels|Secret]] [[1-1 Find the Key! Save the Gobbo!|Cage]] ([clip](https://www.twitch.tv/thermospore/clip/BoxySaltySrirachaTheTarFu-27Qp22DcufbY6fNb))
-- [[Cossack Village]] (as does the [[Lost Levels|Secret]] version)
+- [[Cossack Hub]] (as does the [[Lost Levels|Secret]] version)
 - [[2-3 It's Just Snowball Madness!|Snowball]]
 - [[2-4 Hang Glider Valley|Glider]] (as does the [[Lost Levels|Secret]] version)
 - [[4-B1 Dante's Peak|Plane]]
 - (and probably many others)
   
-It is confirmed to not crash in [[Sailor Village]] ([[Pasted image 20241006133352.png|screenshot]])
+It is confirmed to not crash in [[Sailor Hub]] ([[Pasted image 20241006133352.png|screenshot]])
 ### Controller analog stick
 - The analog stick is also blank in the [[Main Menu]] ([[Pasted image 20241006140649.png|screenshot]])
-- In some levels (ex [[Sailor Village]] or [[Cossack Village]]) it does not hard crash in the [[Pause Menu]], but has [文字化け](https://en.wikipedia.org/wiki/Mojibake) ([[Pasted image 20241006142425.png|screenshot]])
+- In some levels (ex [[Sailor Hub]] or [[Cossack Hub]]) it does not hard crash in the [[Pause Menu]], but has [文字化け](https://en.wikipedia.org/wiki/Mojibake) ([[Pasted image 20241006142425.png|screenshot]])
 - In [[2-3 It's Just Snowball Madness!|Snowball]] you can open the Define Controls screen to the Keyboard page ([[Pasted image 20241006141307.png|screenshot]]), but if you try to move over to the controller page the game hard crashes
 
 ![[Pasted image 20241006143221.png]]
