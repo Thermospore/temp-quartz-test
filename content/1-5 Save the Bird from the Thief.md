@@ -3,6 +3,8 @@ aliases:
   - Thief
   - Theif
 ---
+In the first cave, you can skip through the [[Rope]]s by front flipping. It's a little tight though. An easy trick is to flip right as Croc's nose hits the edge you are jumping off of ([[Pasted image 20241012222020.png|diagram]])
+
 In [[Any%]], you can kill the Thief as early as [here](https://youtu.be/dRv3UE2Tbzw&t=438). This was demonstrated in [this](https://youtu.be/bbE3VtKJsIQ) 2011-04-20 YouTube video by [[TheCrypticJacknife]]
 
 The Thief can also be killed early [here](https://youtu.be/OGYPKGV6ONs&t=34)

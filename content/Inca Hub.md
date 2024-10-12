@@ -4,6 +4,8 @@ aliases:
   - Inca
 ---
 (content goes here)
+
+---
 # [[Inca Hub]] Levels
 - [[4-1 Save 30 Gobbo Babies!]]
 - [[4-2 Up The Waterfall]]
