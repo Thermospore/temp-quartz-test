@@ -22,11 +22,11 @@ There are generally two ways to break the box
 1. don't stomp through to the ground ([video](https://youtu.be/XKoU4jYjFtE&t=33) - [[Thermospore]])
 2. stomp through to the ground ([video](https://youtu.be/ix4OKKu06uI&t=101) - [[limbus]])
 
-[[Thermospore]] found stomping to be ~0.1 seconds slower *when you have to turn after breaking the box*. Timing was done [like so](https://youtu.be/4glbUNsIQXw) at the [[3-B2 The Village Masher|Masher]] boss room entrance (not ideal, because of the sharp turn into the boss room).
+[[Thermospore]] found stomping to be ~0.1 seconds slower *when you have to turn after breaking the box*. Timing was done [like so](https://youtu.be/4glbUNsIQXw) at the [[3-B2 The Village Masher|Masher]] boss room entrance (honestly not ideal, because of the sharp turn into the boss room).
 1. not stomping - 3.70 sec (best of 10 tries)
 2. yes stomping - 3.82 sec (best of 15 tries; to offset the fact that I usually don't stomp)
 
-When *going straight* after breaking the box, the methods were within a frame of each other (timed the same way as above, but at the entrance to [[1-B1 Soveena the Squid|Soveena]] boss room)
+When *going straight* after breaking the box, the two ways were within a frame of each other (timed using the same method as above, but at the entrance to [[1-B1 Soveena the Squid|Soveena]] boss room)
 
 One downside to stomping is that there is a small but very real chance you stomp through the map
 
