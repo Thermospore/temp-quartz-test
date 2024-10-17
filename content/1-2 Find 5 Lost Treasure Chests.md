@@ -30,7 +30,7 @@ To collect all the [[Crystal]]s on the [[Minecart]] track, it seems to require a
 
 By jumping about [[Pasted image 20241007223617.png|here]] (on the ridge) you can easily grab the rear two [[Crystal]]s on the way in, then grab the first one on the way back out ([video](https://youtu.be/JLR4RQwyErE&t=461))
 
-(vaguely remember there is something you can do on those zapper crystal conveyor belt things to hard crash the game, but I forget)
+(vaguely remember there is something you can do on those zapper crystal [[Conveyor belt]] things to hard crash the game, but I forget)
 ## Left
 This path (along with the right) is subject to an [[1-2 Find 5 Lost Treasure Chests#Elevator platform|Elevator platform]] cycle
 
