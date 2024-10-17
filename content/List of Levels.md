@@ -25,3 +25,4 @@ IDK where the level names came from; PS1? should check for errors / consistency
 still need [[Lost Levels|Secret]], also [[Swap Meet Pete|SMP]]? what about all the other `.wad` files?
 - add [this](https://discord.com/channels/313375426112389123/408694062862958592/1281219829826719878) somewhere!! you can jump up this platform in secret thief without a stomp!
 - also [this](https://discord.com/channels/313375426112389123/408694062862958592/520828594902269953)!!
+- and [this](https://discord.com/channels/313375426112389123/408694062862958592/559585014644473876)!!
