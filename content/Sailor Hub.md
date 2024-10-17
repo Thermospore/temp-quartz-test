@@ -11,7 +11,9 @@ The layout of the entrance area is different between [[PC]] and [[PS1]] (did [[N
 ## Simon Says
 Gives you 1 [[Heart Pot]]
 
-Look into [this](https://discord.com/channels/313375426112389123/408694062862958592/1280522049764331645) strat
+Once you start talking to the [[Gobbo]], you can actually immediately quit out of the dialogue and do the JUMP → TAIL ATTACK → STOMP at your own pace ([[2024-10-17 18-57-34.mp4|video]]). You must land the jump before doing the tail attack. You'll know you did it right when you get the poof of leaves
+
+Fun fact: if you can somehow make it up to the top of the tree (ex using [[Cheat Engine]]), you are able to collect the [[Heart Pot]] without talking to the [[Gobbo]]!
 ## Trampoline
 Gives you 100 [[Crystal]]s
 # Sailor River
