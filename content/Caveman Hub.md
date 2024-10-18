@@ -3,6 +3,8 @@ aliases:
   - Caveman Hub
   - Caveman
 ---
+If you die in the middle of collecting the minigame items, the items respawn < WAIT WHAT: if you die after putting all the ingredients in the pot, the items respawn, but the king still gives you the money??? [discussion](https://discord.com/channels/313375426112389123/408694062862958592/1296804885420970056) BTW if you havent collected the [[Swap Meet Pete Card|SMP Card]] you get the *cha-ching* sound, but you don't get any crystals>
+
 It is possible to stomp directly up from [[Swap Meet Pete|SMP]] to the lava river, without taking the ramp (ADD A VIDEO OF IT). [[Thermospore]] calculated it saves about 0.4 seconds ([google sheet](https://docs.google.com/spreadsheets/d/1hxLD4lTYKMre238Lb4G2PMxfm8mAmUd7WmKIgy8Y898/edit?usp=sharing))
 
 In addition to making it rain, the witch doctor [[Gobbo]] can make it snow! You just might have to talk to him many many times... ([discord](https://discord.com/channels/313375426112389123/408694062862958592/1287259842326827171))
