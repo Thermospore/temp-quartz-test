@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Inca Hub
+  - Inca Village
   - Inca
 ---
 (content goes here)

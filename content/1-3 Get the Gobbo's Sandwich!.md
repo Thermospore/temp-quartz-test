@@ -3,6 +3,8 @@ aliases:
   - Crow
   - Sandwich
 ---
+It's bit tricky, but you can use the [[Clockwork Gobbo|Robo Gobbo]] from the bridge, without having to jump down and take the [[Balloon]] back up ([[crow_balloonlessRG.mp4|video]])
+
 In the final room, you can do a [[Gummi Buffer]] into the [[Golden Gobbo]] section, allowing you to skip up onto the platforms. (check which type of [[Jelly Jump|Gummi]] is the fastest). Discovered by [[Paulmall]] [here](https://discord.com/channels/313375426112389123/408694062862958592/864121426369708032) on 2021-07-12
 
 The green [[Jelly Jump|Gummi Jump]] up to [[Pasted image 20240930194216.png|this]] [[Crystal]] box in the final room can be skipped by:
