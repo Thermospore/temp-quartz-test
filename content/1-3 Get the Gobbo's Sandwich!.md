@@ -8,7 +8,7 @@ You can use the [[Clockwork Gobbo|Robo Gobbo]] from the bridge, without having t
 - Switching to [[Controller Options#Type 2|Type 2]] can make it easier to get a ledge grab (but loses time, of course)
 - [[Pasted image 20241019165007.png|This]] screenshot from [[limbus]] (presumably orthographic and from Blender) shows the valid range where the bridge doesn't block the Clockwork Marker
 
-In the final room, you can do a [[Gummi Buffer]] into the [[Golden Gobbo]] section, allowing you to skip up onto the platforms. (check which type of [[Jelly Jump|Gummi]] is the fastest). Discovered by [[Paulmall]] [here](https://discord.com/channels/313375426112389123/408694062862958592/864121426369708032) on 2021-07-12
+In the final room, you can do a [[Gummi Buffer]] into the [[Golden Gobbo]] section, allowing you to skip up onto the platforms. < check which type of [[Jelly Jump|Gummi]] is the fastest >. Discovered by [[Paulmall]] [here](https://discord.com/channels/313375426112389123/408694062862958592/864121426369708032) on 2021-07-12
 
 The green [[Jelly Jump|Gummi Jump]] up to [[Pasted image 20240930194216.png|this]] [[Crystal]] box in the final room can be skipped by:
 - doing a [[Cage Skip]]
@@ -18,7 +18,7 @@ The green [[Jelly Jump|Gummi Jump]] up to [[Pasted image 20240930194216.png|this
 # Blind gems
 < general tech / explanation here >
 
-you can actually even do blind [[Smash Box]]es haha ([video](https://discord.com/channels/313375426112389123/408694062862958592/1297109540629774336))
+you can even do blind [[Smash Box]]es haha ([video](https://discord.com/channels/313375426112389123/408694062862958592/1297109540629774336))
 ## Green
 ## Purple
 ## Blue
