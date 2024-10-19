@@ -9,6 +9,7 @@ You don't have to be on the ground to use a Clockwork Gobbo. You can even use it
 1. you are above the clockwork marker
 2. there is nothing between Croc and the clockwork marker
 	- for example, [[Pasted image 20241019162537.png|this]] bridge in [[1-3 Get the Gobbo's Sandwich!|Crow]] blocks Clockwork Gobbo usage (you can [[crow_balloonlessRG.mp4|jump around it though!]])
+	- < any levels other than [[1-3 Get the Gobbo's Sandwich!|Crow]] where we can check / verify this? >
 
 There are some clockwork gobbo areas you can get into as Croc, without using cheats
 - [[3-1 Find the Wheels in the Jungle!|Jungle]]

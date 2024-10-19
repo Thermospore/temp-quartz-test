@@ -3,7 +3,7 @@ aliases:
   - Crow
   - Sandwich
 ---
-It's bit tricky, but you can use the [[Clockwork Gobbo|Robo Gobbo]] from the bridge, without having to jump down and take the [[Balloon]] back up ([[crow_balloonlessRG.mp4|video]])
+It's bit tricky, but you can use the [[Clockwork Gobbo|Robo Gobbo]] from the bridge, without having to jump down and take the [[Balloon]] back up ([[crow_balloonlessRG.mp4|video]]; discovered by [[Thermospore]] 2024-10-19). [[Paulmall]] quickly discovered a setup: you can just do a ledge grab and use the [[Clockwork Gobbo]] right when you pull yourself up ([video](https://discord.com/channels/313375426112389123/408694062862958592/1297102335843242006)). [[Pasted image 20241019165007.png|This]] screenshot from [[limbus]] (presumably orthographic and from Blender) shows the valid range where the bridge doesn't block the Clockwork Marker
 
 In the final room, you can do a [[Gummi Buffer]] into the [[Golden Gobbo]] section, allowing you to skip up onto the platforms. (check which type of [[Jelly Jump|Gummi]] is the fastest). Discovered by [[Paulmall]] [here](https://discord.com/channels/313375426112389123/408694062862958592/864121426369708032) on 2021-07-12
 
