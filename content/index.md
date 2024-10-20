@@ -17,4 +17,5 @@ if you edit the files it will take ~60s for the changes to reflect on the site
 # Useful Stuff
 - [[External Resources]]
 - [[List of Levels]]
+- [[Croc 2 HD wishlist]]
 - [[Website Maintenance]]
