@@ -4,6 +4,7 @@ aliases:
   - Gummy Jump
   - Gummi
   - Gummy
+  - Gummi Saver
 ---
 (see also: [[Gummi Buffer]])
 

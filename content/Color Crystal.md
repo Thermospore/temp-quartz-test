@@ -1,6 +1,7 @@
 ---
 aliases:
   - Gem
+  - Colour Crystal
 ---
 (also see: [[Crystal]])
 

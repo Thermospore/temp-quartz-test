@@ -1,6 +1,7 @@
 ---
 aliases:
   - PSX
+  - PlayStation
 ---
 Checking backlinks will probably reveal some platform / region differences
 
