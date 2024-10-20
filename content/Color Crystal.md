@@ -7,7 +7,7 @@ aliases:
 
 ![[Pasted image 20240701204704.png]]
 
-We almost always call these "gems", for whatever reason
+We almost always call these "gems", for whatever reason < wait, maybe it's only me ([[Thermospore|thermo]]) who does lmao >
 
 `0x52AECC` contains the number of gems you have collected in the current level (independent of save slot). As you would expect, it starts at 0 and goes up to 5.
 
