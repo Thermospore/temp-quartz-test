@@ -1,6 +1,8 @@
-fill this page out; can start by adding stuff from [here](https://discord.com/channels/313375426112389123/408694062862958592/1297501693247881297)
+- see also: #Glitch 
 
-Limbus suggestions:
+< keep filling this page out; can start by adding stuff from [here](https://discord.com/channels/313375426112389123/408694062862958592/1297501693247881297) >
+
+[[Limbus]] suggestions:
 1. Keep glitches in the game if they're cool, they make speedruns fun and they're not going to infringe on a normal player's experiences of the game. Some great examples of this are [[Upwarp|upwarps]], [[Cutscene Break|binocular skipping/cutscene breaks]] and [[Hazard Jump|hazard jumping]].
 2. If Croc 2 HD has to feature Jelly Jumps rather than Gummi Savers for copyright reasons, keep the bigger Gummi Saver hitbox on the new Jellies, they're much easier to land on and they make the jumps more forgiving.
 3. Add a collectible item that's automatically obtained upon collecting 100 crystals in a level, perhaps a Crystal Gobbo like the Golden Gobbo. These could be tracked against the save file, and could appear outside the level entrance like Golden Gobbos do.
