@@ -1,3 +1,5 @@
+- see also: [[PS1]]
+
 Checking backlinks will probably reveal some platform / region differences
 # Regions
 ## US

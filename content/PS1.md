@@ -3,6 +3,8 @@ aliases:
   - PSX
   - PlayStation
 ---
+- see also: [[PC]]
+
 Checking backlinks will probably reveal some platform / region differences
 
 Could using / not using a save card save time? Also, I wonder if you could save on load times by pre-loading some stuff before starting your run?
