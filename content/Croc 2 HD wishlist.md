@@ -33,3 +33,19 @@
 1. [[Invisible wall|Invisible walls]]. Sometimes when jumping across the threshold of a ledge over the void, Croc's horizontal speed will be reduced suddenly to zero, which can often lead to death. They seem to be caused by Croc's position being directly above the void, and they're exacerbated by the presence of Ice and Conveyor Belts.
 2. When using TNT to break the first Box containing a Wheel on [[3-2 Find the Wheels in the Mine!]], if the Box is moving between Conveyor belts when the second TNT hits, the wheel will spawn far below where the box was. It seems to look for the floor directly beneath where the box was to spawn it, and if there's no floor, it goes to 0.
 3. Rings of 8 Crystals such as the ones that appear in [[2-2 Chase the Choo Choo Train]] and [[4-4 Goo Man Chu's Tower]] will disappear if the player dies, only respawning upon Game Over or re-entering the level.
+# [[Thermospore]]'s suggestions
+< [source](https://discord.com/channels/313375426112389123/408694062862958592/1297503382717726740); these are ancient and should be updated / cleaned up >
+## graphical fixes
+- shadows on trees before shortcut in boat level
+- croc's shadow clipping/z fighting into terrain
+- no croc shadow on flavio level (there is a shadow on ps1)
+## cutscene fixes
+- always have boss cutscene after last level in villages
+- sometimes cutscenes break or don't play (EG, the cutscene in flytrap with the shot of the inside of his mouth)?
+## gameplay  fixes/improvements
+- falling off the top of ledges
+	- worst offenders being last ledge on crow, that ladder in babies, and the ladder at the end of mammoth
+- lock camera to dante on wind part?
+- INVISIWALLS
+- babies bouncing out of cribs
+- general camera improvements?
