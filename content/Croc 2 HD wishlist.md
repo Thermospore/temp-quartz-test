@@ -2,9 +2,9 @@
 
 < keep filling this page out; can start by adding stuff from [here](https://discord.com/channels/313375426112389123/408694062862958592/1297501693247881297) >
 # [[hdc0]]'s suggestions
-1. Add back the music tracks that were removed from the PC version due to the CD-ROM size limit
+1. Add back the music tracks that were removed from the [[PC]] version due to the CD-ROM size limit
 2. Store used boss warps in the savegame
-3. Zero the memory pools at level start or initialize the position of the pet platform
+3. Zero the memory pools at level start or initialize the position of the [[3-4 Climb the Devil's Tower!#Pet platform|pet platform]]
 4. Fix the translation to other languages
 
 ([source](https://discord.com/channels/313375426112389123/408694062862958592/1297505641962672170))
