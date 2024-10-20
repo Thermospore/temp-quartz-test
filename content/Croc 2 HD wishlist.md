@@ -33,6 +33,7 @@
 	  - Swimming Levels: At least two are known about, the one with the giant fish monster seen in [this trailer](https://www.youtube.com/watch?v=DCtowzjpmaY), and one that was datamined by [[OverSurge]].
 	  - The original outdoor Cannon Boat Keith fight
 	  - The Plane Level: while according to [[Nic Cusworth]], this level was retooled into [[2-4 Hang Glider Valley]] due to the low draw distance forcing the plane to move slowly, this would obviously no longer be an issue on modern hardware, and from the 1 second we've ever seen of it, the level appeared to have been different enough in layout to justify being separate to [[2-4 Hang Glider Valley]].
+If these levels were to be integrated into the main game, perhaps they could be unlocked by collecting the Crystal Gobbos from my earlier suggestion.
 ## Glitches to be fixed
 1. [[Invisible wall|Invisible walls]]. Sometimes when jumping across the threshold of a ledge over the void, Croc's horizontal speed will be reduced suddenly to zero, which can often lead to death. They seem to be caused by Croc's position being directly above the void, and they're exacerbated by the presence of Ice and Conveyor Belts.
 2. When using TNT to break the first Box containing a Wheel on [[3-2 Find the Wheels in the Mine!]], if the Box is moving between Conveyor belts when the second TNT hits, the wheel will spawn far below where the box was. It seems to look for the floor directly beneath where the box was to spawn it, and if there's no floor, it goes to 0.
