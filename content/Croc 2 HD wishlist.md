@@ -9,6 +9,7 @@ hdc0's suggestions:
 4. Fix the translation to other languages
 
 [[Limbus]] suggestions:
+
 Quality of Life Suggestions:
 1. Keep glitches in the game if they're useful for speedrunning and they're not going to infringe on a normal player's experience of the game. Some great examples of this are [[Upwarp|upwarps]], [[Cutscene Break|binocular skipping/cutscene breaks]] and [[Hazard Jump|hazard jumping]].
 2. If Croc 2 HD has to feature Jelly Jumps rather than Gummi Savers for copyright reasons, keep the bigger Gummi Saver hitbox on the new Jellies, they're much easier to land on and they make the jumps more forgiving.
