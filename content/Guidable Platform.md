@@ -12,6 +12,8 @@ They are present in levels such as
 - [[3-2 Find the Wheels in the Mine!|Mines]]
 - [[4-3 Bride of the Dungeon of Defright|Puzzles]]
 - (any others?)
+
+Apparently you can get [[Invisible wall|invisiwall]]'d (?) off of them... ([video](https://discord.com/channels/313375426112389123/476594364106276870/1298243537866981426) from [[3-2 Find the Wheels in the Mine!|Mines]])
 # Name
 - at a glance, they don't seem to be mentioned in the Croc 2 PC/PS1 manuals
 - their "debug name" is `Guidable Platform (cave)` ([source](https://discord.com/channels/313375426112389123/347524018334859265/1284989163195863053))
