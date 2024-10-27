@@ -28,8 +28,12 @@ You can select 1 through 5. You spawn into the hub as if you walked out of [[Swa
 
 ![[Pasted image 20240918142058.png]]
 # Inventory Edit
-Here are the maximum values you are allowed to give yourself in the Inventory Edit screen:
+Here are the maximum values you are allowed to give yourself in the Inventory Edit screen ([[PC#US]]):
 
 ![[Pasted image 20240918142657.png]]
 
 (though, as seen in [[Key]], it is possible for the values to go higher than that)
+
+And here is what that screen looks like on [[PC#EU]]:
+
+![[Pasted image 20241027204911.png]]

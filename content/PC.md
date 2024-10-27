@@ -6,6 +6,8 @@ Checking backlinks will probably reveal some platform / region differences
 Same as with [[PS1]], this version has product placement [[Jelly Jump|Gummi Jump]]s, while the others have plain Jelly Jumps. This seems to provide an advantage, because the Gummi Jumps are wider. This, for example, allows you to make a jump in [[1-5 Save the Bird from the Thief|Theif]] / [[1-3 Get the Gobbo's Sandwich!|Sandwich]] with only a Blue, instead of the intended Green.
 ## EU
 This version has multiple European languages available, while the US version only has English
+
+In the [[Display Options]] menu, "[[Pasted image 20241027204342.png|color]]" has been changed to "[[Pasted image 20241027204455.png|colour]]"
 # Installing multiple regions simultaneously
 You can have multiple regions installed simultaneously, as long as they are installed in separate folders
 
