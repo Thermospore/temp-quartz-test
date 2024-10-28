@@ -8,6 +8,8 @@ Same as with [[PS1]], this version has product placement [[Jelly Jump|Gummi Jump
 This version has multiple European languages available, while the US version only has English
 
 In the [[Display Options]] menu, "[[Pasted image 20241027204342.png|color]]" has been changed to "[[Pasted image 20241027204455.png|colour]]"
+
+[[limbus]] made a list of what the items in [[Swap Meet Pete|SMP]] are called in each language ([link](https://discord.com/channels/313375426112389123/408694062862958592/1300102351755149425))
 # Installing multiple regions simultaneously
 You can have multiple regions installed simultaneously, as long as they are installed in separate folders
 
