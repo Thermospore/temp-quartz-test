@@ -42,6 +42,7 @@ Here is some random stuff I've got ([source](https://discord.com/channels/313375
 - Croc's shadow clips / z-fights with the terrain (might be [[PC]] specific)
 - In [[2-B1 Flavio the Thermal Fish|Flavio]] on [[PC]], Croc doesn't have a shadow on the ground, which makes it more difficult to tell where you are
 - In [[4-1 Save 30 Gobbo Babies!|Babies]], the baby's models get garbled when they are thrown between the Dantinis ([[Pasted image 20241102190343.png|screenshot]])
+- No one is allowed to fix [this](https://clips.twitch.tv/SoftSpicyFlamingoDuDudu-iO2b9bZOUY4hcYHc), actually they should make it so it happens every time lol
 ## Cutscene fixes
 - Sometimes cutscenes break or don't play (EG, the cutscene in [[3-B1 Venus Fly Von-Trappe|Flytrap]] with the shot of the inside of it's mouth)?
 ## Gameplay fixes / improvements
@@ -53,6 +54,10 @@ Here is some random stuff I've got ([source](https://discord.com/channels/313375
 	- [[Pasted image 20240621194901.png|This]] ladder in [[4-1 Save 30 Gobbo Babies!|Babies]]
 	- The very last ladder in [[3-4 Climb the Devil's Tower!|Mammoth]]
 - In [[4-B2 Dante's Final Fight|Dante]] when you are in [[Pasted image 20241102184323.png|these]] wind blowing phases, it would be nice if the camera locked on to Dante
-- I pray in the name of Jez San pls fix [[Invisible wall|invisiwall]]s 🙏 also stumbles
+- I pray in the name of Jez San pls fix:
+	- [[Invisible wall|invisiwall]]
+	- stumbles < need to make an article / add examples >
+	- [[Rope#Falling off]]
+	- [[Monkey Bars#Dropping off]]
 - In [[4-1 Save 30 Gobbo Babies!|Babies]], fix babies bouncing out of cribs
 - General camera intelligence improvements would be nice, as well as being able to manually control the camera with the other stick
