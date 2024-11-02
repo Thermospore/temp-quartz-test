@@ -8,6 +8,7 @@ Some stuff that needs to be added to this page:
 - also spin attack buffering. note you can't use the [[Clockwork Gobbo]] while buffering. [here](https://discord.com/channels/313375426112389123/408694062862958592/473703892966834186) is some technical info. [Here](https://discord.com/channels/313375426112389123/408694062862958592/1293477454052327466) is a tip to check if it is still active
 - note what does and does not get reset when you die
 - how much slower are you while carrying a baby? Is it worth it to bring a baby to the next are or not? ([Discussion](https://discord.com/channels/313375426112389123/408694062862958592/1293478667569070172))
+- the baby's models get garbled when they are thrown between the Dantinis ([[Pasted image 20241102190343.png|screenshot]])
 
 You get 2 [[Crystal]]s from returning a baby to a cage, but if it's crying (from being dropped on the ground) you get 0 crystals.
 

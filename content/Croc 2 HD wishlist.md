@@ -36,18 +36,23 @@
 2. When using TNT to break the first [[Box]] containing a Wheel on [[3-2 Find the Wheels in the Mine!]], if the Box is moving between [[Conveyor belt]]s when the second TNT hits, the wheel will spawn far below where the box was. It seems to look for the floor directly beneath where the box was to spawn it, and if there's no floor, it goes to 0.
 3. Rings of 8 Crystals such as the ones that appear in [[2-2 Chase the Choo Choo Train]] and [[4-4 Goo Man Chu's Tower]] will disappear if the player dies, only respawning upon Game Over or re-entering the level.
 # [[Thermospore]]'s suggestions
-< [source](https://discord.com/channels/313375426112389123/408694062862958592/1297503382717726740); these are ancient and need to be updated / cleaned up / clarified >
-## graphical fixes
-- shadows on trees before shortcut in boat level
-- croc's shadow clipping/z fighting into terrain
-- no croc shadow on flavio level (there is a shadow on ps1)
-## cutscene fixes
-- always have boss cutscene after last level in villages
-- sometimes cutscenes break or don't play (EG, the cutscene in flytrap with the shot of the inside of his mouth)?
-## gameplay  fixes/improvements
-- falling off the top of ledges
-	- worst offenders being last ledge on crow, that ladder in babies, and the ladder at the end of mammoth
-- lock camera to dante on wind part?
-- INVISIWALLS
-- babies bouncing out of cribs
-- general camera improvements?
+Here is some random stuff I've got ([source](https://discord.com/channels/313375426112389123/408694062862958592/1297503382717726740)). [[limbus]] has already covered most of my ideas
+## Graphical fixes
+- In [[1-4 Croc Vs. Dantini Boat Race|Boat]] on [[PC]], the shadows under the trees before the waterfall shortcut are broken ([[Pasted image 20241102183155.png|screenshot]])
+- Croc's shadow clips / z-fights with the terrain (might be [[PC]] specific)
+- In [[2-B1 Flavio the Thermal Fish|Flavio]] on [[PC]], Croc doesn't have a shadow on the ground, which makes it more difficult to tell where you are
+- In [[4-1 Save 30 Gobbo Babies!|Babies]], the baby's models get garbled when they are thrown between the Dantinis ([[Pasted image 20241102190343.png|screenshot]])
+## Cutscene fixes
+- Sometimes cutscenes break or don't play (EG, the cutscene in [[3-B1 Venus Fly Von-Trappe|Flytrap]] with the shot of the inside of it's mouth)?
+## Gameplay fixes / improvements
+- Like [[limbus]] says, it would be nice to leave in glitches that are fun / useful for speedruns, and don't negatively affect gameplay. For example [[Hazard Jump]]ing, [[Infinite Jump]], [[4-1 Save 30 Gobbo Babies!#Baby Zipping|Baby Zipping]], etc
+- It would be really nice to fix this: [[PS1#Input delay]]
+	- But it's not present on [[PC]], so maybe they already fixed it
+- Fix how Croc tends to fall off the top of [[Climbing Wall]]s / ladders. Worst offenders:
+	- The final wall in [[1-3 Get the Gobbo's Sandwich!|Crow]] ([[Pasted image 20241102184036.png|screenshot]])
+	- [[Pasted image 20240621194901.png|This]] ladder in [[4-1 Save 30 Gobbo Babies!|Babies]]
+	- The very last ladder in [[3-4 Climb the Devil's Tower!|Mammoth]]
+- In [[4-B2 Dante's Final Fight|Dante]] when you are in [[Pasted image 20241102184323.png|these]] wind blowing phases, it would be nice if the camera locked on to Dante
+- I pray in the name of Jez San pls fix [[Invisible wall|invisiwall]]s 🙏 also stumbles
+- In [[4-1 Save 30 Gobbo Babies!|Babies]], fix babies bouncing out of cribs
+- General camera intelligence improvements would be nice, as well as being able to manually control the camera with the other stick
