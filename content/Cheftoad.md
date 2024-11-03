@@ -1,4 +1,6 @@
 ---
 tags:
   - Person
+aliases:
+  - Chef
 ---
