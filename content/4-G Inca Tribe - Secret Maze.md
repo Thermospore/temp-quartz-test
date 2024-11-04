@@ -2,9 +2,25 @@
 aliases:
   - Inca Jigsaw
 ---
-(write something about the traveling salesman saga)
+# Routes
+## [[100%]]
+In the image below ([source](https://discord.com/channels/313375426112389123/408694062862958592/1302798063391477841)), [[limbus]] has used Blender to measure out 3 paths. The entrance is at the top of the image, with the [[Jigsaw Piece]] at the bottom. He found the path on the right is the fastest.
+
+![[Pasted image 20241104181000.png]]
+
+> Left - 107.23
+> 
+> Centre - 104.59
+> 
+> Right - 96.63
+> 
+> that's in metres in blender
+>
+> &mdash; <cite>[[limbus]]</cite>
+## [[Max%]]
+< write up the [traveling salesman saga](https://discord.com/channels/313375426112389123/408694062862958592/482364629285076992) >
 # Door remnant
-(need to re-organize this section)
+< need to re-organize this section >
 
 There appears to be remnants of a door, behind a wall in the [[Jigsaw Piece]] room ([discovery](https://discord.com/channels/313375426112389123/408694062862958592/1282108520451412039))
 
