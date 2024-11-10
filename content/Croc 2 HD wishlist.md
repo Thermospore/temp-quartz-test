@@ -37,15 +37,15 @@
 3. Rings of 8 Crystals such as the ones that appear in [[2-2 Chase the Choo Choo Train]] and [[4-4 Goo Man Chu's Tower]] will disappear if the player dies, only respawning upon Game Over or re-entering the level.
 # [[Thermospore]]'s suggestions
 Here is some random stuff I've got ([source](https://discord.com/channels/313375426112389123/408694062862958592/1297503382717726740)). [[limbus]] has already covered most of my ideas
-## Graphical fixes
+## Cosmetic stuff
 - In [[1-4 Croc Vs. Dantini Boat Race|Boat]] on [[PC]], the shadows under the trees before the waterfall shortcut are broken ([[Pasted image 20241102183155.png|screenshot]])
 - Croc's shadow clips / z-fights with the terrain (might be [[PC]] specific)
 - In [[2-B1 Flavio the Thermal Fish|Flavio]] on [[PC]], Croc doesn't have a shadow on the ground, which makes it more difficult to tell where you are
 - In [[4-1 Save 30 Gobbo Babies!|Babies]], the baby's models get garbled when they are thrown between the Dantinis ([[Pasted image 20241102190343.png|screenshot]])
 - No one is allowed to fix [this](https://clips.twitch.tv/SoftSpicyFlamingoDuDudu-iO2b9bZOUY4hcYHc), actually they should make it so it happens every time lol
-## Cutscene fixes
-- Sometimes cutscenes break or don't play (EG, the cutscene in [[3-B1 Venus Fly Von-Trappe|Flytrap]] with the shot of the inside of it's mouth)?
-## Gameplay fixes / improvements
+- Sometimes cutscenes break or don't play (EG, the cutscene in [[3-B1 Venus Fly Von-Trappe|Flytrap]] with the shot of the inside of its mouth)?
+- There is a reverb effect (IIRC only in caves?) on [[PS1]] that isn't on [[PC]]; it would be nice to bring that back!
+## Gameplay stuff
 - Like [[limbus]] says, it would be nice to leave in glitches that are fun / useful for speedruns, and don't negatively affect gameplay. For example [[Hazard Jump]]ing, [[Infinite Jump]], [[4-1 Save 30 Gobbo Babies!#Baby Zipping|Baby Zipping]], etc
 - It would be really nice to fix this: [[PS1#Input delay]]
 	- But it's not present on [[PC]], so maybe they already fixed it
