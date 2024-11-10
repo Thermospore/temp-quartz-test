@@ -29,6 +29,7 @@ To collect all the [[Crystal]]s on the [[Minecart]] track, it seems to require a
 	- this seems faster ([link](https://discord.com/channels/313375426112389123/408694062862958592/1287289751467987014)), but it hasn't been timed
 
 By jumping about [[Pasted image 20241007223617.png|here]] (on the ridge) you can easily grab the rear two [[Crystal]]s on the way in, then grab the first one on the way back out ([video](https://youtu.be/JLR4RQwyErE&t=461))
+- [[limbus]] found a backup strat for if you were only able to grab the middle crystal on the way in ([video](https://discord.com/channels/313375426112389123/408694062862958592/1305083072449875992))
 
 (vaguely remember there is something you can do on those zapper crystal [[Conveyor belt]] things to hard crash the game, but I forget)
 ## Left
