@@ -3,7 +3,9 @@ aliases:
   - Inca Village
   - Inca
 ---
-(content goes here)
+[[4-G Inca Tribe - Secret Maze|Inca Jigsaw]] -> burp minigame -> [[4-2 Up The Waterfall|Waterfall]] is about 1.3 seconds faster *without* a wrongwarp:
+- [video - with ww](https://youtu.be/AkUG53AFCh0)
+- [video - without ww](https://youtu.be/7fQ5y0mdgSk)
 
 ---
 # [[Inca Hub]] Levels
