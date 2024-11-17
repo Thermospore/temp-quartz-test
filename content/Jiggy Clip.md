@@ -11,3 +11,5 @@ Allows runners to skip 5 trophies in the [[100%]] category. Initial runs were do
 Discovered on 2019-09-12 by [[Paulmall]] ([original video](https://discord.com/channels/313375426112389123/408694062862958592/621627275926044672))
 
 In 2020-07, [[Thermospore]] found a consistent [setup](https://www.youtube.com/watch?v=vZKiRpvqyGs)
+
+In 2024-11, [[Thermospore]] found a faster consistent [setup](https://www.youtube.com/watch?v=cUwTstfa-bk)
