@@ -6,6 +6,8 @@ Right at the start you can do a [[Cage Skip]] (the skip is named after this leve
 
 You can do a front flip [here](https://discord.com/channels/313375426112389123/408694062862958592/1296080584531247124) to maintain momentum through the dialogue (verify if this actually saves time, and where else it can be applied)
 
+It's a bit tight, but you can actually directly stomp on the [[Smash Box]] in the green [[Color Crystal|Gem]] cave ([video](https://www.twitch.tv/gamesdonequick/clip/LaconicNiceCurryResidentSleeper-yA0188_ML-pw3Ue2))
+
 When grabbing the green [[Color Crystal|Gem]] and [[Death Abuse|DA]]ing back to the [[Save Gong]], you have two options:
 1. grab the heart during the fade-out
 	- slow, but easy and you get a heart
