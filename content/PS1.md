@@ -16,4 +16,4 @@ The PAL version runs in slow motion at 25 FPS, making it useless for speedruns (
 ## JP
 In the JP version you have 5 lives, while only 3 in US/EU. This makes the JP version the preferred version for speedruns. (any other reasons? loading speeds?)
 # Input delay
-For some reason, the PS1 of the game has additional input delay that [[PC]] does not. This is not input delay due to emulation; it is also present on a physical PS1 + CRT display. This input delay is not present in Croc 1 PS1/PC
+For some reason, the PS1 version of Croc 2 has additional input delay that [[PC]] does not. This input delay is not due to emulation; it is also present on a physical PS1 + CRT display. This input delay is not present in Croc 1 PS1/PC
