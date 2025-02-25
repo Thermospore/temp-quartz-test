@@ -8,6 +8,8 @@ If only you could clip into the cage to grab the [[Jigsaw Piece]] early... (many
 
 This level contains some [[Smash Box#Double stack|double stack Smash Boxes]]
 
+It is possible to [[Upwarp]] onto the [[Minecart]] helix track in the second room [like so](https://www.youtube.com/watch?v=aQ2OfqEUj7M) ([here](https://discord.com/channels/313375426112389123/347524018334859265/1343537420028743762) is the original Discord post). This could potentially come in handy in [[Max%]] if you missed a [[Crystal]]?
+
 You must break the box to get up to [[Pasted image 20240923205311.png|this]] section (to get the crystals for [[Max%]]), so you only have one shot. But if you mess up, you can re-spawn the box with a [[Death Abuse|DA]]!
 
 It might save time to [[Death Abuse|DA]] on the [[Jigsaw Piece]] so you aren't warped, then walk out?? ([video](https://youtu.be/YquOqQz36uU&t=28m55s))
