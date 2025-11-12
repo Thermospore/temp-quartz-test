@@ -31,6 +31,8 @@ You can stomp on these pots, allowing you to do unintended things. For example, 
 # Baby Zipping
 Be careful, because you can zip [[OoB]] and die (get some clips of it, from [[Thermospore|thermo]] / [[Cheftoad]]/ [[KZ_FREW]])
 
+[Here](https://www.twitch.tv/cheftoadgaming/clip/OilyHorribleChipmunkANELE) is a wild zip-[[Upwarp]] [[Cheftoad|Chef]] got
+
 Wow, [here](https://discord.com/channels/313375426112389123/408694062862958592/1293374308432871534) is some new zip tech from [[limbus]]
 ## Discovery
 [[TheCrypticJacknife]] posted [this](https://youtu.be/Fybv6fa7mNk) YouTube video on 2011-02-08 demonstrating the glitch.
