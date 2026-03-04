@@ -5,7 +5,8 @@ aliases:
 crackpot theory to investigate: croc seems to lag behind a bit when you pause the game. I wonder if you could like turbo-spam pause and slow croc down enough to get a triple cycle?
 # Double Cycle
 It is possible to hit Dante twice in one cycle, saving a huge chunk of time.
-## Setup
+## [[PC]]
+### Setup
 Basically, you just have to make sure Croc is within a certain area on screen, and continuously fire bullets. To get right in the center of the valid range, you can line up using Croc's white eyeballs like so:
 - x: line his eyeballs up with that cloud (tall dotted red line in the graphic)
 - y: get about one eyeball length below the cloudline
@@ -15,7 +16,7 @@ Basically, you just have to make sure Croc is within a certain area on screen, a
 Previous setups used Croc's bullet stream to line up, but you can line up with waaaaaay more precision using the position of Croc himself relative to the clouds!!
 
 Also when you let off the controls, Croc still has a ton of residual inertia. If you look directly at Croc it is much easier to kill this inertia and ensure you don't drift out of range.
-## Valid range
+### Valid range
 In order to get the double cycle, Croc's eyeballs must be entirely in this purple blob (in the graphic, Croc is right on the bottom edge of the valid range)
 
 ![[ingame_valid_range.png]]
@@ -25,3 +26,9 @@ To find this valid range, over 100 x/y positions were tested and plotted in [thi
 ![[Pasted image 20240825224313.png]]
 
 Adding more test points could reveal other valid ranges or interesting structures
+## [[PS1]]
+[[Ashen Deimos]] reports the setup needs slight adjustment for [[PS1]]:
+
+> From my quick testing of this the horizontal position is spot on but needs to be eyeballs just under the cloud line. ([discord link](https://discord.com/channels/313375426112389123/408694062862958592/1476587353018732685))
+> 
+> ![[Pasted image 20260227222449.png]]
