@@ -18,20 +18,22 @@ No practical use, but you *can* front flip up [[Pasted image 20240627203846.png|
 
 After grabbing the yellow [[Color Crystal|Gem]], you can quickly [[Death Abuse|DA]] back to the entrance by bouncing under the bridge ([video](https://www.youtube.com/watch?v=veTZwTu4wj0&t=79)). [[Paulmall]] timed this to be about 1 second faster than taking the [[Minecart]] back ([source](https://discord.com/channels/313375426112389123/408694062862958592/602070812693889037)). It could potentially save even more time if you use a purple [[Jelly Jump|Gummi]] (horizontal speed boost)
 ## Middle
-[[limbus]] found a weird frontflip stomp jump strat with the [[Minecart]] elevator. Perhaps it could be abused to grab all the [[Crystal]]s in one trip, or to [[Death Abuse|DA]].
-- [on the way in](https://discord.com/channels/313375426112389123/408694062862958592/1279769934536249380)
-- [on the way out](https://youtu.be/JLR4RQwyErE?si=iJ_i1C9CyPnp3jaS&t=533)
-- ([[Thermospore|thermo]] thought he got a [[Death Abuse|DA]] but it turned out he just accidentally enabled noclip in [[Cheat Engine]] lol... [video](https://discord.com/channels/313375426112389123/408694062862958592/1292824735586979842))
-
 To collect all the [[Crystal]]s on the [[Minecart]] track, it seems to require at least two trips. After taking one trip in and collecting the chest, you have two options
 1. [[Death Abuse|DA]] to the level entrance, and take another two trips on the [[Minecart]] (there + back)
 2. backtrack and take one trip on the [[Minecart]], back to the level entrance
 	- this seems faster ([link](https://discord.com/channels/313375426112389123/408694062862958592/1287289751467987014)), but it hasn't been timed
 
+On 2026-04-01, [[limbus]] managed to grab all the [[Crystal]]s in one trip ([yt](https://www.youtube.com/live/Oqpn8ZiRT8g?si=miUx9OD90hiAfzdp&t=469), [discord](https://discord.com/channels/313375426112389123/408694062862958592/1488755337073917963))! But it has yet to be replicated / made consistent
+
 By jumping about [[Pasted image 20241007223617.png|here]] (on the ridge) you can easily grab the rear two [[Crystal]]s on the way in, then grab the first one on the way back out ([video](https://youtu.be/JLR4RQwyErE&t=461))
 - [[limbus]] found a backup strat for if you were only able to grab the middle crystal on the way in ([video](https://discord.com/channels/313375426112389123/408694062862958592/1305083072449875992))
 
-(vaguely remember there is something you can do on those zapper crystal [[Conveyor belt]] things to hard crash the game, but I forget)
+[[limbus]] found a weird frontflip stomp jump strat with the [[Minecart]] elevator. Perhaps it could be abused to grab all the [[Crystal]]s in one trip, or to [[Death Abuse|DA]].
+- [on the way in](https://discord.com/channels/313375426112389123/408694062862958592/1279769934536249380)
+- [on the way out](https://youtu.be/JLR4RQwyErE?si=iJ_i1C9CyPnp3jaS&t=533)
+- ([[Thermospore|thermo]] thought he got a [[Death Abuse|DA]] but it turned out he just accidentally enabled noclip in [[Cheat Engine]] lol... [video](https://discord.com/channels/313375426112389123/408694062862958592/1292824735586979842))
+
+< vaguely remember there is something you can do on those zapper crystal [[Conveyor belt]] things to hard crash the game, but I forget >
 ## Left
 This path (along with the right) is subject to an [[1-2 Find 5 Lost Treasure Chests#Elevator platform|Elevator platform]] cycle
 
