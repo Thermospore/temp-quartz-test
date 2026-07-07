@@ -6,8 +6,12 @@ aliases:
 ![[Pasted image 20241014222346.png]]
 
 A type of [[Box]] which contains a ring of 5 [[Crystal]]s. The debug name appears to be "Smash Box"
+# Version differences
+On [[PS1]] the radius of the [[Crystal]] ring is relatively large, and you must grab them one by one. On [[PC]] the Crystals are close together and can all be grabbed simultaneously.
 
-On [[PC]] the [[Crystal]]s are close together and can be grabbed simultaneously. On [[PS1]] the radius of the Crystal ring is wider, and you must grab them one by one.
+[[limbus]] presents a theory for this change:
+
+> I think I understand now why the psx version had the crystals all spaced apart like that, if you collect them at the same time it plays the crystal sound at 5x volume similar to when you collect the crystal rings in hang glider valley. the PC version fixed this seemingly by having it only play a single crystal sound
 # Double stack
 There are only two levels that have a double stack:
 - [[1-G Sailor Tribe - Secret Mine|Sailor Jigsaw]]
