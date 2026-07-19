@@ -8,4 +8,4 @@ I forget, does it even actually do anything? Do you actually need it? Usually yo
 
 oo well you can't get the crystals from [[Caveman Hub]] minigame without getting the card first (well, if you try and collect them while having 0 [[Crystal]]s, at least). may apply to other minigames
 
-hol up... did it change from blue on [[PS1]] to purple on [[PC]]? (verify)
+< hol up... did it change from blue on [[PS1]] to purple on [[PC]]? verify this >
