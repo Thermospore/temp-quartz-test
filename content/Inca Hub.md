@@ -16,3 +16,5 @@ aliases:
 - [[4-4 Goo Man Chu's Tower]]
 - [[4-B2 Dante's Final Fight]]
 - [[4-G Inca Tribe - Secret Maze]]
+
+The burp minigame can be [[Cutscene Break|CSB]]'d with [[Magic Eye Zoomers|Binos]], using momentum like the [[2-1 Save the Ice Trapped Gobbos!#Cutscene breaks|Icecube]] CSBs — once you hear the money sound you can enter the next level ([2026-05-29](https://discord.com/channels/313375426112389123/408694062862958592/1509936469383319552), [[Turbomošt]])
