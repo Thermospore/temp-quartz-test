@@ -18,6 +18,12 @@ The address for Soveena's lives is in your save slot for some reason. For the fi
 
 ![[Pasted image 20240918213051.png]]
 
+It turns out this is a generic **boss HP** field rather than a Soveena-specific one: it lives at offset `0x26C` inside the save slot and is reused by every boss. Save slots are `0x2000` bytes each, so:
+- [[PC#US]]: `Croc2.exe+2040C0` + (slot × `0x2000`) + `0x26C`
+- [[PC#EU]]: `Croc2.exe+20B2B0` + (slot × `0x2000`) + `0x26C`
+
+Outside of a boss fight the value sits at 2. It is set to 3 at the start of a fight and decrements with each hit. Setting it to 0 externally is not the same as killing the boss: the death animation plays, but the transition never fires and the game softlocks. The transition seems to be triggered by the damage handler decrementing the value, not by the value itself
+
 It would be nice if we could find a consistent way to get the final bomb throw super tight. Currently we pretty much play a game of chicken and pray we don't throw it too early
 
 > the way I time it is if the green of croc's muzzle is over the fence, you can throw
