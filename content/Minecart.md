@@ -10,6 +10,8 @@ I vaguely recall [[Aroymart]] finding a variety of weird minecart stuff. for exa
 > 
 > &mdash; <cite>[[Aroymart]]</cite>, [2018-12-15](https://discord.com/channels/313375426112389123/408694062862958592/523382224511434752)
 
+< [[Turbomost|Turbomošt]] might have discovered something as well ([discord](https://discord.com/channels/313375426112389123/408694062862958592/1548044702887186473)); could leave to timesave in [[Max%]] perhaps >
+
 In [this](https://www.youtube.com/watch?v=r2Zifh8ZPfk#t=6m15s) video, [[Dr Revert]] manages to do a glitch that makes the minecart doors open even when Croc walks up to them without being on a minecart. This is in the demo WAD for [[1-2 Find 5 Lost Treasure Chests|Chests]], which is why the side paths are missing. Perhaps this can be done in standard levels as well?? Excerpt from the video description:
 
 > At the end of first gameplay I wanted to execute a glitch I managed to activate later, to freely open gates without using the cart. However the camera got stuck for some reason.
