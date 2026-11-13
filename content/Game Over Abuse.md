@@ -7,3 +7,5 @@ Dying while you have 0 hearts left, to get the Game Over screen and be kicked ou
 It can't be used in [[Max%]], because you have to leave the level normally to bank its 100 [[Crystal]]s
 
 Compare: [[Death Abuse|DA]], which keeps you in the level
+
+This maybe belongs in a general Game Over page, but [here](https://docs.google.com/spreadsheets/d/1qO8OKwC2lO5xLHyy5YCDRCFqPmfvvvpsyPnEzInGkjg/edit?usp=sharing) is some documentation of how certain addresses transition when going in/out of the Game Over screen on HD.
