@@ -1,1 +1,12 @@
-Can clean up [this](https://discord.com/channels/313375426112389123/408694062862958592/1290488823918362646) tutorial and put it here
+Stuff to check when testing load removal
+- Starting a new game
+- Entering / exiting a level through a door
+- Return to hub
+- `GO_DOOR` transitions
+- SQ (Save and Quit)
+- [[Game Over Abuse|GOA]]
+- [[Death Abuse|DA]]
+- Any% ending ([[4-B2 Dante's Final Fight|Dante]] → Credits → [[Inca Hub]])
+- Restarting the game in the middle of a run (ex if the game crashed)
+- [[Golden Gobbo]] warp
+- Do a full game run
