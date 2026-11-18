@@ -28,5 +28,4 @@ There is a tendency for the camera to get stuck after doing an upwarp (particula
 > &mdash; <cite>[[Paulmall]]</cite>, [2024-10-02](https://discord.com/channels/313375426112389123/408694062862958592/1290979636347539457)
 
 # Yeet Upwarp
-
-A much bigger upwarp than the classic one, found by [[Turbomošt]] in [[4-2 Up The Waterfall|Waterfall]] ([2026-06-13](https://discord.com/channels/313375426112389123/408694062862958592/1515180494449541303)). Used in the current [[Any%]] and [[Max%]] routes for that level
+A much bigger upwarp than the classic one, found by [[Turbomost|Turbomošt]] in [[4-2 Up The Waterfall|Waterfall]] ([2026-06-13](https://discord.com/channels/313375426112389123/408694062862958592/1515180494449541303)). Used in the current [[Any%]] and [[Max%]] routes for that level
