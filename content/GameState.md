@@ -14,11 +14,11 @@ Here is a table that attempts to map all the game versions together
 | ------------------- | :-----------------------: | :-------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | `GS_NONE`           |             0             |       ??        | On [[OG-PSX]], this might be the opening logos? On [[HD]], they use `GS_SPLASH` (20) for that                                                                                                                                        |
 | `GS_INIT`           |             1             |       ??        | - PSX/HD: Transition from opening logos → intro cutscene where the scientist is taken by dante<br>- PC: doesn't appear to be a thing (maybe cos the argo bottle FMV is broken on modern PCs? Or, maybe this is 8; see below)         |
-| `GS_LANGUAGE`       |             2             |       13        | - PSX/HD: ??<br>- PC: accessible through memory pokes, but is [[Pasted image 20261028211117.png\|broken]] (at least on [[OG-PC#US]])                                                                                                 |
+| `GS_LANGUAGE`       |             2             |       13        | - PSX/HD: ??<br>- PC: accessible through memory pokes, but is [[Pasted image 20261028211117.png\|broken]] (at least on [[OG-PC#US\|OG-PC > US]])                                                                                                 |
 | `GS_TITLE`          |             3             |       16        | [[Main Menu]]                                                                                                                                                                                                                        |
 | `GS_GAME`           |             4             |       11        | Includes both active gameplay and cutscenes                                                                                                                                                                                          |
 | `GS_DEMO`           |             5             |        5        | Demos that run as an attract screen on the [[Main Menu]]                                                                                                                                                                             |
-| `GS_OPTIONS`        |             6             |       14        | - PSX: ??<br>- HD: likely unused (see: [[Options#HD]])<br>- PC: [[Options#OG-PC]] screen accessed from the [[Main Menu]] (doesn't include the [[Pause Menu]])                                                                        |
+| `GS_OPTIONS`        |             6             |       14        | - PSX: ??<br>- HD: likely unused (see: [[Options#HD\|Options > HD]])<br>- PC: [[Options#OG-PC\|Options > OG-PC]] screen accessed from the [[Main Menu]] (doesn't include the [[Pause Menu]])                                                                        |
 | `GS_INITIALS`       |             7             |        9        | - OG: New Game - entering initials<br>- HD: likely unused                                                                                                                                                                            |
 | `GS_CHOOSELOAD`     |             8             |        1        | - OG: Load Game save slot selection screen<br>- HD: likely unused                                                                                                                                                                    |
 | `GS_CONTINUE`       |             9             |        3        | "Continue? Yes / No" screen when you game over                                                                                                                                                                                       |
@@ -33,10 +33,11 @@ Here is a table that attempts to map all the game versions together
 | `GS_BONUS_CONTENT`  |            18             |       ??        | - OG: presumably not a thing<br>- HD: [[Croc2pedia]]                                                                                                                                                                                 |
 | `GS_LOAD_SCREEN`    |            19             |       ??        | Unclear. Possibly [[HD]] only, as it comes after `GS_BONUS_CONTENT` ([[Croc2pedia]])                                                                                                                                                 |
 | `GS_SPLASH`         |            20             |        8        | - HD: company logo vids right when you boot the game<br>- PC: legal text right when you boot the game (or, maybe this should be mapped to `GS_NONE` or `GS_INIT`)                                                                    |
+
 (NOTE: make sure to update mappings both here AND in the autosplitter. Or better yet, make a system with one source of truth)
 
 How this table was constructed:
-1. The state names for HD are listed in order inside [[Croc2.exe#HD PC]], so that is used as the foundation (discovered by [[hdc0]]: [discord](https://discord.com/channels/313375426112389123/408694062862958592/1568992386514948107))
+1. The state names for HD are listed in order inside [[Croc2.exe#HD PC|Croc2.exe > HD PC]], so that is used as the foundation (discovered by [[hdc0]]: [discord](https://discord.com/channels/313375426112389123/408694062862958592/1568992386514948107))
 2. The values for [[OG-PC]] were then mapped to HD through observation
 	- (this involved a bit of guesswork, and could have inaccuracies)
 3. Descriptions for each state were added through observation
@@ -49,7 +50,7 @@ In general, you can enter an arbitrary `GameState` by hijacking game code which 
 
 By default, the following address contains the `GameState` for the credits screen
 - [[OG-PC]] -  `Croc2.exe + 0x1AC66`
-- [[HD#Steam]] - `croc2.exe + 0x211718` (as of [this post](https://discord.com/channels/313375426112389123/1533834309360680970/1569183439624601662))
+- [[HD#Steam|HD > Steam]] - `croc2.exe + 0x211718` (as of [this post](https://discord.com/channels/313375426112389123/1533834309360680970/1569183439624601662))
 
 Poke the address for your version to contain your desired `GameState`, then enter the credits screen
 - [[OG-PC]]: enter the credits [[Cheats|cheat]] on the main menu (hold A, press C, Right, C, C, Down, Left, Up, Right, T)
@@ -58,7 +59,7 @@ Poke the address for your version to contain your desired `GameState`, then ente
 The game will now transition to whatever `GameState` you entered!
 
 For example, we often use this method to enter the Level Select screen (18 on [[OG-PC]])
-## Testing on [[HD#Steam]]
+## Testing on [[HD#Steam|HD > Steam]]
 Unfortunately, the method above doesn't seem to work well on [[HD]] 
 
 < maybe can get better results with a different address / method >
@@ -72,12 +73,12 @@ The following values do something different:
 - `GS_CREDITS` (12) - takes you to the credits (duh; default value)
 - `GS_LEVELSELECT` (14)
 
-Dysfunctional bastard child of [[Options#HD]] and [[Level Select]]:
+Dysfunctional bastard child of [[Options#HD|Options > HD]] and [[Level Select]]:
 ![[Pasted image 20261117230755.png]]
 `NewWAD` changes when you move left/right, so some of the [[Level Select]] UI code is still there under the hood.
 
 - `GS_BONUS_CONTENT` (18) - behaves like normal
-## Testing on [[OG-PC#US]]
+## Testing on [[OG-PC#US|OG-PC > US]]
 - 0 - appears to be a blank blue screen, with no way to exit?
 - 7 - goes to a black screen and the game closes
 - 10 - another blue screen dead-end
