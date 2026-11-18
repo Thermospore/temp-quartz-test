@@ -13,7 +13,7 @@ The most well known / prevalent upwarp is [this](https://youtu.be/IiwgHgq1IGs) o
 
 (wait, there are some cases where that geometry wont work, right? like if there is no floor above? or like at the end of [[3-4 Climb the Devil's Tower!|Pet]] where there is a tiki torch above)
 
-Originally we thought it only worked on [[PC]], but [[limbus]] discovered on [2024-09-30](https://discord.com/channels/313375426112389123/408694062862958592/1290114434353860679) that it works on [[PS1]] too ([video](https://discord.com/channels/313375426112389123/408694062862958592/1290116347107213434)). You just have to do it on the opposite side, due to a change in [[Quad triangulation]]
+Originally we thought it only worked on [[OG-PC]], but [[limbus]] discovered on [2024-09-30](https://discord.com/channels/313375426112389123/408694062862958592/1290114434353860679) that it works on [[OG-PSX]] too ([video](https://discord.com/channels/313375426112389123/408694062862958592/1290116347107213434)). You just have to do it on the opposite side, due to a change in [[Quad triangulation]]
 
 (implement [this](https://discord.com/channels/313375426112389123/408694062862958592/1290150696238321666) info/speculation from [[limbus]] on the requirements for it to work)
 

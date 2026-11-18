@@ -52,6 +52,6 @@ This setting can only be accessed in-game via the [[Pause Menu]] (?)
 ## Type 1
 Type 1 is modern controls, where Croc's movement is relative to the camera direction
 ## Type 2
-Type 2 is classic tank controls, where Croc's movement is entirely independent from the camera. This makes movement very consistent, and is useful for setups (ex [[Jiggy Clip]] or [[Hella Skip]]). Unfortunately, Type 2 doesn't seem to be available on [[PS1|PSX]], only [[PC]]
+Type 2 is classic tank controls, where Croc's movement is entirely independent from the camera. This makes movement very consistent, and is useful for setups (ex [[Jiggy Clip]] or [[Hella Skip]]). Unfortunately, Type 2 doesn't seem to be available on [[OG-PSX|PSX]], only [[OG-PC]]
 # Manual
 ![[Pasted image 20240701211459.png]]

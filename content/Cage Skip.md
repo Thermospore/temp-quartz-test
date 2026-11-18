@@ -7,8 +7,8 @@ It was found in [[1-1 Find the Key! Save the Gobbo!|Cage]], but the geometry is 
 - [[1-3 Get the Gobbo's Sandwich!|Crow]]
 - (list others)
 
-There are differences between [[PC]] and [[PS1]], likely due the change in [[Quad triangulation]]
-# [[PC]]
+There are differences between [[OG-PC]] and [[OG-PSX]], likely due the change in [[Quad triangulation]]
+# [[OG-PC]]
 ## Left side
 It's pretty easy to do. Found [here](https://www.youtube.com/watch?v=u0RS7hTrOA4) by [[-o-]], then posted [here](https://discord.com/channels/313375426112389123/408694062862958592/419523187064438784) on Discord by [[hdc0]]
 
@@ -19,11 +19,11 @@ It is quite hard, and probably requires either luck or a setup. Found by [[Cheft
 [[croc 2 pc right cage skip.mov|Here]] is another clip of [[Thermospore]] getting it
 
 (isn't there another pattern where you are facing diagonally towards the [[Door]] / [[Color Crystal|Gem]]?)
-# [[PS1]]
+# [[OG-PSX]]
 ## Left side
-When was this first found? It is in [this](https://www.youtube.com/watch?v=yQamI1Zl0P4&t=35s) [[Hypnoshark]] run (on [[PS1#JP]]), at least
+When was this first found? It is in [this](https://www.youtube.com/watch?v=yQamI1Zl0P4&t=35s) [[Hypnoshark]] run (on [[OG-PSX#JP]]), at least
 
-([[Paulmall]] said ([1](https://discord.com/channels/313375426112389123/408694062862958592/1290133155160002611) , [2](https://discord.com/channels/313375426112389123/408694062862958592/1290159088654618775)) on [[PS1]] it might be easier on JP than US/EU, but this is very unconfirmed)
+([[Paulmall]] said ([1](https://discord.com/channels/313375426112389123/408694062862958592/1290133155160002611) , [2](https://discord.com/channels/313375426112389123/408694062862958592/1290159088654618775)) on [[OG-PSX]] it might be easier on JP than US/EU, but this is very unconfirmed)
 ## Right side
 [Here](https://discord.com/channels/313375426112389123/408694062862958592/1290133147069055062) is a clip of [[limbus]] getting it, during the [[Quad triangulation]] saga.
 

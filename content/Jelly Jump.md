@@ -14,7 +14,7 @@ According to [[Swap Meet Pete]], it is illegal to hold more than 9 (lmao)
 
 ![[Pasted image 20241027205212.png]]
 
-Most runners tend to run on [[PC#US]], so these usually are referred to as blue, green, and purple gummi jumps
+Most runners tend to run on [[OG-PC#US]], so these usually are referred to as blue, green, and purple gummi jumps
 
 ![[Pasted image 20240630203500.png]]
 

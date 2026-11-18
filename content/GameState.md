@@ -2,19 +2,82 @@
 aliases:
   - MainState
 ---
-< This is in the middle of a re-write 2026-11-14 [[Thermospore|thermo]]>
+As the name would imply, this memory address contains an integer that represents the current state of the game (such as being on the [[Main Menu]], in-game, on the [[Options]] screen, etc)
 
-As the name would imply, this memory address contains an integer that represents the current state of the game (such as being on the [[Main Menu]], in-game, [[Options]] screen, etc)
-# Entering an arbitrary `GameState`
-You can enter whatever state you want by hi-jacking the credits [[Cheats|cheat]]! For [[PC]]:
-1. Poke the address `0x41AC66` to contain the state # you wish to enter
-	- by default, the address contains the state # for the credits screen, as of course this is intended to take you to the credits
-	- (we have long known putting 18 here takes you to the [[Level Select]] screen)
-2. Enter the credits cheat
-	- (on the main menu: `hold A, press C, Right, C, C, Down, Left, Up, Right, T`)
-3. The game will now transition to whatever state # you entered!
-# Testing unknown `GameState`s
-Testing various state numbers (og [[PC]]), by hijacking the credits cheat as described above.
+< how does the timing compare between game versions? >
+# Table
+Unfortunately, the values are scrambled between [[OG-PSX]] and [[OG-PC]]. The [[HD]] version is based on [[OG-PSX]].
+
+Here is a table that attempts to map all the game versions together
+
+| State name          | [[OG-PSX]] ([[HD]]) value | [[OG-PC]] value | Description                                                                                                                                                                                                                          |
+| ------------------- | :-----------------------: | :-------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `GS_NONE`           |             0             |       ??        | On [[OG-PSX]], this might be the opening logos? On [[HD]], they use `GS_SPLASH` (20) for that                                                                                                                                        |
+| `GS_INIT`           |             1             |       ??        | - PSX/HD: Transition from opening logos → intro cutscene where the scientist is taken by dante<br>- PC: doesn't appear to be a thing (maybe cos the argo bottle FMV is broken on modern PCs? Or, maybe this is 8; see below)         |
+| `GS_LANGUAGE`       |             2             |       13        | - PSX/HD: ??<br>- PC: accessible through memory pokes, but is [[Pasted image 20261028211117.png\|broken]] (at least on [[OG-PC#US]])                                                                                                 |
+| `GS_TITLE`          |             3             |       16        | [[Main Menu]]                                                                                                                                                                                                                        |
+| `GS_GAME`           |             4             |       11        | Includes both active gameplay and cutscenes                                                                                                                                                                                          |
+| `GS_DEMO`           |             5             |        5        | Demos that run as an attract screen on the [[Main Menu]]                                                                                                                                                                             |
+| `GS_OPTIONS`        |             6             |       14        | - PSX: ??<br>- HD: likely unused (see: [[Options#HD]])<br>- PC: [[Options#OG-PC]] screen accessed from the [[Main Menu]] (doesn't include the [[Pause Menu]])                                                                        |
+| `GS_INITIALS`       |             7             |        9        | - OG: New Game - entering initials<br>- HD: likely unused                                                                                                                                                                            |
+| `GS_CHOOSELOAD`     |             8             |        1        | - OG: Load Game save slot selection screen<br>- HD: likely unused                                                                                                                                                                    |
+| `GS_CONTINUE`       |             9             |        3        | "Continue? Yes / No" screen when you game over                                                                                                                                                                                       |
+| `GS_INTRO`          |            10             |       ??        | < maybe it's that argo message in a bottle intro that's broken on modern [[OG-PC\|PC]]s? >                                                                                                                                           |
+| `GS_GAMEOVER`       |            11             |       12        | - OG: "Game Over" screen (when you run out of lives and select "No" in `GS_CONTINUE`, OR when you exit the game via the [[Pause Menu]])<br>- HD: likely unused (selecting "No" on `GS_CONTINUE` takes you straight to [[Main Menu]]) |
+| `GS_CREDITS`        |            12             |        4        | [[Credits]]                                                                                                                                                                                                                          |
+| `GS_NEXTLEVEL`      |            13             |       ??        | ??                                                                                                                                                                                                                                   |
+| `GS_LEVELSELECT`    |            14             |       18        | [[Level Select]] (appears to be almost entirely dysfunctional on [[HD]]...?)                                                                                                                                                         |
+| `GS_GO_TO_TITLE`    |            15             |       19        | Transition from the scientist intro cutscene → Main Menu                                                                                                                                                                             |
+| `GS_GO_TO_HUB4`     |            16             |       20        | After you beat [[4-B2 Dante's Final Fight\|Dante]], the transition from the credits back into [[Inca Hub]]                                                                                                                           |
+| `GS_EXIT_SLIDESHOW` |            17             |       ??        | < is this 6 on [[OG-PC]], when you exit the game?? and/or maybe used in a demo version? >                                                                                                                                            |
+| `GS_BONUS_CONTENT`  |            18             |       ??        | - OG: presumably not a thing<br>- HD: [[Croc2pedia]]                                                                                                                                                                                 |
+| `GS_LOAD_SCREEN`    |            19             |       ??        | Unclear. Possibly [[HD]] only, as it comes after `GS_BONUS_CONTENT` ([[Croc2pedia]])                                                                                                                                                 |
+| `GS_SPLASH`         |            20             |        8        | - HD: company logo vids right when you boot the game<br>- PC: legal text right when you boot the game (or, maybe this should be mapped to `GS_NONE` or `GS_INIT`)                                                                    |
+(NOTE: make sure to update mappings both here AND in the autosplitter. Or better yet, make a system with one source of truth)
+
+How this table was constructed:
+1. The state names for HD are listed in order inside [[Croc2.exe#HD PC]], so that is used as the foundation (discovered by [[hdc0]]: [discord](https://discord.com/channels/313375426112389123/408694062862958592/1568992386514948107))
+2. The values for [[OG-PC]] were then mapped to HD through observation
+	- (this involved a bit of guesswork, and could have inaccuracies)
+3. Descriptions for each state were added through observation
+
+The following `GameState`s are known on [[OG-PC]], but it is unclear how they map to [[OG-PSX]] (if at all)
+- 2: New Game - save slot selection screen
+- 6: on game exit
+# Credits hijack
+In general, you can enter an arbitrary `GameState` by hijacking game code which normally takes you to the credits screen
+
+By default, the following address contains the `GameState` for the credits screen
+- [[OG-PC]] -  `Croc2.exe + 0x1AC66`
+- [[HD#Steam]] - `croc2.exe + 0x211718` (as of [this post](https://discord.com/channels/313375426112389123/1533834309360680970/1569183439624601662))
+
+Poke the address for your version to contain your desired `GameState`, then enter the credits screen
+- [[OG-PC]]: enter the credits [[Cheats|cheat]] on the main menu (hold A, press C, Right, C, C, Down, Left, Up, Right, T)
+- [[HD]]: simply enter the credits through the options on the [[Main Menu]]
+
+The game will now transition to whatever `GameState` you entered!
+
+For example, we often use this method to enter the Level Select screen (18 on [[OG-PC]])
+## Testing on [[HD#Steam]]
+Unfortunately, the method above doesn't seem to work well on [[HD]] 
+
+< maybe can get better results with a different address / method >
+
+Almost all of the `GameState` values (even valid ones) simply softlock you on the main menu:
+![[Pasted image 20261117224330.png]]
+(pressing esc / B does nothing, and you are stuck here forever)
+
+The following values do something different:
+- `GS_DEMO` (5) - behaves like normal
+- `GS_CREDITS` (12) - takes you to the credits (duh; default value)
+- `GS_LEVELSELECT` (14)
+
+Dysfunctional bastard child of [[Options#HD]] and [[Level Select]]:
+![[Pasted image 20261117230755.png]]
+`NewWAD` changes when you move left/right, so some of the [[Level Select]] UI code is still there under the hood.
+
+- `GS_BONUS_CONTENT` (18) - behaves like normal
+## Testing on [[OG-PC#US]]
 - 0 - appears to be a blank blue screen, with no way to exit?
 - 7 - goes to a black screen and the game closes
 - 10 - another blue screen dead-end
@@ -44,36 +107,3 @@ It seems the internal name is `GameState`, not `MainState`:
 > MainState -> GameState
 > 
 > UsedBossWarps -> IntrosTriggered
-# Table
-Unfortunately, the values are scrambled between OG and HD. 
-
-Luckily, we know the variable names + corresponding HD values, because they are listed inside HD's [[Croc2.exe|croc2.exe]] ([[hdc0]] via [discord](https://discord.com/channels/313375426112389123/408694062862958592/1568992386514948107))
-
-OG value + description were added through observation by [[Thermospore]]
-
-The mapping between HD and OG is somewhat guesswork, and could be inaccurate.
-
-| Variable name       | HD value | OG value | Description                                                                                                                                                                                                                                |
-| ------------------- | :------: | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `GS_NONE`           |    0     |    ??    | < TEST ON HD! >                                                                                                                                                                                                                            |
-| `GS_INIT`           |    1     |    ??    | - OG: doesn't appear to be a thing (maybe cos the argo bottle FMV is broken on modern [[PC]]s?)<br>- HD: transition from `GS_SPLASH` → intro cutscene where the scientist is taken by dante                                                |
-| `GS_LANGUAGE`       |    2     |    13    | < TEST ON HD! >                                                                                                                                                                                                                            |
-| `GS_TITLE`          |    3     |    16    | [[Main Menu]]                                                                                                                                                                                                                              |
-| `GS_GAME`           |    4     |    11    | Includes both active gameplay and cutscenes                                                                                                                                                                                                |
-| `GS_DEMO`           |    5     |    5     | Demos that run as an attract screen on the main menu                                                                                                                                                                                       |
-| `GS_OPTIONS`        |    6     |    14    | < TEST ON HD! > [[Options]] (only on OG, and doesn't include the [[Pause Menu]])                                                                                                                                                           |
-| `GS_INITIALS`       |    7     |    9     | - OG: New Game - entering initials<br>- HD: < TEST ON HD! >                                                                                                                                                                                |
-| `GS_CHOOSELOAD`     |    8     |    ??    | < prob the save slot select screen for either new or load game on OG >                                                                                                                                                                     |
-| `GS_CONTINUE`       |    9     |    3     | "Continue? Yes / No" screen when you game over                                                                                                                                                                                             |
-| `GS_INTRO`          |    10    |    ??    | < what is this? maybe it's that argo message in a bottle intro that's broken on modern [[PC]]s? >                                                                                                                                          |
-| `GS_GAMEOVER`       |    11    |    12    | - OG: "Game Over" screen (when you run out of lives and select "No" in `GS_CONTINUE`, OR when you exit the game via the [[Pause Menu]])<br>- < TEST ON HD > not in HD; selecting "No" on `GS_CONTINUE` takes you straight to [[Main Menu]] |
-| `GS_CREDITS`        |    12    |    4     | What it sounds like                                                                                                                                                                                                                        |
-| `GS_NEXTLEVEL`      |    13    |    ??    | < what is this? >                                                                                                                                                                                                                          |
-| `GS_LEVELSELECT`    |    14    |    18    | - OG: This is the blue screen where you select a wad ID (only accessable through poking memory)<br>- HD: < is this still in HD? [see tcrf](https://tcrf.net/Croc_2_(Windows,_PlayStation)#Level_Select) >                                  |
-| `GS_GO_TO_TITLE`    |    15    |    19    | Transition from the scientist intro cutscene → Main Menu                                                                                                                                                                                   |
-| `GS_GO_TO_HUB4`     |    16    |    ??    | < CHECK THE VALUE FOR OG > After you beat dante, the transition from the credits back into [[Inca Hub]]                                                                                                                                    |
-| `GS_EXIT_SLIDESHOW` |    17    |    ??    | < is this 6 on OG, when you exit the game?? >                                                                                                                                                                                              |
-| `GS_BONUS_CONTENT`  |    18    |    ??    | - OG: presumably not a thing<br>- HD: Croc2pedia                                                                                                                                                                                           |
-| `GS_LOAD_SCREEN`    |    19    |    ??    | < what is this?? OG save slot select?>                                                                                                                                                                                                     |
-| `GS_SPLASH`         |    20    |    8     | - OG: legal text right when you boot the game<br>- HD: company logo vids right when you boot the game                                                                                                                                      |
-NOTE: make sure to update mappings both here AND in the autosplitter (or better yet, make a system with one source of truth)

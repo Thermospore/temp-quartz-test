@@ -6,15 +6,15 @@ We almost always refer to this as the "Cheat Menu", for whatever reason
 
 ![[Pasted image 20240918141456.png]]
 
-There is a nice section [here](https://tcrf.net/Croc_2_(Windows,_PlayStation)#Cheat_Mode) on TCRF about it, but here are the codes for both [[PS1]] and [[PC]], for convenience:
+There is a nice section [here](https://tcrf.net/Croc_2_(Windows,_PlayStation)#Cheat_Mode) on TCRF about it, but here are the codes for both [[OG-PSX]] and [[OG-PC]], for convenience:
 
 > For PlayStation, at the title screen, hold **L1** and press **Triangle, Left, Left, Right, Square, Up, Up, Left, Circle**. If entered correctly, 'Cheat Menu Active' will appear at the top of the screen. During gameplay, press **R2 + L2** simultaneously to bring up the cheat menu.
 > 
 > For Windows, at the title screen, hold **A** and then press **T, Left, Left, Right, Space, Up, Up, Left, C**. During gameplay, press **Page Up and Page Down** simultaneously.
 
-NOTE: it works on [[PS1#JP]] too; you just have to use ✕ instead of ○
+NOTE: it works on [[OG-PSX#JP]] too; you just have to use ✕ instead of ○
 
-[[hdc0]] figured out how to activate this on [[PC]], along with a bunch of other [[Cheats]], in [this](https://www.speedrun.com/croc_2/forums/l2qjp) classic SRC post
+[[hdc0]] figured out how to activate this on [[OG-PC]], along with a bunch of other [[Cheats]], in [this](https://www.speedrun.com/croc_2/forums/l2qjp) classic SRC post
 
 [Here](https://www.youtube.com/watch?v=E0B_O-F742E) is a clip where [[Thermospore]] managed to bug it out and have it open in the [[Main Menu]]
 
@@ -28,12 +28,12 @@ You can select 1 through 5. You spawn into the hub as if you walked out of [[Swa
 
 ![[Pasted image 20240918142058.png]]
 # Inventory Edit
-Here are the maximum values you are allowed to give yourself in the Inventory Edit screen ([[PC#US]]):
+Here are the maximum values you are allowed to give yourself in the Inventory Edit screen ([[OG-PC#US]]):
 
 ![[Pasted image 20240918142657.png]]
 
 (though, as seen in [[Key]], it is possible for the values to go higher than that)
 
-And here is what that screen looks like on [[PC#EU]]:
+And here is what that screen looks like on [[OG-PC#EU]]:
 
 ![[Pasted image 20241027204911.png]]

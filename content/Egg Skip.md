@@ -4,10 +4,10 @@ tags:
 ---
 < need to do some investigation into egg skip + clean up this note >
 
-it works on [[PC]] and [[PS1]]
+it works on [[OG-PC]] and [[OG-PSX]]
 https://www.speedrun.com/croc_2/runs/y953ljrz
 
-[Here](https://youtu.be/uB1M8jrysVE) is an old tutorial [[Thermospore|thermo]] made for [[PC]]
+[Here](https://youtu.be/uB1M8jrysVE) is an old tutorial [[Thermospore|thermo]] made for [[OG-PC]]
 - although it was 100% consistent at the time of recording, this setup has not turned out to be 100% consistent
 - There are additional variables that are not controlled for yet; this is a work in progress
 

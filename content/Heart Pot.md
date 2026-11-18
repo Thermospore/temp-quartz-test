@@ -1,6 +1,6 @@
 ![[Pasted image 20240701201219.png]]
 
-On [[PS1]] you start with only 3, except for [[PS1#JP]] where you start with 5. You start with 5 in both regions on [[PC]]
+On [[OG-PSX]] you start with only 3, except for [[OG-PSX#JP]] where you start with 5. You start with 5 in both regions on [[OG-PC]]
 
 When you buy a Heart Pot in [[Swap Meet Pete|SMP]], your hearts get refilled < which methods of obtaining Heart Pots do and do not refill your hearts?? >
 

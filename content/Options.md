@@ -2,6 +2,7 @@
 aliases:
   - Settings
 ---
+# [[OG-PC]]
 - [[Display Options]]
 - [[Sound Options]]
 - [[Controller Options]]
@@ -12,3 +13,7 @@ aliases:
 ![[Pasted image 20240620220721.png]]
 
 ![[Pasted image 20240701220312.png]]
+# [[HD]]
+The options screen simply takes place on the [[Main Menu]], and isn't a separate WAD/[[GameState]]
+
+![[Pasted image 20261117224848.png]]

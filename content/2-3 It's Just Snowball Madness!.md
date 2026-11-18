@@ -7,6 +7,6 @@ This level seems to have some interesting cursed geometry, as pointed out by [[l
 
 ![[Pasted image 20240911165858.png]]
 # Jumping over enemies
-On [[PS1]], you take damage from enemies even if you jump over them
+On [[OG-PSX]], you take damage from enemies even if you jump over them
 
-The [[PC]] version fixed this ([[2026-07-19 13-36-36.mp4|vid]])
+The [[OG-PC]] version fixed this ([[2026-07-19 13-36-36.mp4|vid]])

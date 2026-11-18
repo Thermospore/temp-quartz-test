@@ -1,5 +1,5 @@
 # [[hdc0]]'s suggestions
-1. Add back the music tracks that were removed from the [[PC]] version due to the CD-ROM size limit
+1. Add back the music tracks that were removed from the [[OG-PC]] version due to the CD-ROM size limit
 2. Store used boss warps in the savegame
 3. Zero the memory pools at level start or initialize the position of the [[3-4 Climb the Devil's Tower!#Pet platform|pet platform]]
 4. Fix the translation to other languages < [[Thermospore|thermo]] note: fix what, specifically? >
@@ -10,13 +10,13 @@
 1. Keep glitches (see: #Glitch) in the game if they're useful for speedrunning and they're not going to infringe on a normal player's experience of the game. Some great examples of this are [[Upwarp|upwarps]], [[Cutscene Break|binocular skipping/cutscene breaks]] and [[Hazard Jump|hazard jumping]].
 2. If Croc 2 HD has to feature [[Jelly Jump]]s rather than Gummi Savers for copyright reasons, keep the bigger Gummi Saver hitbox on the new Jellies; they're much easier to land on and they make the jumps more forgiving.
 3. Add a collectible item that's automatically obtained upon collecting 100 [[Crystal]]s in a level, perhaps a Crystal Gobbo like the [[Golden Gobbo]]. These could be tracked against the save file, and could appear outside the level entrance alongside the Golden Gobbo.
-4. Add level names to the [[Pause Menu]], or have them appear as a text overlay when approaching a level door. They only appeared in the [[PS1|PlayStation]] version on load screens, and not at all in the [[PC]] version.
+4. Add level names to the [[Pause Menu]], or have them appear as a text overlay when approaching a level door. They only appeared in the [[OG-PSX|PlayStation]] version on load screens, and not at all in the [[OG-PC]] version.
 5. Improve the [[Minecart]] jump mechanic. Currently, jumping while the minecart is going up an incline will give you almost no height, making some [[Crystal]]s impossible to collect on the first run through a section. This issue is quite prevalent in [[1-2 Find 5 Lost Treasure Chests]]
 6. Improve the throwing mechanic. This is most relevant to [[4-1 Save 30 Gobbo Babies!]] due to the tendency for the babies to land outside the playpens when they shouldn't.
 7. Adjust the falling barrels puzzle room in [[4-3 Bride of the Dungeon of Defright]] to be a bit more forgiving. Currently, the barrels will sometimes spawn too far away from the player to be caught before they land and explode, which can make it frustratingly hard to collect 100 [[Crystal]]s on this level. This could be fixed by reducing the area in which they spawn, making them fall slower, making it easier to see where they're going to land, or just increasing the amount of time before the Crystals start ticking down.
 8. Adjust the default position of [[Rope|swinging ropes]] so that they always line up with when the player will reach them if they play the room optimally. This is already the case in the Golden Gobbo rooms on [[3-5 Save 50 Trapped Gobbos!]] and [[2-1 Save the Ice Trapped Gobbos!]], for example < [[Thermospore|thermo]] note: wait isn't [[2-1 Save the Ice Trapped Gobbos!|Icecube]] a known example of [[Rope]]s getting out of sync? [discussion](https://discord.com/channels/313375426112389123/408694062862958592/478788969161818112)>. This would probably involve resetting their position on every room transition.
 9. Currently, when the [[Golden Gobbo]] has been collected for a level, when you go back into that level the [[Color Crystal|Colour Crystal]]s are gone and the Golden Gobbo room becomes inaccessible. This also makes it impossible to collect 100 [[Crystal]]s in [[3-4 Climb the Devil's Tower!]] if you haven't already, because there are 10 crystals in the Golden Gobbo room. It would be better if they simply spawn like usual. Same with [[Jigsaw Piece|Puzzle Piece]]s in the [[Secret Level]]s; even if you've already collected them they're an easy way to exit the level, so the [[Swap Meet Pete Gong|exit gong]] could be removed from [[3-G Caveman Tribe - Secret Mine]] < [[Thermospore|thermo]] note: I like to think they left the gong there as a trick / fake-out; I kinda like it haha >.
-10. Alongside any other graphical enhancement options, have an option to choose between Croc's more polygonal [[PS1|PlayStation]] model, or the smoother one from the [[PC]] version. In the original PC version, the low poly model still appears in [[2-3 It's Just Snowball Madness!]], [[2-B1 Flavio the Thermal Fish]], and in the animations at the end of [[3-B1 Venus Fly Von-Trappe]] and [[2-B2 Lava Lamp Larry]], so with that option available, this could be fixed.
+10. Alongside any other graphical enhancement options, have an option to choose between Croc's more polygonal [[OG-PSX|PlayStation]] model, or the smoother one from the [[OG-PC]] version. In the original PC version, the low poly model still appears in [[2-3 It's Just Snowball Madness!]], [[2-B1 Flavio the Thermal Fish]], and in the animations at the end of [[3-B1 Venus Fly Von-Trappe]] and [[2-B2 Lava Lamp Larry]], so with that option available, this could be fixed.
 11. Improve the Item Selection UI. Make switching items instant rather than a slow fade between them. It would be nice to have a sound effect that confirms the change and a snappier visual cue.
 12. Have an "automatically use item" function, where if you're carrying the item needed for an interact spot, it will automatically use that item i.e. if you've got a [[Clockwork Gobbo]] and you're standing on the Clockwork Gobbo platform, use the Clockwork Gobbo even if you've got a [[Jelly Jump|Gummi Saver]] selected. This could also automatically select the right type of Gummi Saver, but if you don't have a good enough Gummi Saver for the spot, it'll just use the best one you've got.
 ## Larger Changes
@@ -38,17 +38,17 @@
 # [[Thermospore]]'s suggestions
 Here is some random stuff I've got ([source](https://discord.com/channels/313375426112389123/408694062862958592/1297503382717726740)). [[limbus]] has already covered most of my ideas
 ## Cosmetic stuff
-- In [[1-4 Croc Vs. Dantini Boat Race|Boat]] on [[PC]], the shadows under the trees before the waterfall shortcut are broken ([[Pasted image 20241102183155.png|screenshot]])
-- Croc's shadow clips / z-fights with the terrain (might be [[PC]] specific)
-- In [[2-B1 Flavio the Thermal Fish|Flavio]] on [[PC]], Croc doesn't have a shadow on the ground, which makes it more difficult to tell where you are
+- In [[1-4 Croc Vs. Dantini Boat Race|Boat]] on [[OG-PC]], the shadows under the trees before the waterfall shortcut are broken ([[Pasted image 20241102183155.png|screenshot]])
+- Croc's shadow clips / z-fights with the terrain (might be [[OG-PC]] specific)
+- In [[2-B1 Flavio the Thermal Fish|Flavio]] on [[OG-PC]], Croc doesn't have a shadow on the ground, which makes it more difficult to tell where you are
 - In [[4-1 Save 30 Gobbo Babies!|Babies]], the baby's models get garbled when they are thrown between the Dantinis ([[Pasted image 20241102190343.png|screenshot]])
 - No one is allowed to fix [this](https://clips.twitch.tv/SoftSpicyFlamingoDuDudu-iO2b9bZOUY4hcYHc), actually they should make it so it happens every time lol
 - Sometimes cutscenes break or don't play (EG, the cutscene in [[3-B1 Venus Fly Von-Trappe|Flytrap]] with the shot of the inside of its mouth)?
-- There is a reverb effect (IIRC only in caves?) on [[PS1]] that isn't on [[PC]]; it would be nice to bring that back!
+- There is a reverb effect (IIRC only in caves?) on [[OG-PSX]] that isn't on [[OG-PC]]; it would be nice to bring that back!
 ## Gameplay stuff
 - Like [[limbus]] says, it would be nice to leave in glitches that are fun / useful for speedruns, and don't negatively affect gameplay. For example [[Hazard Jump]]ing, [[Infinite Jump]], [[4-1 Save 30 Gobbo Babies!#Baby Zipping|Baby Zipping]], etc
-- It would be really nice to fix this: [[PS1#Input delay]]
-	- But it's not present on [[PC]], so maybe they already fixed it
+- It would be really nice to fix this: [[OG-PSX#Input delay]]
+	- But it's not present on [[OG-PC]], so maybe they already fixed it
 - Fix how Croc tends to fall off the top of [[Climbing Wall]]s / ladders. Worst offenders:
 	- The final wall in [[1-3 Get the Gobbo's Sandwich!|Crow]] ([[Pasted image 20241102184036.png|screenshot]])
 	- [[Pasted image 20240621194901.png|This]] ladder in [[4-1 Save 30 Gobbo Babies!|Babies]]

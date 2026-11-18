@@ -5,7 +5,7 @@ aliases:
 ---
 It is possible to clip into the door early, as discovered by [[Paulmall]] [2019-11-26](https://discord.com/channels/313375426112389123/408694062862958592/648824097597423636)
 - it is also possible (with the same technique or no?) for Secret Soveena ([discord](https://discord.com/channels/313375426112389123/408694062862958592/600156093435478048))
-- did anyone find better / more consistent technique? what about [[PS1]]?
+- did anyone find better / more consistent technique? what about [[OG-PSX]]?
 - (incorporate [this](https://discord.com/channels/313375426112389123/408694062862958592/1286287017843494973) info)
 
 Bonkers [[Individual Level|IL]] strat, but you can do a big chain of [[Hazard Jump]]s to collect the [[Crystal]]s under the [[Monkey Bars]] more quickly
@@ -19,8 +19,8 @@ The address for Soveena's lives is in your save slot for some reason. For the fi
 ![[Pasted image 20240918213051.png]]
 
 It turns out this is a generic **boss HP** field rather than a Soveena-specific one: it lives at offset `0x26C` inside the save slot and is reused by every boss. Save slots are `0x2000` bytes each, so:
-- [[PC#US]]: `Croc2.exe+2040C0` + (slot × `0x2000`) + `0x26C`
-- [[PC#EU]]: `Croc2.exe+20B2B0` + (slot × `0x2000`) + `0x26C`
+- [[OG-PC#US]]: `Croc2.exe+2040C0` + (slot × `0x2000`) + `0x26C`
+- [[OG-PC#EU]]: `Croc2.exe+20B2B0` + (slot × `0x2000`) + `0x26C`
 
 Outside of a boss fight the value sits at 2. It is set to 3 at the start of a fight and decrements with each hit. Setting it to 0 externally is not the same as killing the boss: the death animation plays, but the transition never fires and the game softlocks. The transition seems to be triggered by the damage handler decrementing the value, not by the value itself
 

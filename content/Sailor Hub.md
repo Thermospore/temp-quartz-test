@@ -5,7 +5,7 @@ aliases:
 ---
 You can [[OoB]] on the welcome door lmao [link](https://youtu.be/Qis5U9ihdd8&t=158)
 
-The layout of the entrance area is different between [[PC]] and [[PS1]] (did [[Nic Cusworth]] confirm (maybe in [this](https://youtu.be/Ud2UW0B3NNk?si=IoMQq5T5qcX1Bo-b) video?) if this was due to render distance limitations on PSX?)
+The layout of the entrance area is different between [[OG-PC]] and [[OG-PSX]] (did [[Nic Cusworth]] confirm (maybe in [this](https://youtu.be/Ud2UW0B3NNk?si=IoMQq5T5qcX1Bo-b) video?) if this was due to render distance limitations on PSX?)
 
 # Minigames
 ## Simon Says

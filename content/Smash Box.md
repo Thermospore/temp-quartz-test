@@ -7,7 +7,7 @@ aliases:
 
 A type of [[Box]] which contains a ring of 5 [[Crystal]]s. The debug name appears to be "Smash Box"
 # Version differences
-On [[PS1]] the radius of the [[Crystal]] ring is relatively large, and you must grab them one by one. On [[PC]] the Crystals are close together and can all be grabbed simultaneously.
+On [[OG-PSX]] the radius of the [[Crystal]] ring is relatively large, and you must grab them one by one. On [[OG-PC]] the Crystals are close together and can all be grabbed simultaneously.
 
 [[limbus]] presents a theory for this change:
 

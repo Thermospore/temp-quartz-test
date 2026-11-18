@@ -1,9 +1,11 @@
-- see also: [[PS1]]
+- see also: [[OG-PSX]]
+
+Original PC version from 2000
 
 Checking backlinks will probably reveal some platform / region differences
 # Regions
 ## US
-Same as with [[PS1]], this version has product placement [[Jelly Jump|Gummi Jump]]s, while the others have plain Jelly Jumps. This seems to provide an advantage, because the Gummi Jumps are wider. This, for example, allows you to make a jump in [[1-5 Save the Bird from the Thief|Theif]] / [[1-3 Get the Gobbo's Sandwich!|Sandwich]] with only a Blue, instead of the intended Green.
+Same as with [[OG-PSX]], this version has product placement [[Jelly Jump|Gummi Jump]]s, while the others have plain Jelly Jumps. This seems to provide an advantage, because the Gummi Jumps are wider. This, for example, allows you to make a jump in [[1-5 Save the Bird from the Thief|Theif]] / [[1-3 Get the Gobbo's Sandwich!|Sandwich]] with only a Blue, instead of the intended Green.
 ## EU
 This version has multiple European languages available, while the US version only has English
 

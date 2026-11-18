@@ -9,7 +9,7 @@ tags:
 
 Pronounced "Turbomosht". Named after a hot alcoholic winter drink from Brno, which explains a lot. 
 
-Running [[PC#EU]], on keyboard, out of sheer stubbornness
+Running [[OG-PC#EU]], on keyboard, out of sheer stubbornness
 
 Finds:
 - the [[2-1 Save the Ice Trapped Gobbos!#Cutscene breaks|Icecube CSBs]]
