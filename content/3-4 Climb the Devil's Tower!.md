@@ -5,6 +5,8 @@ aliases:
 ---
 You can get around the trigger that makes the pet move, and touch him early [like so](https://discord.com/channels/313375426112389123/408694062862958592/428819700114259969). But unfortunately this doesn't end the level early. < even if you skip the trigger and keep going to the end, is the pet still waiting for you in the end room? >
 
+Sometimes you collect an extra crystal from [[Pasted image 20261119125418.png|this crystal ring]] ([youtube](https://www.youtube.com/watch?v=jSiws63cZug&t=9199s), [discord](https://discord.com/channels/313375426112389123/408694062862958592/1572689789986021397)). This allows you to finish the level with 101 crystals
+
 On both [[OG-PC]] and [[OG-PSX|PSX]] you can [[Upwarp]] [here](https://discord.com/channels/313375426112389123/408694062862958592/1290131911879954483), which is useful for [[Max%]]
 
 You can [[Death Abuse|DA]] into the lava while grabbing the [[Golden Gobbo]], which puts you straight back at the [[Save Gong]] instead of grabbing it, waiting for the warp and then DAing ([2026-05-28](https://discord.com/channels/313375426112389123/408694062862958592/1509374275130359829), [[Turbomost|Turbomošt]])
