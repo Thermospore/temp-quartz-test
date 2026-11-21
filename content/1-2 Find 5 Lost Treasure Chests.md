@@ -46,6 +46,8 @@ For [[Pasted image 20241006215824.png|the 2nd]] [[Minecart]] section, [[Thermosp
 < what are the best strats for the various phases of [[Pasted image 20240626212515.png|this]] [[1-2 Find 5 Lost Treasure Chests#Elevator platform|Elevator platform]] cycle?? >
 
 [[chests_shover_clip.mov|Here]] is a funky [[OoB]] [[Thermospore|thermo]] got on the shover thingy
+# Glitching the minecart doors open
+By using an [[Infinite Jump]] to die while going through a door on a [[Minecart]], all the doors in the level will open for you even without being on a Minecart ([video](https://youtu.be/0wD_BkE7z4U?si=ivZ8jFsWg1soRIWH))
 # Elevator platform
 [[Pasted image 20240626212046.png|These]] elevator things are present on both the left and right side. Their movement cycle has the following characteristics:
 - starts from the moment you enter the level
