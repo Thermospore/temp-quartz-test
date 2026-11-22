@@ -6,4 +6,4 @@ Thankfully the bug is fixed in [[HD]]:
 
 > The PSX version has a function called `init_gamestate`. In the remaster it was extended so that the very first thing that happens when `GameState == GS_TITLE` is to set `IntrosTriggered = 0`. ([source](https://discord.com/channels/313375426112389123/1533834309360680970/1574080218992218116))
 # Delay / prevention
-If you want to delay/prevent the boss warp (ex for routing reasons), you can exit the final level using a [[Game Over Abuse|GOA]]. You will still get the boss warp the next time you exit a level without [[Game Over Abuse|GOA]].
+If you want to delay/prevent the boss warp (ex for routing reasons), you can exit the final level of the tribe using [[Game Over Abuse|GOA]]. You will still get the boss warp the next time you exit a level without [[Game Over Abuse|GOA]].
