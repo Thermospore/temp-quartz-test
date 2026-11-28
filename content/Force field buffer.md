@@ -4,7 +4,7 @@ tags:
 ---
 [[OG-PC]] only glitch, which lets you enter the game with a big momentum boost
 
-Originally discovered by [[limbus]] < find the original discord post >
+Originally discovered by [[limbus]] < add link to original discovery >
 
 This glitch has not been thoroughly explored yet, and could have speedrunning applications
 # Videos
