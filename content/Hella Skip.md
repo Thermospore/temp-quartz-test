@@ -9,7 +9,7 @@ generally used in that one level in [[Lost Levels|Secret]], but the geometry exi
 ![[Pasted image 20240618220717.png]]
 # Setup
 ## [[OG-PC]]
-[Here](https://youtu.be/edmVLZorxPM?si=tUkhSCUJYuLC2lhZ) is a video demonstrating a setup. < should write it up / make it easier to understand)
+[Here](https://youtu.be/edmVLZorxPM?si=tUkhSCUJYuLC2lhZ) is a video demonstrating a setup. < should write it up / make it easier to understand >
 ## [[HD]]
 Need to find a setup for [[HD]], but Hella Skip is confirmed possible:
 ![[C2HD hella skip.mp4]]
