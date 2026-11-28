@@ -1,6 +1,6 @@
 Once you have unlocked the final boss for a tribe, the game will automatically warp you into it. This is often desirable, because it means you don't have to walk across the map to the boss.
 # Bug
-[[OG-PC]] has a #Glitch where the boss warp flags (`IntrosTriggered`) are not reset upon exiting to the main menu. This means if you reset a run after getting a boss warp, you will not get a boss warp in your next run (= huge time loss :SnowSad:).
+[[OG-PC]] has a bug where the boss warp flags (`IntrosTriggered`) are not reset upon exiting to the main menu. This means if you reset a run after getting a boss warp, you will not get a boss warp in your next run (= huge time loss :SnowSad:).
 
 To prevent the bug, simply restart your game to reset the boss warp flags.
 
